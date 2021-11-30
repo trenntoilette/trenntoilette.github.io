@@ -6,6 +6,7 @@ html {
 }
 
 body {
+  font-display: swap;
   line-height: 1.6;
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
