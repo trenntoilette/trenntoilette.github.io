@@ -57,7 +57,7 @@ gulp.task('copy-plugins', function() {
 });
 
 gulp.task('copySEOfiles', function() {
-  return gulp.src(['robots.txt', 'sitemap.xml'])
+  return gulp.src(['robots.txt', 'sitemap.xml', 'CNAME'])
    .pipe(gulp.dest('docs/'));
 });
 
