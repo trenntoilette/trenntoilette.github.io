@@ -20,7 +20,9 @@ gulp.task('styles', function () {
       // Auto-prefix css styles for cross browser compatibility
       .pipe(autoprefixer({}))
       // Minify the file
-      .pipe(csso())
+      .pipe(csso({
+        restructure: false
+      }))
       // Output
       .pipe(gulp.dest('./docs/css'))
   });
