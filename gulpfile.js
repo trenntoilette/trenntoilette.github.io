@@ -7,6 +7,7 @@ var gulp = require('gulp');
 var htmlmin = require('gulp-htmlmin');
 var uglify = require('gulp-uglify');
 var imagemin = require('gulp-imagemin');
+var purgecss = require('gulp-purgecss');
 
 
 // Clean output directory
@@ -63,4 +64,12 @@ gulp.task('copySEOfiles', function() {
    .pipe(gulp.dest('docs/'));
 });
 
-gulp.task('default', gulp.series('clean', 'copySEOfiles', 'copy-plugins', 'images', 'pages', 'scripts', 'styles'))
+gulp.task('purgecss', () => {
+  return gulp.src(['css/*.css', 'plugins/bootstrap/css/*.css'])
+      .pipe(purgecss({
+          content: ['*.html']
+      }))
+      .pipe(gulp.dest('docs/css'))
+})
+
+gulp.task('default', gulp.series('clean', 'purgecss', 'copySEOfiles', 'copy-plugins', 'images', 'pages', 'scripts', 'styles'))
