@@ -9,15 +9,17 @@
 @font-face
 {
  
-  font-family: "IcoFont";
+font-family: "IcoFont";
 font-weight: normal;
 font-style: "Regular";
+font-display: swap;
 src: url("./fonts/icofont.woff2") format("woff2"),
 url("./fonts/icofont.woff") format("woff");
 }
 
 [class^="icofont-"], [class*=" icofont-"]
 {
+  font-display: swap;
   font-family: 'IcoFont' !important;
   speak: none;
   font-style: normal;
