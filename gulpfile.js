@@ -65,7 +65,7 @@ gulp.task('copySEOfiles', function() {
 });
 
 gulp.task('purgecss', () => {
-  return gulp.src(['css/*.css', 'plugins/bootstrap/css/*.css'])
+  return gulp.src('css/*.css')
       .pipe(purgecss({
           content: ['*.html']
       }))
