@@ -19,6 +19,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-family: "Exo", sans-serif;
   font-weight: 700;
   color: #222;
+  font-display: swap;
 }
 
 h1, .h1 {
@@ -92,6 +93,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   border-radius: 5px;
   border: 2px solid transparent;
   transition: all .35s ease;
+  font-display: swap;
 }
 
 .btn.btn-icon i {
@@ -381,6 +383,7 @@ a:focus {
   text-transform: capitalize;
   font-size: 16px;
   transition: all .25s ease;
+  font-display: swap;
 }
 
 .dropdown-toggle::after {
