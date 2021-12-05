@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.trenntoilette.net/</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-05</lastmod>
   </url>
   <url>
     <loc>https://www.trenntoilette.net/trobolo-terabloem.html</loc>
-    <lastmod>2021-11-30</lastmod>
+    <lastmod>2021-12-05</lastmod>
+  </url>
+  <url>
+    <loc>file:///home/kempo/git/trenntoilette/trenntoilette.github.io/trobolo-kersaboem.html</loc>
+    <lastmod>2021-12-05</lastmod>
   </url>
 </urlset>
