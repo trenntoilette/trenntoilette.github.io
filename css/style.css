@@ -463,9 +463,10 @@ a:focus {
   position: relative;
   overflow: hidden;
   background: #fff;
-  background: url("../images/bg/trenntoilette-garten.jpg") no-repeat;
+  /* background: url("../images/bg/trenntoilette-garten.jpg") no-repeat; */
   background-size: cover;
   min-height: 550px;
+  background: linear-gradient(134deg, #245037 0, #2ecc9d 100%)
 }
 
 .banner .block {
