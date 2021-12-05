@@ -239,7 +239,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   letter-spacing: 1px;
 }
 
-.overlay:before {
+.overlay {
   content: "";
   position: absolute;
   left: 0;
@@ -249,7 +249,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   width: 100%;
   height: 100%;
   opacity: 0.9;
-	background: linear-gradient(134deg,#245037 0,#2ecc9d 100%);
+  background: linear-gradient(134deg,#245037 0,#2ecc9d 100%);
 }
 
 .overly-2 {
