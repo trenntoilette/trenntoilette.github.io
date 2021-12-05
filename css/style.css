@@ -506,7 +506,8 @@ a:focus {
   }
   .banner {
     min-height: 450px;
-    background: #fff !important;
+    background-size: cover;
+    background: linear-gradient(134deg, #245037 0, #2ecc9d 100%)
   }
 }
 
@@ -517,23 +518,26 @@ a:focus {
   }
   .banner {
     min-height: 450px;
-    background: #fff !important;
+    background-size: cover;
+    background: linear-gradient(134deg, #245037 0, #2ecc9d 100%)
   }
 }
 
 @media (max-width: 768px) {
   .banner .block h1 {
-    font-size: 56px;
     line-height: 70px;
   }
   .banner {
-    background: #fff !important;
+    background-size: cover;
+    background: linear-gradient(134deg, #245037 0, #2ecc9d 100%)
   }
 }
 
 @media (max-width: 992px) {
   .banner {
-    background: #fff !important;
+    background-size: cover;
+    background: linear-gradient(134deg, #245037 0, #2ecc9d 100%)
+
   }
 }
 
