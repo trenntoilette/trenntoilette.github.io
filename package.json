@@ -10,7 +10,7 @@
   },
   "scripts": {
     "build": "gulp",
-    "deploy": "gulp; git add docs/*; git add docs/**/*; git commit -am 'npm run deploy'; git push -u origin master"
+    "deploy": "gulp default; git add docs/*; git add docs/**/*; git commit -am 'npm run deploy'; git push -u origin master"
   },
   "browserslist": [
     "ie >= 10",
