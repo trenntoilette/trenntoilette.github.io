@@ -39,7 +39,7 @@ gulp.task('scripts', function() {
 
 // minify the html files in the ./gartentoilette folder and copy them to the docs folder
 gulp.task('subpages', function() {
-    return gulp.src('./gartentoilette/*.html', { base: './' })
+    return gulp.src(['./gartentoilette/*.html', './campingtoilette/*.html'], { base: './' })
         .pipe(htmlmin({
             collapseWhitespace: true,
             removeComments: true,
