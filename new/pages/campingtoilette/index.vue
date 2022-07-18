@@ -310,3 +310,25 @@
     </section>
     </div>
 </template>
+
+
+<script>
+export default {
+    name: 'campingtoilette'
+    head: {
+        title: 'Campingtoilette - Testsieger',
+        meta: [
+            {
+                hid: 'description',
+                name: 'description',
+                content: 'Campingtoiletten im Test. Finde die richtige Campingtoilette. Wir haben einen Testsieger und kostenlosen Testbericht. Jetzt Testbericht vor dem Kauf lesen.'
+            },
+            {
+                hid: 'author',
+                name: 'author',
+                content: 'trenntoilette.net'
+            }
+        ]
+    }
+}
+</script>

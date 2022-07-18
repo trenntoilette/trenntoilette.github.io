@@ -817,8 +817,6 @@ export default {
   head: {
     title: "Trenntoilette - Alle Testsieger im Überblick",
     meta: [
-      { charset: "utf-8" },
-      { name: "viewport", content: "width=device-width, initial-scale=1.0" },
       {
         hid: "description",
         name: "description",
