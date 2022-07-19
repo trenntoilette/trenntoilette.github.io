@@ -34,6 +34,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    '@/plugins/jsonld.js'
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -45,9 +46,34 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    '@nuxtjs/sitemap',
+    '@nuxtjs/robots',
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+    publicPath: '/assets/',
+    parallel: true,
+    cache: true,
+    hardSource: true,
+    html: {
+        minify: {
+            collapseBooleanAttributes: true,
+            decodeEntities: true,
+            minifyCSS: true,
+            minifyJS: true,
+            processConditionalComments: true,
+            removeEmptyAttributes: true,
+            removeRedundantAttributes: true,
+            trimCustomFragments: true,
+            useShortDoctype: true
+        }
+    }
+},
+
+  // sitemap
+  sitemap: {
+    hostname: 'https://trenntoilette.net',
+    gzip: true,
+  },
 }

@@ -28,7 +28,7 @@
           <div class="col-lg-12">
             <div class="department-img">
               <img
-                src="images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
+                src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
                 alt="Campingtoilette TROBOLO WandaGO"
                 class="img-fluid"
               />
@@ -81,18 +81,18 @@
               <div class="divider my-4"></div>
               <ul class="list-unstyled department-service lead">
                 <li>
-                  <img src="images/icons/check.webp" /> Qualität des Materials
+                  <img src="/images/icons/check.webp" /> Qualität des Materials
                 </li>
-                <li><img src="images/icons/check.webp" /> Sitzkomfort</li>
+                <li><img src="/images/icons/check.webp" /> Sitzkomfort</li>
                 <li>
-                  <img src="images/icons/check.webp" /> Möglichkeiten für
+                  <img src="/images/icons/check.webp" /> Möglichkeiten für
                   Ersatzteile
                 </li>
                 <li>
-                  <img src="images/icons/check.webp" /> Geruchsentwicklung
+                  <img src="/images/icons/check.webp" /> Geruchsentwicklung
                 </li>
-                <li><img src="images/icons/check.webp" /> Entleerung</li>
-                <li><img src="images/icons/check.webp" /> Preis</li>
+                <li><img src="/images/icons/check.webp" /> Entleerung</li>
+                <li><img src="/images/icons/check.webp" /> Preis</li>
               </ul>
             </div>
           </div>
@@ -160,6 +160,72 @@ export default {
           "Die WandaGO Campingtoilette von TROBOLO® im Test. Eine vorgefertigte Campingtoilette, die speziell für den Bereich Camping und Outdoor konzipiert wurde.",
       },
     ],
+  },
+  jsonld() {
+    return {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          name: "WandaGO",
+          image: [
+            "https://www.trenntoilette.net/images/trenntoiletten/campingtoilette-trobolo-wandago.webp",
+          ],
+          description:
+            "Das WandaGO von TROBOLO® ist eine vorgefertigte Trenntoilette, die speziell für den Bereich Camping und Outdoor konzipiert wurde.",
+          sku: "P1XX1403",
+          mpn: "48648",
+          brand: {
+            "@type": "Brand",
+            name: "TROBOLO",
+          },
+          review: {
+            "@type": "Review",
+            reviewRating: {
+              "@type": "Rating",
+              ratingValue: "5",
+              bestRating: "5",
+            },
+            author: {
+              "@type": "Organization",
+              name: "Trenntoilette.net",
+            },
+          },
+          aggregateRating: {
+            "@type": "AggregateRating",
+            ratingValue: "4.9",
+            reviewCount: "21",
+          },
+          offers: {
+            "@type": "Offer",
+            url: "https://www.trenntoilette.net/trobolo-wandago",
+            priceCurrency: "EUR",
+            price: "199.00",
+            priceValidUntil: "2023-11-20",
+            itemCondition: "https://schema.org/NewCondition",
+            availability: "https://schema.org/InStock",
+          },
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            {
+              "@type": "ListItem",
+              position: 1,
+              name: "Testsieger",
+              item: "https://www.trenntoilette.net/",
+            },
+            {
+              "@type": "ListItem",
+              position: 2,
+              name: "WandaGO",
+            },
+          ],
+        },
+      ],
+    };
   },
 };
 </script>

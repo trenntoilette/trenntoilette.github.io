@@ -55,14 +55,14 @@
 
                 <div class="col-lg-4 col-md-6 offset-md-3 offset-lg-4">
                     <div class="department-block mb-5">
-                        <a href="/trobolo-wandago.html" title="TROBOLO WandaGO">
+                        <a href="/trobolo-wandago" title="TROBOLO WandaGO">
                             <img src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp" alt="Campingtoilette TROBOLO KersaBoem" class="img-fluid w-100">
                         </a>
                         <div class="content">
                             <div class="h5 mt-4 mb-2 title-color">Testsieger<br />"Campingtoiletten"</div>
                             <div class="h3 mt-4 mb-2  title-color">TROBOLO® WandaGO</div>
                             <p class="mb-4 lead">Testsieger WandaGO von TROBOLO. Autarke Campingtoilette für's Camping, Van oder Wohnmobil.</p>
-                            <a href="/trobolo-wandago.html" title="TROBOLO WandaGO">
+                            <a href="/trobolo-wandago" title="TROBOLO WandaGO">
                                 <h4>Zum Testbericht >
                                 </h4>
                             </a>
@@ -72,7 +72,7 @@
 
                 <!-- <div class="col-lg-4 col-md-6">
                     <div class="department-block mb-5">
-                        <a href="kildwick-miniloo.html" title="Kildwick MiniLoo">
+                        <a href="/kildwick-miniloo" title="Kildwick MiniLoo">
                             <img src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
                                 alt="Camping Toilette Kildwick MiniLoo" class="img-fluid w-100">
                         </a>
@@ -81,7 +81,7 @@
                             <h3 class="mt-4 mb-2 title-color">Kildwick MiniLoo</h3>
                             <p class="mb-4 lead">Die Camping Toilette als Bausatz. Kostengünstig, Platzsparend und
                                 leicht im Gewicht.</p>
-                            <a href="kildwick-miniloo.html" title="Kildwick MiniLoo">
+                            <a href="/kildwick-miniloo" title="Kildwick MiniLoo">
                                 <h4>Zum Testbericht ></i>
                                 </h4>
                             </a>
@@ -186,7 +186,7 @@
                     <div class="position-relative doctor-inner-box">
                         <div class="doctor-profile">
                             <div class="doctor-img">
-                                <a href="/trobolo-wandago.html" title="TROBOLO WandaGO">
+                                <a href="/trobolo-wandago" title="TROBOLO WandaGO">
                                     <img src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
                                         alt="Campingtoilette TROBOLO WandaGO"
                                         class="trenntoiletteImageSieger img-fluid w-100">
@@ -194,7 +194,7 @@
                             </div>
                         </div>
                         <div class="content mt-3">
-                            <h4 class="mb-0"><a href="/trobolo-wandago.html" title="TROBOLO WandaGO">WandaGO</a></h4>
+                            <h4 class="mb-0"><a href="/trobolo-wandago" title="TROBOLO WandaGO">WandaGO</a></h4>
                             <p class="lead">Trobolo</p>
                         </div>
                     </div>
@@ -205,7 +205,7 @@
                     <div class="position-relative doctor-inner-box">
                         <div class="doctor-profile">
                             <div class="doctor-img">
-                                <a href="kildwick-miniloo.html" title="Kildwick MiniLoo">
+                                <a href="/kildwick-miniloo" title="Kildwick MiniLoo">
                                     <img src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
                                         alt="Camping Toilette Kildwick MiniLoo"
                                         class="trenntoiletteImageSieger img-fluid w-100">
@@ -213,7 +213,7 @@
                             </div>
                         </div>
                         <div class="content mt-3">
-                            <h4 class="mb-0"><a href="kildwick-miniloo.html" title="Kildwick MiniLoo">Kildwick
+                            <h4 class="mb-0"><a href="/kildwick-miniloo" title="Kildwick MiniLoo">Kildwick
                                     MiniLoo</a></h4>
                             <p class="lead">Kildwick</p>
                         </div>
@@ -314,7 +314,7 @@
 
 <script>
 export default {
-    name: 'campingtoilette'
+    name: 'campingtoilette',
     head: {
         title: 'Campingtoilette - Testsieger',
         meta: [

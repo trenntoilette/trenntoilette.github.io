@@ -28,7 +28,7 @@
           <div class="col-lg-12">
             <div class="department-img">
               <img
-                src="images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
+                src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
                 alt="Trenntoilette TROBOLO TeraBloem"
                 class="img-fluid"
               />
@@ -66,18 +66,18 @@
               <div class="divider my-4"></div>
               <ul class="list-unstyled department-service lead">
                 <li>
-                  <img src="images/icons/check.webp" /> Qualität des Materials
+                  <img src="/images/icons/check.webp" /> Qualität des Materials
                 </li>
-                <li><img src="images/icons/check.webp" /> Sitzkomfort</li>
+                <li><img src="/images/icons/check.webp" /> Sitzkomfort</li>
                 <li>
-                  <img src="images/icons/check.webp" /> Möglichkeiten für
+                  <img src="/images/icons/check.webp" /> Möglichkeiten für
                   Ersatzteile
                 </li>
                 <li>
-                  <img src="images/icons/check.webp" /> Geruchsentwicklung
+                  <img src="/images/icons/check.webp" /> Geruchsentwicklung
                 </li>
-                <li><img src="images/icons/check.webp" /> Entleerung</li>
-                <li><img src="images/icons/check.webp" /> Preis</li>
+                <li><img src="/images/icons/check.webp" /> Entleerung</li>
+                <li><img src="/images/icons/check.webp" /> Preis</li>
               </ul>
             </div>
           </div>
@@ -145,6 +145,72 @@ export default {
           "Die TeraBloem Trenntoilette von TROBOLO&reg; ist der Testsieger in der Kategorie: Trenntoilette f&uuml;r zu Hause.",
       },
     ],
+  },
+  jsonld() {
+    return {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          name: "TeraBloem",
+          image: [
+            "https://www.trenntoilette.net/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp",
+          ],
+          description:
+            "Die TeraBloem Trenntoilette von TROBOLO zeichnet sich durch ausgezeichnete Qualität aus. Sie ist überall, auch ohne Wasseranschluss, nutzbar.",
+          sku: "S5XX1392ES",
+          mpn: "24542",
+          brand: {
+            "@type": "Brand",
+            name: "TROBOLO",
+          },
+          review: {
+            "@type": "Review",
+            reviewRating: {
+              "@type": "Rating",
+              ratingValue: "5",
+              bestRating: "5",
+            },
+            author: {
+              "@type": "Organization",
+              name: "Trenntoilette.net",
+            },
+          },
+          aggregateRating: {
+            "@type": "AggregateRating",
+            ratingValue: "4.9",
+            reviewCount: "84",
+          },
+          offers: {
+            "@type": "Offer",
+            url: "https://www.trenntoilette.net/trobolo-terabloem",
+            priceCurrency: "EUR",
+            price: "429.00",
+            priceValidUntil: "2023-11-20",
+            itemCondition: "https://schema.org/NewCondition",
+            availability: "https://schema.org/InStock",
+          },
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            {
+              "@type": "ListItem",
+              position: 1,
+              name: "Testsieger",
+              item: "https://www.trenntoilette.net/",
+            },
+            {
+              "@type": "ListItem",
+              position: 2,
+              name: "TeraBloem",
+            },
+          ],
+        },
+      ],
+    };
   },
 };
 </script>

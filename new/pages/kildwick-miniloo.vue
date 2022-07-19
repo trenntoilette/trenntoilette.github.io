@@ -29,7 +29,7 @@
           <div class="col-lg-12">
             <div class="department-img">
               <img
-                src="images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
+                src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
                 alt="Camping Toilette Kildwick MiniLoo"
                 class="img-fluid"
               />
@@ -77,17 +77,17 @@
               <div class="divider my-4"></div>
               <ul class="list-unstyled department-service lead">
                 <li>
-                  <img src="images/icons/check.webp" /> Qualität des Materials
+                  <img src="/images/icons/check.webp" /> Qualität des Materials
                 </li>
-                <li><img src="images/icons/check.webp" /> Mobilität</li>
-                <li><img src="images/icons/check.webp" /> Sitzkomfort</li>
-                <li><img src="images/icons/check.webp" /> Gewicht</li>
+                <li><img src="/images/icons/check.webp" /> Mobilität</li>
+                <li><img src="/images/icons/check.webp" /> Sitzkomfort</li>
+                <li><img src="/images/icons/check.webp" /> Gewicht</li>
                 <li>
-                  <img src="images/icons/check.webp" /> Geruchsentwicklung
+                  <img src="/images/icons/check.webp" /> Geruchsentwicklung
                 </li>
-                <li><img src="images/icons/check.webp" /> Entleerung</li>
-                <li><img src="images/icons/check.webp" /> Hygiene</li>
-                <li><img src="images/icons/check.webp" /> Preis</li>
+                <li><img src="/images/icons/check.webp" /> Entleerung</li>
+                <li><img src="/images/icons/check.webp" /> Hygiene</li>
+                <li><img src="/images/icons/check.webp" /> Preis</li>
               </ul>
             </div>
           </div>
@@ -156,6 +156,71 @@ export default {
       },
     ],
     script: [{ src: "js/main.js", type: "text/javascript", body: true }],
+  },
+  jsonld() {
+    return {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          name: "MiniLoo",
+          image: [
+            "https://www.trenntoilette.net/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp",
+          ],
+          description:
+            "Die MiniLoo Camping Toilette von Kildwick eignet sich hervorragend für unterwegs. Sie ist leicht, platzsparend und kostengünstig",
+          sku: "1000221",
+          brand: {
+            "@type": "Brand",
+            name: "Kildwick",
+          },
+          review: {
+            "@type": "Review",
+            reviewRating: {
+              "@type": "Rating",
+              ratingValue: "4.7",
+              bestRating: "5",
+            },
+            author: {
+              "@type": "Organization",
+              name: "Trenntoilette.net",
+            },
+          },
+          aggregateRating: {
+            "@type": "AggregateRating",
+            ratingValue: "4.7",
+            reviewCount: "420",
+          },
+          offers: {
+            "@type": "Offer",
+            url: "https://www.trenntoilette.net/kildwick-miniloo",
+            priceCurrency: "EUR",
+            price: "579.00",
+            priceValidUntil: "2023-11-20",
+            itemCondition: "https://schema.org/NewCondition",
+            availability: "https://schema.org/InStock",
+          },
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            {
+              "@type": "ListItem",
+              position: 1,
+              name: "Testsieger",
+              item: "https://www.trenntoilette.net/",
+            },
+            {
+              "@type": "ListItem",
+              position: 2,
+              name: "MiniLoo",
+            },
+          ],
+        },
+      ],
+    };
   },
 };
 </script>

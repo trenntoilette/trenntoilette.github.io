@@ -33,12 +33,12 @@
           <div class="col-lg-4 col-sm-6">
             <div class="about-img">
               <img
-                src="images/trenntoiletten/trenntoilette-trobolo-luwebloem-im-haus.webp"
+                src="/images/trenntoiletten/trenntoilette-trobolo-luwebloem-im-haus.webp"
                 alt="Trenntoilette TROBOLO LuweBloem beim Camping"
                 class="img-fluid"
               />
               <img
-                src="images/trenntoiletten/trenntoilette-trobolo-luwebloem-camper.webp"
+                src="/images/trenntoiletten/trenntoilette-trobolo-luwebloem-camper.webp"
                 alt="Trenntoilette TROBOLO LuweBloem im Haus"
                 class="img-fluid mt-4"
               />
@@ -47,7 +47,7 @@
           <div class="col-lg-4 col-sm-6">
             <div class="about-img mt-4 mt-lg-0">
               <img
-                src="images/trenntoiletten/trenntoilette-trobolo-kersaboem-garten.webp"
+                src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem-garten.webp"
                 alt="Garten-Trenntoilette TROBOLO KersaBœm"
                 class="img-fluid"
               />
@@ -91,9 +91,9 @@
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="department-block mb-5">
-              <a href="trobolo-terabloem.html" title="TROBOLO TeraBloem">
+              <a href="/trobolo-terabloem" title="TROBOLO TeraBloem">
                 <img
-                  src="images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
+                  src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
                   alt="Trenntoilette TROBOLO TeraBloem"
                   class="img-fluid w-100"
                 />
@@ -107,7 +107,7 @@
                   Testsieger TeraBlœm von Trobolo. Ausgezeichnete Qualität bei
                   bestem Komfort und Preis.
                 </p>
-                <a href="trobolo-terabloem.html" title="TROBOLO TeraBloem">
+                <a href="/trobolo-terabloem" title="TROBOLO TeraBloem">
                   <h4>Zum Testbericht ></h4>
                 </a>
               </div>
@@ -116,9 +116,9 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="department-block mb-5">
-              <a href="trobolo-kersaboem.html" title="TROBOLO KersaBoem">
+              <a href="/trobolo-kersaboem" title="TROBOLO KersaBoem">
                 <img
-                  src="images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
+                  src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
                   alt="Trenntoilette TROBOLO KersaBoem"
                   class="img-fluid w-100"
                 />
@@ -132,7 +132,7 @@
                   Testsieger KersaBœm von Trobolo. Autarke Trenntoilette für den
                   Garten. Mit Trenn- und Abluftsystem.
                 </p>
-                <a href="trobolo-kersaboem.html" title="TROBOLO KersaBoem">
+                <a href="/trobolo-kersaboem" title="TROBOLO KersaBoem">
                   <h4>Zum Testbericht ></h4>
                 </a>
               </div>
@@ -141,9 +141,9 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="department-block mb-5">
-              <a href="kildwick-miniloo.html" title="Kildwick MiniLoo">
+              <a href="/kildwick-miniloo" title="Kildwick MiniLoo">
                 <img
-                  src="images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
+                  src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
                   alt="Camping Toilette Kildwick MiniLoo"
                   class="img-fluid w-100"
                 />
@@ -157,7 +157,7 @@
                   Die Camping Toilette als Bausatz. Kostengünstig, Platzsparend
                   und leicht im Gewicht.
                 </p>
-                <a href="kildwick-miniloo.html" title="Kildwick MiniLoo">
+                <a href="/kildwick-miniloo" title="Kildwick MiniLoo">
                   <h4>Zum Testbericht ></h4>
                 </a>
               </div>
@@ -186,7 +186,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img class="text-lg" src="images/icons/chemie.webp" />
+                <img class="text-lg" src="/images/icons/chemie.webp" />
                 <h4 class="mt-3 mb-3">Chemiefrei</h4>
               </div>
 
@@ -201,7 +201,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img class="text-lg" src="images/icons/wasser.webp" />
+                <img class="text-lg" src="/images/icons/wasser.webp" />
                 <h4 class="mt-3 mb-3">Wasserersparnis</h4>
               </div>
               <div class="content">
@@ -215,7 +215,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img class="text-lg" src="images/icons/geruchsfrei.webp" />
+                <img class="text-lg" src="/images/icons/geruchsfrei.webp" />
                 <h4 class="mt-3 mb-3">Geruchsfrei</h4>
               </div>
               <div class="content">
@@ -229,7 +229,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img class="text-lg" src="images/icons/muelleimer.webp" />
+                <img class="text-lg" src="/images/icons/muelleimer.webp" />
                 <h4 class="mt-3 mb-3">Einfache Entsorgung</h4>
               </div>
 
@@ -244,7 +244,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img class="text-lg" src="images/icons/umweltfreundlich.webp" />
+                <img class="text-lg" src="/images/icons/umweltfreundlich.webp" />
                 <h4 class="mt-3 mb-3">Umweltfreundlich</h4>
               </div>
               <div class="content">
@@ -258,7 +258,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img class="text-lg" src="images/icons/nachhaltig.webp" />
+                <img class="text-lg" src="/images/icons/nachhaltig.webp" />
                 <h4 class="mt-3 mb-3">Nachhaltig</h4>
               </div>
               <div class="content">
@@ -324,9 +324,9 @@
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
-                  <a href="trobolo-terabloem.html" title="TROBOLO TeraBloem">
+                  <a href="/trobolo-terabloem" title="TROBOLO TeraBloem">
                     <img
-                      src="images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
+                      src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
                       alt="Trenntoilette TROBOLO TeraBloem"
                       class="trenntoiletteImageSieger img-fluid w-100"
                     />
@@ -335,7 +335,7 @@
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="trobolo-terabloem.html" title="TROBOLO TeraBloem"
+                  <a href="/trobolo-terabloem" title="TROBOLO TeraBloem"
                     >TeraBlœm</a
                   >
                 </h4>
@@ -351,9 +351,9 @@
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
-                  <a href="trobolo-kersaboem.html" title="TROBOLO KersaBoem">
+                  <a href="/trobolo-kersaboem" title="TROBOLO KersaBoem">
                     <img
-                      src="images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
+                      src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
                       alt="Trenntoilette TROBOLO KersaBoem"
                       class="trenntoiletteImageSieger img-fluid w-100"
                     />
@@ -362,7 +362,7 @@
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="trobolo-kersaboem.html" title="TROBOLO KersaBoem"
+                  <a href="/trobolo-kersaboem" title="TROBOLO KersaBoem"
                     >KersaBœm</a
                   >
                 </h4>
@@ -378,9 +378,9 @@
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
-                  <a href="trobolo-kitaboem.html" title="TROBOLO KitaBœm">
+                  <a href="/trobolo-kitaboem" title="TROBOLO KitaBœm">
                     <img
-                      src="images/trenntoiletten/trenntoilette-trobolo-kitaboem.webp"
+                      src="/images/trenntoiletten/trenntoilette-trobolo-kitaboem.webp"
                       alt="Trenntoilette TROBOLO KitaBoem"
                       class="trenntoiletteImageSieger img-fluid w-100"
                     />
@@ -389,7 +389,7 @@
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="trobolo-kitaboem.html" title="TROBOLO KitaBoem"
+                  <a href="/trobolo-kitaboem" title="TROBOLO KitaBoem"
                     >KitaBœm</a
                   >
                 </h4>
@@ -405,9 +405,9 @@
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
-                  <a href="trobolo-wandago.html" title="TROBOLO WandaGO">
+                  <a href="/trobolo-wandago" title="TROBOLO WandaGO">
                     <img
-                      src="images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
+                      src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
                       alt="Campingtoilette TROBOLO WandaGO"
                       class="trenntoiletteImageSieger img-fluid w-100"
                     />
@@ -416,7 +416,7 @@
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="trobolo-wandago.html" title="TROBOLO WandaGO"
+                  <a href="/trobolo-wandago" title="TROBOLO WandaGO"
                     >WandaGO</a
                   >
                 </h4>
@@ -432,9 +432,9 @@
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
-                  <a href="kildwick-miniloo.html" title="Kildwick MiniLoo">
+                  <a href="/kildwick-miniloo" title="Kildwick MiniLoo">
                     <img
-                      src="images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
+                      src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
                       alt="Camping Toilette Kildwick MiniLoo"
                       class="trenntoiletteImageSieger img-fluid w-100"
                     />
@@ -443,7 +443,7 @@
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="kildwick-miniloo.html" title="Kildwick MiniLoo"
+                  <a href="/kildwick-miniloo" title="Kildwick MiniLoo"
                     >Kildwick MiniLoo</a
                   >
                 </h4>
@@ -460,7 +460,7 @@
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <img
-                    src="images/trenntoiletten/trenntoilette-trelino-trelino.webp"
+                    src="/images/trenntoiletten/trenntoilette-trelino-trelino.webp"
                     alt="Trenntoilette Trelino"
                     class="trenntoiletteImageSieger img-fluid w-100"
                   />
@@ -481,7 +481,7 @@
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <img
-                    src="images/trenntoiletten/trenntoilette-kompotoi-separett-weekend.webp"
+                    src="/images/trenntoiletten/trenntoilette-kompotoi-separett-weekend.webp"
                     alt="Trenntoilette Kompotoi Separett Weekend"
                     class="trenntoiletteImageSieger img-fluid w-100"
                   />
@@ -505,7 +505,7 @@
           <div class="col-lg-6">
             <div class="appoinment-content">
               <img
-                src="images/trenntoiletten/trenntoilette-trobolo-kersaboem-garten-sommer.webp"
+                src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem-garten-sommer.webp"
                 alt="Gartentoilette TROBOLO KersaBoem"
                 class="img-fluid"
               />
@@ -596,7 +596,7 @@
             <div class="testimonial-block style-2 gray-bg">
               <div class="testimonial-thumb">
                 <img
-                  src="images/feedback/jennifer.webp"
+                  src="/images/feedback/jennifer.webp"
                   alt="Feedback von Jennifer"
                   class="img-fluid"
                 />
@@ -613,13 +613,13 @@
                 </p>
               </div>
 
-              <img src="images/icons/zitat.webp" />
+              <img src="/images/icons/zitat.webp" />
             </div>
 
             <div class="testimonial-block style-2 gray-bg">
               <div class="testimonial-thumb">
                 <img
-                  src="images/feedback/nicolas.webp"
+                  src="/images/feedback/nicolas.webp"
                   alt="Feedback von Nicolas"
                   class="img-fluid"
                 />
@@ -636,13 +636,13 @@
                 </p>
               </div>
 
-              <img src="images/icons/zitat.webp" />
+              <img src="/images/icons/zitat.webp" />
             </div>
 
             <div class="testimonial-block style-2 gray-bg">
               <div class="testimonial-thumb">
                 <img
-                  src="images/feedback/vicky.webp"
+                  src="/images/feedback/vicky.webp"
                   alt="Feedback von Vicky"
                   class="img-fluid"
                 />
@@ -659,7 +659,7 @@
                 </p>
               </div>
 
-              <img src="images/icons/zitat.webp" />
+              <img src="/images/icons/zitat.webp" />
             </div>
           </div>
         </div>
@@ -687,7 +687,7 @@
           <div class="col-lg-3">
             <div class="client-thumb">
               <img
-                src="images/hersteller/trobolo.webp"
+                src="/images/hersteller/trobolo.webp"
                 alt="TROBOLO"
                 class="img-fluid"
               />
@@ -696,7 +696,7 @@
           <div class="col-lg-3">
             <div class="client-thumb">
               <img
-                src="images/hersteller/kildwick.webp"
+                src="/images/hersteller/kildwick.webp"
                 alt="Kildwick"
                 class="img-fluid"
               />
@@ -705,7 +705,7 @@
           <div class="col-lg-3">
             <div class="client-thumb">
               <img
-                src="images/hersteller/meinetrenntoilette.webp"
+                src="/images/hersteller/meinetrenntoilette.webp"
                 alt="MeineTrenntoilette"
                 class="img-fluid"
               />
@@ -714,7 +714,7 @@
           <div class="col-lg-3">
             <div class="client-thumb">
               <img
-                src="images/hersteller/kompotoi.webp"
+                src="/images/hersteller/kompotoi.webp"
                 alt="Kompotoi"
                 class="img-fluid"
               />
