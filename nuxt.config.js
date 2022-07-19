@@ -53,9 +53,9 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     publicPath: '/assets/',
-    parallel: true,
-    cache: true,
-    hardSource: true,
+    // parallel: true,
+    // cache: true,
+    // hardSource: true,
     html: {
       minify: {
         collapseBooleanAttributes: true,
