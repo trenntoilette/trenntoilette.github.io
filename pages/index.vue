@@ -91,7 +91,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="department-block mb-5">
-              <a href="/trobolo-terabloem" title="TROBOLO TeraBloem">
+              <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">
                 <img
                   src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
                   alt="Trenntoilette TROBOLO TeraBloem"
@@ -107,7 +107,7 @@
                   Testsieger TeraBlœm von Trobolo. Ausgezeichnete Qualität bei
                   bestem Komfort und Preis.
                 </p>
-                <a href="/trobolo-terabloem" title="TROBOLO TeraBloem">
+                <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">
                   <h4>Zum Testbericht ></h4>
                 </a>
               </div>
@@ -116,7 +116,7 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="department-block mb-5">
-              <a href="/trobolo-kersaboem" title="TROBOLO KersaBoem">
+              <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">
                 <img
                   src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
                   alt="Trenntoilette TROBOLO KersaBoem"
@@ -132,7 +132,7 @@
                   Testsieger KersaBœm von Trobolo. Autarke Trenntoilette für den
                   Garten. Mit Trenn- und Abluftsystem.
                 </p>
-                <a href="/trobolo-kersaboem" title="TROBOLO KersaBoem">
+                <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">
                   <h4>Zum Testbericht ></h4>
                 </a>
               </div>
@@ -141,7 +141,7 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="department-block mb-5">
-              <a href="/kildwick-miniloo" title="Kildwick MiniLoo">
+              <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
                 <img
                   src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
                   alt="Camping Toilette Kildwick MiniLoo"
@@ -157,7 +157,7 @@
                   Die Camping Toilette als Bausatz. Kostengünstig, Platzsparend
                   und leicht im Gewicht.
                 </p>
-                <a href="/kildwick-miniloo" title="Kildwick MiniLoo">
+                <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
                   <h4>Zum Testbericht ></h4>
                 </a>
               </div>
@@ -244,7 +244,10 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img class="text-lg" src="/images/icons/umweltfreundlich.webp" />
+                <img
+                  class="text-lg"
+                  src="/images/icons/umweltfreundlich.webp"
+                />
                 <h4 class="mt-3 mb-3">Umweltfreundlich</h4>
               </div>
               <div class="content">
@@ -324,7 +327,7 @@
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
-                  <a href="/trobolo-terabloem" title="TROBOLO TeraBloem">
+                  <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">
                     <img
                       src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
                       alt="Trenntoilette TROBOLO TeraBloem"
@@ -335,7 +338,7 @@
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/trobolo-terabloem" title="TROBOLO TeraBloem"
+                  <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem"
                     >TeraBlœm</a
                   >
                 </h4>
@@ -351,7 +354,7 @@
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
-                  <a href="/trobolo-kersaboem" title="TROBOLO KersaBoem">
+                  <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">
                     <img
                       src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
                       alt="Trenntoilette TROBOLO KersaBoem"
@@ -362,7 +365,7 @@
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/trobolo-kersaboem" title="TROBOLO KersaBoem"
+                  <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem"
                     >KersaBœm</a
                   >
                 </h4>
@@ -378,7 +381,7 @@
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
-                  <a href="/trobolo-kitaboem" title="TROBOLO KitaBœm">
+                  <a href="/trobolo-kitaboem/" title="TROBOLO KitaBœm">
                     <img
                       src="/images/trenntoiletten/trenntoilette-trobolo-kitaboem.webp"
                       alt="Trenntoilette TROBOLO KitaBoem"
@@ -389,7 +392,7 @@
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/trobolo-kitaboem" title="TROBOLO KitaBoem"
+                  <a href="/trobolo-kitaboem/" title="TROBOLO KitaBoem"
                     >KitaBœm</a
                   >
                 </h4>
@@ -405,7 +408,7 @@
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
-                  <a href="/trobolo-wandago" title="TROBOLO WandaGO">
+                  <a href="/trobolo-wandago/" title="TROBOLO WandaGO">
                     <img
                       src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
                       alt="Campingtoilette TROBOLO WandaGO"
@@ -416,7 +419,7 @@
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/trobolo-wandago" title="TROBOLO WandaGO"
+                  <a href="/trobolo-wandago/" title="TROBOLO WandaGO"
                     >WandaGO</a
                   >
                 </h4>
@@ -432,7 +435,7 @@
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
-                  <a href="/kildwick-miniloo" title="Kildwick MiniLoo">
+                  <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
                     <img
                       src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
                       alt="Camping Toilette Kildwick MiniLoo"
@@ -443,7 +446,7 @@
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/kildwick-miniloo" title="Kildwick MiniLoo"
+                  <a href="/kildwick-miniloo/" title="Kildwick MiniLoo"
                     >Kildwick MiniLoo</a
                   >
                 </h4>
@@ -824,10 +827,10 @@ export default {
           "Trenntoilette für Garten, Haus und Camping im Vergleich. Wir haben einen Testsieger und helfen dir zu entscheiden, welche Trenntoilette für dich die richtige ist.",
       },
       {
-        hid: 'author',
-        name: 'author',
-        content: 'trenntoilette.net',
-      }
+        hid: "author",
+        name: "author",
+        content: "trenntoilette.net",
+      },
     ],
     script: [{ src: "js/main.js", type: "text/javascript", body: true }],
   },

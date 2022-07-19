@@ -79,5 +79,6 @@ export default {
   sitemap: {
     hostname: 'https://trenntoilette.net',
     gzip: true,
+    trailingSlash: true,
   },
 }
