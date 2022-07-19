@@ -71,7 +71,9 @@ export default {
     }
   },
 
-  buildDir: 'docs',
+  generate: {
+    dir: 'docs'
+  },
 
   // sitemap
   sitemap: {
