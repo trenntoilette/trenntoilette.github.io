@@ -6,7 +6,7 @@
 export default {
   name: "terabloemRedirect",
   head: {
-    link: [{ rel: "canonical", href: "/trobolo-kersaboem" }],
+    link: [{ rel: "canonical", href: "/trobolo-kersaboem/" }],
   },
 };
 </script>

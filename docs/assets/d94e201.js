@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{268:function(e,n,l){"use strict";l.r(n);var o={name:"terabloemRedirect",head:{link:[{rel:"canonical",href:"/trobolo-kersaboem"}]}},r=l(43),component=Object(r.a)(o,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);n.default=component.exports}}]);

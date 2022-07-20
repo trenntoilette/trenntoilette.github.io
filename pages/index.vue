@@ -832,7 +832,14 @@ export default {
         content: "trenntoilette.net",
       },
     ],
-    script: [{ src: "js/main.js", type: "text/javascript", body: true }],
+    script: [
+      { src: "js/main.js", type: "text/javascript", body: true },
+      {
+        src: "/plugins/slick-carousel/slick/slick.min.js",
+        type: "text/javascript",
+      },
+      { src: "/plugins/shuffle/shuffle.min.js", type: "text/javascript" },
+    ],
   },
 };
 </script>

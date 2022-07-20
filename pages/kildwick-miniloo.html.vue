@@ -6,7 +6,7 @@
 export default {
   name: "terabloemRedirect",
   head: {
-    link: [{ rel: "canonical", href: "/kildwick-miniloo" }],
+    link: [{ rel: "canonical", href: "/kildwick-miniloo/" }],
   },
 };
 </script>

@@ -16,7 +16,7 @@
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <img src="/images/icons/menue.webp" />
+          <img src="/images/icons/menue.webp" alt="Menü Icon" />
         </button>
 
         <div class="collapse navbar-collapse" id="navbarmain">
@@ -71,7 +71,9 @@
                   <a
                     href="https://twitter.com/trenntoilette"
                     title="Trenntoilette.net auf Twitter"
-                    ><img src="/images/social/twitter.webp"
+                    ><img
+                      src="/images/social/twitter.webp"
+                      alt="Twitter Profile"
                   /></a>
                 </li>
                 <li class="list-inline-item">
@@ -92,7 +94,7 @@
 
               <ul class="list-unstyled footer-menu lh-35">
                 <li><a href="/impressum/">Impressum</a></li>
-                <li><a href="/impressum#datenschutz">Datenschutz</a></li>
+                <li><a href="/impressum/#datenschutz">Datenschutz</a></li>
               </ul>
             </div>
           </div>
@@ -117,7 +119,11 @@
 
               <div class="footer-contact-block mb-4">
                 <div class="icon d-flex align-items-center">
-                  <img class="mr-3" src="/images/icons/email.webp" />
+                  <img
+                    class="mr-3"
+                    src="/images/icons/email.webp"
+                    alt="Kontakt per Email aufnehmen"
+                  />
                   <span class="h6 mb-0">Nehmen Sie Kontakt auf</span>
                 </div>
                 <h4 class="mt-2">
@@ -129,7 +135,11 @@
 
               <div class="footer-contact-block">
                 <div class="icon d-flex align-items-center">
-                  <img class="mr-3" src="/images/icons/telefon.webp" />
+                  <img
+                    class="mr-3"
+                    src="/images/icons/telefon.webp"
+                    alt="Telefonischer Kontakt"
+                  />
                   <span class="h6 mb-0">Mo - Fr : 08:30 - 18:00</span>
                 </div>
                 <h4 class="mt-2">
@@ -145,7 +155,7 @@
             <div class="col-lg-6">
               <div class="copyright">
                 &copy; Copyright by
-                <a href="https://www.trenntoilette.net" title="Trenntoilette"
+                <a href="https://www.trenntoilette.net/" title="Trenntoilette"
                   >Trenntoilette.net</a
                 >
               </div>
@@ -169,7 +179,7 @@
           <div class="row">
             <div class="col-lg-4">
               <a class="backtop js-scroll-trigger" href="#top">
-                <img src="/images/icons/up.webp" />
+                <img src="/images/icons/up.webp" alt="Hochscrollen" />
               </a>
             </div>
           </div>

@@ -393,7 +393,7 @@
                 Bestimmungen kann es notwendig werden, diese
                 Datenschutzerklärung zu aktualisieren. Die jeweils aktuelle
                 Datenschutzerklärung kann jederzeit auf unserer Website unter
-                https://trenntoilette.net/impressum von dir abgerufen werden.
+                https://trenntoilette.net/impressum/ von dir abgerufen werden.
               </p>
             </div>
           </div>
