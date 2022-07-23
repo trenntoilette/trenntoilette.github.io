@@ -191,23 +191,24 @@
 
 <script>
 export default {
-    name: 'TroboloKitaboem'
-    head: {
-        title: 'Trobolo KitaBœm - Trenntoilette für Kinder und Erwachsene',
-        meta: [
-            {
-                hid: 'author',
-                name: 'author',
-                content: 'trenntoilette.net'
-            },
-            {
-                hid: 'description',
-                name: 'description',
-                content: 'TROBOLO&reg; KitaBœm Testbericht. Die TROBOLO&reg; KitaBœm Trenntoilette für den Außenbereich kommt als vorgefertigter Bausatz und eignet sich f&uuml;r Erwachsene und Kinder im Alter von 2-6 Jahren.'
-            }
-        ]
-    },
-    jsonld() {
+  name: "TroboloKitaboem",
+  head: {
+    title: "Trobolo KitaBœm - Trenntoilette für Kinder und Erwachsene",
+    meta: [
+      {
+        hid: "author",
+        name: "author",
+        content: "trenntoilette.net",
+      },
+      {
+        hid: "description",
+        name: "description",
+        content:
+          "TROBOLO&reg; KitaBœm Testbericht. Die TROBOLO&reg; KitaBœm Trenntoilette für den Außenbereich kommt als vorgefertigter Bausatz und eignet sich f&uuml;r Erwachsene und Kinder im Alter von 2-6 Jahren.",
+      },
+    ],
+  },
+  jsonld() {
     return {
       "@context": "https://schema.org",
       "@graph": [
@@ -241,7 +242,7 @@ export default {
           aggregateRating: {
             "@type": "AggregateRating",
             ratingValue: "4.66",
-            reviewCount: "194"
+            reviewCount: "194",
           },
           offers: {
             "@type": "Offer",
@@ -273,4 +274,5 @@ export default {
       ],
     };
   },
-}
+};
+</script>
