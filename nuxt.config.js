@@ -51,6 +51,9 @@ export default {
     // Build Configuration: https://go.nuxtjs.dev/config-build
     build: {
         publicPath: '/assets/',
+        filenames: {
+            img: 'img/[name].[ext]'
+        },
         // parallel: true,
         // cache: true,
         // hardSource: true,

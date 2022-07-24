@@ -155,7 +155,7 @@ export default {
           "@type": "Product",
           name: "Einstreu von TROBOLO",
           image: [
-            "https://www.trenntoilette.net/images/einstreu/trobolo-einstreu.webp",
+            "https://www.trenntoilette.net/assets/img/trobolo-einstreu.webp",
           ],
           description:
             "Das TROBOLO Einstreu ist der Testsieger in der Kategorie 'Einstreu für die Trenntoilette'. Es bindet Feuchtigkeit und verhindert die Geruchtsentwicklung.",
