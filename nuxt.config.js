@@ -74,7 +74,7 @@ export default {
     },
 
     image: {
-        staticFilename: 'img/[name].[ext]'
+        staticFilename: '[publicPath]/img/[name].[ext]'
     },
 
     // sitemap
