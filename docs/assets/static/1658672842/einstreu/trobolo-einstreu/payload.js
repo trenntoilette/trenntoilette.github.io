@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/einstreu/trobolo-einstreu", {data:[{_img:{"/_ipx/f_webp,q_80/images/einstreu/trobolo-einstreu.jpg":"\u002Fassets\u002Fimage\u002F000dca.webp"}}],fetch:{},mutations:void 0});
