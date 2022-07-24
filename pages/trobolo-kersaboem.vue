@@ -191,7 +191,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trenntoilette.net/trobolo-kersaboem",
+            url: "https://www.trenntoilette.net/trobolo-kersaboem/",
             priceCurrency: "EUR",
             price: "1979.00",
             priceValidUntil: "2023-11-20",

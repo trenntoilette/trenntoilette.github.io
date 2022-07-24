@@ -43,6 +43,14 @@
                 >Campingtoilette</a
               >
             </li>
+            <li class="nav-item active">
+              <a
+                class="nav-link"
+                title="Einstreu für die Trenntoilette"
+                href="/einstreu/"
+                >Einstreu</a
+              >
+            </li>
             <li class="nav-item">
               <a class="nav-link" href="/#ueberuns">Über Uns</a>
             </li>

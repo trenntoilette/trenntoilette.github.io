@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/campingtoilette", {data:[{_img:{}}],fetch:{},mutations:void 0});

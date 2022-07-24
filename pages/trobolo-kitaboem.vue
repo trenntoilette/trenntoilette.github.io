@@ -246,7 +246,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trenntoilette.net/trobolo-kitaboem",
+            url: "https://www.trenntoilette.net/trobolo-kitaboem/",
             priceCurrency: "EUR",
             price: "2489.00",
             priceValidUntil: "2023-11-20",

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/trobolo-kersaboem", {data:[{}],fetch:{},mutations:void 0});

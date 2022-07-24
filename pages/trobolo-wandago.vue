@@ -199,7 +199,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trenntoilette.net/trobolo-wandago",
+            url: "https://www.trenntoilette.net/trobolo-wandago/",
             priceCurrency: "EUR",
             price: "199.00",
             priceValidUntil: "2023-11-20",

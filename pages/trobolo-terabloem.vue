@@ -184,7 +184,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trenntoilette.net/trobolo-terabloem",
+            url: "https://www.trenntoilette.net/trobolo-terabloem/",
             priceCurrency: "EUR",
             price: "429.00",
             priceValidUntil: "2023-11-20",

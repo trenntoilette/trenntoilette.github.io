@@ -194,7 +194,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trenntoilette.net/kildwick-miniloo",
+            url: "https://www.trenntoilette.net/kildwick-miniloo/",
             priceCurrency: "EUR",
             price: "579.00",
             priceValidUntil: "2023-11-20",

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kildwick-miniloo", {data:[{_img:{}}],fetch:{},mutations:void 0});
