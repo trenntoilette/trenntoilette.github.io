@@ -122,7 +122,7 @@
 
               <div class="sidebar-contatct-info mt-4">
                 <p class="mb-0">Preis</p>
-                <h3>199,00 EUR</h3>
+                <h3>249,00 EUR</h3>
               </div>
             </div>
             <div class="text-center">
@@ -202,7 +202,7 @@ export default {
             "@type": "Offer",
             url: "https://www.trenntoilette.net/trobolo-wandago",
             priceCurrency: "EUR",
-            price: "199.00",
+            price: "249.00",
             priceValidUntil: "2023-11-20",
             itemCondition: "https://schema.org/NewCondition",
             availability: "https://schema.org/InStock",
