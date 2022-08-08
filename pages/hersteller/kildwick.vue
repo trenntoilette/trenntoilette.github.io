@@ -26,18 +26,6 @@
     <section class="section department-single">
       <div class="container">
         <div class="row">
-          <div class="col-lg-12">
-            <div class="department-img">
-              <img
-                src="/images/hersteller/kildwick.webp"
-                alt="Kildwick"
-                class="img-fluid"
-              />
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
           <div class="col-lg-8">
             <div class="department-content mt-5">
               <h2 class="text-md">
@@ -136,6 +124,14 @@
           </div>
 
           <div class="col-lg-4">
+            <div clss="sidebar-contatct-info mt-4">
+              <img
+                src="/images/hersteller/kildwick.webp"
+                style="width: 50%"
+                alt="Kildwick"
+                class="img-fluid mx-auto d-block"
+              />
+            </div>
             <div class="sidebar-widget schedule-widget mt-5">
               <h5 class="mb-4">Kildwick</h5>
 
