@@ -381,7 +381,7 @@
         <div class="row shuffle-wrapper portfolio-gallery">
           <div
             class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups='["haus"]'
+            data-groups="['haus']"
           >
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
@@ -408,7 +408,7 @@
 
           <div
             class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups='["garten"]'
+            data-groups="['garten']"
           >
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
@@ -435,7 +435,7 @@
 
           <div
             class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups='["garten"]'
+            data-groups="['garten']"
           >
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
@@ -462,7 +462,7 @@
 
           <div
             class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups='["camping"]'
+            data-groups="['camping']"
           >
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
@@ -489,7 +489,7 @@
 
           <div
             class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups='["camping","haus"]'
+            data-groups="['camping','haus']"
           >
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
@@ -516,7 +516,7 @@
 
           <div
             class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups='["camping"]'
+            data-groups="['camping']"
           >
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
@@ -537,7 +537,7 @@
 
           <div
             class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups='["haus","camping"]'
+            data-groups="['haus', 'camping']"
           >
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
