@@ -41,9 +41,13 @@
               <p class="text-justify lead">
                 Das liegt nicht zuletzt daran, dass es mittlerweile eine
                 Vielzahl unterschiedlicher Modelle und Auswahlmöglichkeiten
-                gibt. Wer eine Campingtoilette für unterwegs sucht, hat die Qual
-                der Wahl. Soll es eine Chemietoilette oder eine Trenntoilette
-                werden? Und welches Modell genau?
+                gibt. Wer eine
+                <nuxt-link to="/campingtoilette/" title="Campingtoilette"
+                  >Campingtoilette</nuxt-link
+                >
+                für unterwegs sucht, hat die Qual der Wahl. Soll es eine
+                Chemietoilette oder eine Trenntoilette werden? Und welches
+                Modell genau?
               </p>
               <p class="text-justify lead">
                 In diesem Artikel vergleichen wir die besten Campingtoiletten
@@ -576,9 +580,9 @@
 
 <script>
 export default {
-  name: "impressum",
+  name: "campingtoilette-vergleich",
   head: {
-    title: "Impressum - Trenntoilette.net",
+    title: "Campingtoiletten unter 250 Euro im Vergleich",
     meta: [
       {
         hid: "author",
@@ -593,7 +597,8 @@ export default {
       {
         hid: "description",
         name: "description",
-        content: "Impressum",
+        content:
+          "Aktuelle Campingtoiletten unter 250 Euro im Vergleich. Dabei vergleichen wir die TROBOLO WandaGO mit der PortaPotti 335, sowie die Dometic C976 miteinander.",
       },
     ],
   },
