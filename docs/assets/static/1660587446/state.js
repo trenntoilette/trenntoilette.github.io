@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Fassets\u002Fstatic\u002F1660587446",layout:"default",error:a,serverRendered:true,routePath:b,config:{_app:{basePath:b,assetsPath:"\u002Fassets\u002F",cdnURL:a}},_img:{"/_ipx/f_webp,q_90/images/blog/camping.jpg":"\u002Fassets\u002Fimg\u002Fcamping.webp"}}}(null,"\u002F"));

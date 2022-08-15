@@ -847,7 +847,7 @@
 
                 <li>Toilettenabfälle können bei Bedarf kompostiert werden</li>
 
-                <p>Leicht zu reinigen</p>
+                <li>Leicht zu reinigen</li>
               </ul>
 
               <h5 class="h2 pt-6">So läuft der Trenntoiletten-Test ab</h5>

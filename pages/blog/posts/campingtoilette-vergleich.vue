@@ -42,12 +42,9 @@
                 Das liegt nicht zuletzt daran, dass es mittlerweile eine
                 Vielzahl unterschiedlicher Modelle und Auswahlmöglichkeiten
                 gibt. Wer eine Campingtoilette für unterwegs sucht, hat die Qual
-                der Wahl.
+                der Wahl. Soll es eine Chemietoilette oder eine Trenntoilette
+                werden? Und welches Modell genau?
               </p>
-              <p class="text-justify lead">
-                Soll es eine Chemietoilette oder eine Trenntoilette werden?
-              </p>
-              <p class="text-justify lead">Und welches Modell genau?</p>
               <p class="text-justify lead">
                 In diesem Artikel vergleichen wir die besten Campingtoiletten
                 unter 250 € miteinander und zeigen Ihnen so, welche
