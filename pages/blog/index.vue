@@ -85,9 +85,9 @@
 
 <script>
 export default {
-  name: "impressum",
+  name: "trenntoiletten-blog",
   head: {
-    title: "Impressum - Trenntoilette.net",
+    title: "Trenntoiletten Blog",
     meta: [
       {
         hid: "author",
@@ -95,14 +95,15 @@ export default {
         content: "trenntoilette.net",
       },
       {
-        hid: "robotos",
+        hid: "robots",
         name: "robots",
-        content: "noindex, nofollow, noarchive, nosnippet",
+        content: "index, follow",
       },
       {
         hid: "description",
         name: "description",
-        content: "Impressum",
+        content:
+          "Auf dem Trenntoiletten Blog findest du aktuelle News, Angebote, Informationen und Vergleiche zum Thema Trenntoiletten, Campintoiletten und Gartentoiletten.",
       },
     ],
   },

@@ -91,22 +91,40 @@
         <div class="row">
           <div class="col-md-6">
             <div class="card" style="width: 18rem">
-              <nuxt-img
-                class="card-img-top"
-                src="/images/blog/camping.jpg"
-                format="webp"
-                quality="90"
-                alt="Campingtoilette unter 250 € im Vergleich"
-              />
+              <nuxt-link
+                to="/blog/posts/campingtoilette-vergleich/"
+                title="Campingtoilette unter 250 Euro im Vergleich"
+              >
+                <nuxt-img
+                  class="card-img-top"
+                  src="/images/blog/camping.jpg"
+                  format="webp"
+                  quality="90"
+                  alt="Campingtoilette unter 250 € im Vergleich"
+                />
+              </nuxt-link>
               <div class="card-body">
-                <h5 class="card-title">
-                  Campingtoiletten unter 250 € im Vergleich
-                </h5>
+                <nuxt-link
+                  to="/blog/posts/campingtoilette-vergleich/"
+                  title="Campingtoiletten unter 250 Euro im Vergleich"
+                >
+                  <h5 class="card-title">
+                    Campingtoiletten unter 250 € im Vergleich
+                  </h5>
+                </nuxt-link>
                 <p class="card-text">
                   Unter Campern wird das Thema Campingtoilette aktuell heiß
                   diskutiert...
                 </p>
-                <a href="#" class="btn btn-primary">weiterlesen</a>
+                <p class="card-text">
+                  <small class="text-muted">15. August 2022</small>
+                </p>
+                <nuxt-link
+                  to="/blog/posts/campingtoilette-vergleich/"
+                  title="Campingtoiletten unter 250 Euro im Vergleich"
+                  class="btn btn-main-2 btn-icon btn-round-full"
+                  >weiterlesen</nuxt-link
+                >
               </div>
             </div>
           </div>

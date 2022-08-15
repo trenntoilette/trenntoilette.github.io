@@ -415,7 +415,7 @@ export default {
         content: "trenntoilette.net",
       },
       {
-        hid: "robotos",
+        hid: "robots",
         name: "robots",
         content: "noindex, nofollow, noarchive, nosnippet",
       },
