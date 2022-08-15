@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "git rm -rf docs/ && nuxt generate && copyfiles CNAME docs/ && git add docs/* && git commit -am 'deploying' && git push"
+    "deploy": "git rm -rf docs/ && nuxt generate && copyfiles .nojekyll docs/ && copyfiles CNAME docs/ && git add docs/* && git commit -am 'deploying' && git push"
   },
   "dependencies": {
     "@nuxtjs/robots": "^2.5.0",

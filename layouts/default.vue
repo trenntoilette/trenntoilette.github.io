@@ -27,29 +27,53 @@
             <li class="nav-item active">
               <a class="nav-link" href="/#sieger">Testsieger</a>
             </li>
-            <li class="nav-item active">
+            <li class="nav-item dropdown">
               <a
-                class="nav-link"
-                title="Gartentoiletten im Test"
-                href="/gartentoilette/"
-                >Gartentoilette</a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
               >
+                Einsatzgebiete
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <nuxt-link
+                  class="dropdown-item"
+                  to="/gartentoilette/"
+                  title="Gartentoilette im Test"
+                  >Gartentoilette</nuxt-link
+                >
+                <nuxt-link
+                  class="dropdown-item"
+                  to="/campingtoilette/"
+                  title="Campingtoilette im Test"
+                  >Campingtoilette</nuxt-link
+                >
+              </div>
             </li>
-            <li class="nav-item active">
+            <li class="nav-item dropdown">
               <a
-                class="nav-link"
-                title="Campingtoiletten im Test"
-                href="/campingtoilette/"
-                >Campingtoilette</a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
               >
-            </li>
-            <li class="nav-item active">
-              <a
-                class="nav-link"
-                title="Einstreu für die Trenntoilette"
-                href="/einstreu/"
-                >Einstreu</a
-              >
+                Zubehör
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <nuxt-link
+                  class="dropdown-item"
+                  to="/einstreu/"
+                  title="Einstreu für die Trenntoilette"
+                  >Einstreu</nuxt-link
+                >
+              </div>
             </li>
             <li class="nav-item dropdown">
               <a
@@ -74,6 +98,12 @@
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="#">Something else here</a> -->
               </div>
+            </li>
+            <!-- /blog/ link -->
+            <li class="nav-item active">
+              <a class="nav-link" title="Trenntoiletten Blog" href="/blog/"
+                >Blog</a
+              >
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/#ueberuns">Über Uns</a>
@@ -125,6 +155,28 @@
               <div class="divider mb-4"></div>
 
               <ul class="list-unstyled footer-menu lh-35">
+                <li>
+                  <nuxt-link to="/gartentoilette/" title="Gartentoiletten"
+                    >Gartentoilette</nuxt-link
+                  >
+                </li>
+                <li>
+                  <nuxt-link to="/campingtoilette/" title="Campingtoilette"
+                    >Campingtoilette</nuxt-link
+                  >
+                </li>
+                <li>
+                  <nuxt-link
+                    to="/einstreu/"
+                    title="Einstreu für die Trenntoilette"
+                    >Einstreu</nuxt-link
+                  >
+                </li>
+                <li>
+                  <nuxt-link to="/blog/" title="Blog zum Thema Trenntoilette"
+                    >Blog</nuxt-link
+                  >
+                </li>
                 <li><a href="/impressum/">Impressum</a></li>
                 <li><a href="/impressum/#datenschutz">Datenschutz</a></li>
               </ul>

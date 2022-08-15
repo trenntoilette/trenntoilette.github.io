@@ -74,12 +74,53 @@
       </div>
     </section>
 
-    <section class="section service-2" id="sieger">
+    <section class="section clients">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-7">
+            <div class="section-title text-center">
+              <div class="h2">Blog News</div>
+              <div class="divider mx-auto my-4"></div>
+              <p class="lead">
+                Informationen, News und Angebote rund um das Thema
+                Trenntoiletten
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="card" style="width: 18rem">
+              <nuxt-img
+                class="card-img-top"
+                src="/images/blog/camping.jpg"
+                format="webp"
+                quality="90"
+                alt="Campingtoilette unter 250 € im Vergleich"
+              />
+              <div class="card-body">
+                <h5 class="card-title">
+                  Campingtoiletten unter 250 € im Vergleich
+                </h5>
+                <p class="card-text">
+                  Unter Campern wird das Thema Campingtoilette aktuell heiß
+                  diskutiert...
+                </p>
+                <a href="#" class="btn btn-primary">weiterlesen</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section service-2 gray-bg" id="sieger">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-7 text-center">
             <div class="section-title">
-              <h2>Trenntoilette Testsieger</h2>
+              <div class="h2">Trenntoilette Testsieger</div>
               <div class="divider mx-auto my-4"></div>
               <p class="lead">
                 Wir stellen vor: Die beste Trenntoilette in Seiner Kategorie
@@ -167,12 +208,12 @@
       </div>
     </section>
 
-    <section class="section service gray-bg">
+    <section class="section service">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-7 text-center">
             <div class="section-title">
-              <h2>Welche Vorteile bietet eine Trenntoilette?</h2>
+              <div class="h2">Welche Vorteile bietet eine Trenntoilette?</div>
               <div class="divider mx-auto my-4"></div>
               <p class="lead">
                 6 trifftige Gründe warum du den Wechsel zu einer Trenntoilette
@@ -275,12 +316,12 @@
       </div>
     </section>
 
-    <section class="section doctors" id="trenntoiletten">
+    <section class="section doctors gray-bg" id="trenntoiletten">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center">
             <div class="section-title">
-              <h2>Trenntoiletten</h2>
+              <div class="h2">Trenntoiletten</div>
               <div class="divider mx-auto my-4"></div>
               <p class="lead">
                 Für jedes Einsatzgebiet findest du eine passende Trenntoilette.
@@ -502,7 +543,7 @@
       </div>
     </section>
 
-    <section id="kontakt" class="section appoinment gray-bg">
+    <section id="kontakt" class="section appoinment">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6">
@@ -516,7 +557,9 @@
           </div>
           <div class="col-lg-6 col-md-10">
             <div class="appoinment-wrap mt-5 mt-lg-0">
-              <h2 class="mb-2 title-color">Haben Sie noch weitere Fragen?</h2>
+              <div class="h2 mb-2 title-color">
+                Haben Sie noch weitere Fragen?
+              </div>
               <p class="mb-4 lead">
                 Haben Sie noch offene Fragen bezüglich einer Trenntoilette?
                 Kontaktieren Sie uns gerne und wir beantworten Ihre Frage
@@ -576,10 +619,10 @@
         <div class="row justify-content-center">
           <div class="col-lg-7">
             <div class="section-title text-center">
-              <h2>
+              <div class="h2">
                 Wir haben über 5000+ Menschen geholfen die passende
                 Trenntoilette zu finden
-              </h2>
+              </div>
               <div class="divider mx-auto my-4"></div>
               <p class="lead">
                 Wir kennen es selbst, die Auswahl einer passenden Trenntoilette
@@ -674,7 +717,7 @@
         <div class="row justify-content-center">
           <div class="col-lg-7">
             <div class="section-title text-center">
-              <h2>Trenntoiletten Anbieter</h2>
+              <div class="h2">Trenntoiletten Anbieter</div>
               <div class="divider mx-auto my-4"></div>
               <p class="lead">
                 Wir haben Deutschland's bekanntesten Trenntoiletten-Anbieter
@@ -727,12 +770,12 @@
       </div>
     </section>
 
-    <section class="section clients">
+    <section class="section clients gray-bg">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-12">
             <div class="section-title text-center">
-              <h2>Was ist eine Trenntoilette?</h2>
+              <div class="h2">Was ist eine Trenntoilette?</div>
               <div class="divider mx-auto my-4"></div>
               <p class="text-justify">
                 Grundsätzlich handelt es sich bei einer Trenntoilette um eine
