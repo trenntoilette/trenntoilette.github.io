@@ -10,7 +10,7 @@
                 >Blog Beitrag</span
               >
               <h1 class="mb-3 mt-3 text-light">
-                Campingtoiletten unter 250 € im Vergleich
+                Campingtoiletten unter 250 € - Der Vergleich
               </h1>
 
               <p class="lead mb-4 pr-5 text-light"></p>
