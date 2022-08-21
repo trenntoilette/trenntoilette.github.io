@@ -32,7 +32,8 @@
     <section class="section department-single" id="articles">
       <div class="container">
         <div class="row">
-          <div class="col-lg-12">
+          <!-- blog article card -->
+          <div class="col-lg-4">
             <div class="card" style="width: 18rem">
               <nuxt-link
                 to="/blog/posts/campingtoilette-vergleich/"
@@ -71,6 +72,49 @@
               </div>
             </div>
           </div>
+          <!-- end blog article card -->
+
+          <!-- blog article card -->
+          <div class="col-lg-4">
+            <div class="card" style="width: 18rem">
+              <nuxt-link
+                to="/blog/posts/deutsches-startup-revolutioniert-die-campingtoilette-und-verkauft-sie-fuer-249euro/"
+                title="Deutsches Startup revolutioniert die Campingtoilette und
+                    verkauft sie für 249€"
+              >
+                <nuxt-img
+                  class="card-img-top"
+                  src="/images/blog/camping.jpg"
+                  format="webp"
+                  quality="90"
+                  alt="Deutsches Startup revolutioniert die Campingtoilette und
+                    verkauft sie für 249€"
+                />
+              </nuxt-link>
+              <div class="card-body">
+                <nuxt-link
+                  to="/blog/posts/deutsches-startup-revolutioniert-die-campingtoilette-und-verkauft-sie-fuer-249euro/"
+                  title="Deutsches Startup revolutioniert die Campingtoilette und"
+                >
+                  <h5 class="card-title">
+                    Deutsches Startup revolutioniert die Campingtoilette und
+                    verkauft sie für 249€
+                  </h5>
+                </nuxt-link>
+                <p class="card-text">Produktneuheit</p>
+                <p class="card-text">
+                  <small class="text-muted">21. August 2022</small>
+                </p>
+                <nuxt-link
+                  to="/blog/posts/deutsches-startup-revolutioniert-die-campingtoilette-und-verkauft-sie-fuer-249euro/"
+                  title="                    verkauft sie für 249€"
+                  class="btn btn-main-2 btn-icon btn-round-full"
+                  >weiterlesen</nuxt-link
+                >
+              </div>
+            </div>
+          </div>
+          <!-- blog article card -->
         </div>
 
         <div class="row">
