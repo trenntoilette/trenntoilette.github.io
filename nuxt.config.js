@@ -88,6 +88,8 @@ export default {
             "/trobolo-terabloem.html",
             "/trobolo-wandago.html",
             "/kildwick-miniloo.html",
+            "/blog/posts/deutsches-startup-revolutioniert-die-campingtoilette-und-verkauft-sie-fuer-249euro"
+
         ]
     },
 }

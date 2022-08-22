@@ -19,9 +19,21 @@
                 <a
                   href="#article"
                   class="btn btn-main-2 btn-icon btn-round-full"
-                  >Artikel lesen ></a
+                  >Mehr erfahren ></a
                 >
               </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-12 col-xl-5">
+            <div class="block">
+              <div class="divider mb-3"></div>
+              <img
+                src="/images/landingpage/lander-title.png"
+                format="webp"
+                quality="90"
+                alt="WandaGO Campingtoilette"
+                style="border-radius: 10px"
+              />
             </div>
           </div>
         </div>
@@ -41,7 +53,13 @@
                 einsatzbereit. Extrem kompakt und ultraleicht findet die WandaGo
                 jedem PKW, Van oder Wohnmobil ihren Platz.
               </p>
-              <p class="text-justify lead">
+              <img
+                src="/images/landingpage/bild2.png"
+                class="pt-5"
+                format="webp"
+                quality="90"
+              />
+              <p class="text-justify lead pt-5">
                 Camping bedeutet Freiheit und naturnahe Erholung für die ganze
                 Familie. Die eigene Toilettennutzung wird früher oder später zum
                 Thema für jeden Camper, ob Neuling oder erfahrener Abenteurer.
@@ -53,7 +71,13 @@
                 Entsorgungsstationen ist die mobile Trenntoilette immer
                 einsatzbereit und schnell wieder verstaut.
               </p>
-              <p class="text-justify lead">
+              <img
+                src="/images/landingpage/bild3.png"
+                class="pt-5"
+                format="webp"
+                quality="90"
+              />
+              <p class="text-justify lead pt-5">
                 Das Startup aus Niedersachsen macht die Campingtoillette endlich
                 komplett ökologisch, ohne dabei auf Komfort zu verzichten. Weder
                 Strom, Chemie oder Wasser werden benötigt, um diese smarte Art
@@ -66,6 +90,18 @@
                 hochwertiger Materialien und der smarten Konstruktion schnell
                 und hygienisch erledigt.
               </p>
+
+              <a
+                href="https://trobolo.com/de/mehr-erfahren/wandago/"
+                target="_blank"
+              >
+                <img
+                  src="/images/landingpage/bild4.png"
+                  class="pt-5"
+                  format="webp"
+                  quality="90"
+                />
+              </a>
 
               <div class="h2 pt-5">
                 Hier sind alle Vorteile kurz zusammengefasst:
@@ -100,17 +136,26 @@
               </div>
               <div class="divider mx-auto my-4"></div>
 
-              <p class="text-justify lead">IMAGE</p>
-
               <div class="h2 pt-5">Update/Nachtrag:</div>
               <div class="divider mx-auto my-4"></div>
 
-              <p class="text-justify lead">
+              <p class="text-justify lead pt-5">
                 Die Nachfrage ist aktuell extrem hoch wegen bundesweiter
                 Ferienzeiten und laufender Campingsaison. Wir raten daher
                 regelmäßig die Verfügbarkeit zu überprüfen und schnell zu
                 bestellen, wenn die begehrte WandaGo verfügbar ist.
               </p>
+
+              <!-- big green cta button -->
+              <div class="btn-container pt-5">
+                <a
+                  href="https://trobolo.com/de/mehr-erfahren/wandago/"
+                  rel="nofollow"
+                  class="btn btn-main-2 btn-icon btn-round-full"
+                  style="font-size: 33px"
+                  >Revolutionäre Campingtoilette kaufen</a
+                >
+              </div>
             </div>
           </div>
         </div>
@@ -119,11 +164,14 @@
   </div>
 </template>
 
+<style scoped>
+</style>
+
 <script>
 export default {
-  name: "campingtoilette-vergleich",
+  name: "campingtoilette-startup",
   head: {
-    title: "Campingtoiletten unter 250 Euro im Vergleich",
+    title: "Startup revolutioniert die Campingtoilette",
     meta: [
       {
         hid: "author",
@@ -133,13 +181,12 @@ export default {
       {
         hid: "robots",
         name: "robots",
-        content: "index, follow",
+        content: "noindex, nofollow",
       },
       {
         hid: "description",
         name: "description",
-        content:
-          "Aktuelle Campingtoiletten unter 250 Euro im Vergleich. Dabei vergleichen wir die TROBOLO WandaGO mit der PortaPotti 335, sowie die Dometic C976 miteinander.",
+        content: "Ein deutsches Startup revolutioniert die Campingtoilette",
       },
     ],
   },

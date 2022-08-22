@@ -84,7 +84,7 @@
               >
                 <nuxt-img
                   class="card-img-top"
-                  src="/images/blog/camping.jpg"
+                  src="/images/landingpage/lander-title.png"
                   format="webp"
                   quality="90"
                   alt="Deutsches Startup revolutioniert die Campingtoilette und
