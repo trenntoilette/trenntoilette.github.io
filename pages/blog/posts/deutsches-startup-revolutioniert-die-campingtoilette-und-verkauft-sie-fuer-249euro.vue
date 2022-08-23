@@ -3,7 +3,7 @@
     <section class="banner">
       <div class="container">
         <div class="row">
-          <div class="col-lg-6 col-md-12 col-xl-7">
+          <div class="col-lg-8 offset-lg-2">
             <div class="block">
               <div class="divider mb-3"></div>
               <span class="text-uppercase lead letter-spacing text-light"
@@ -14,26 +14,33 @@
                 verkauft sie für 249€
               </h1>
 
-              <p class="lead mb-4 pr-5 text-light"></p>
+              <span class="text-uppercase lead letter-spacing text-light"
+                >verfasst von Redaktion, 08/23</span
+              >
+
+              <!-- <p class="lead mb-4 pr-5 text-light"></p>
               <div class="btn-container">
                 <a
                   href="#article"
                   class="btn btn-main-2 btn-icon btn-round-full"
                   >Mehr erfahren ></a
                 >
-              </div>
+              </div> -->
             </div>
           </div>
-          <div class="col-lg-6 col-md-12 col-xl-5">
-            <div class="block">
-              <div class="divider mb-3"></div>
-              <img
-                src="/images/landingpage/lander-title.png"
-                format="webp"
-                quality="90"
-                alt="WandaGO Campingtoilette"
-                style="border-radius: 10px"
-              />
+          <div class="col-lg-8 offset-lg-2 pb-5" style="margin-top: -100px">
+            <img
+              src="/images/landingpage/lander-title.png"
+              format="webp"
+              quality="90"
+              alt="WandaGO Campingtoilette"
+              style="border-radius: 10px"
+            />
+            <div class="col-md-12 text-md-left text-center text-light pt-2">
+              <p class="lead">
+                Die erst moderne Trenntoilette für Camping optimiert. (BIld:
+                TROBOLO)
+              </p>
             </div>
           </div>
         </div>
@@ -43,11 +50,19 @@
     <section class="section service-2" id="article">
       <div class="container">
         <div class="row justify-content-center">
-          <div class="col-lg-12 text-center">
+          <div class="col-lg-8 offste-lg-2 text-center">
             <div class="section-title">
-              <h2>Startup revolutioniert Campingtoilette</h2>
+              <h3 class="text-justify">
+                Eine mobile Trenntoilette, optimiert für das Camping, ist
+                endlich Realität. Es war nur eine Frage der Zeit, bis ein
+                Hersteller die Vorteile einer Trenntoilette campingtauglich
+                machte. Dabei überrascht es uns nicht, dass das Team von TROBOLO
+                das erste ist. Mit der WandaGo präsentiert das Startup eine
+                überzeugende und perfekt durchdachte Lösung zu einem
+                konkurrenzlosen Preis.
+              </h3>
               <div class="divider mx-auto my-4"></div>
-              <p class="lead">
+              <p class="lead text-justify" style="color: #000 !important">
                 Zum ersten Mal gibt es eine „Camping-Trenntoilette“ für
                 autarken, nachhaltigen Toilettenkomfort, überall und immer
                 einsatzbereit. Extrem kompakt und ultraleicht findet die WandaGo
@@ -59,7 +74,12 @@
                 format="webp"
                 quality="90"
               />
-              <p class="text-justify lead pt-5">
+
+              <p class="lead" style="color: #000 !important">
+                Nachhaltig, autark und immer einsatzbereit (BIld: TROBOLO)
+              </p>
+
+              <p class="text-justify lead pt-5" style="color: #000 !important">
                 Camping bedeutet Freiheit und naturnahe Erholung für die ganze
                 Familie. Die eigene Toilettennutzung wird früher oder später zum
                 Thema für jeden Camper, ob Neuling oder erfahrener Abenteurer.
@@ -77,18 +97,23 @@
                 format="webp"
                 quality="90"
               />
-              <p class="text-justify lead pt-5">
+              <p class="lead" style="color: #000 !important">
+                Zusammengeklappt passt sie in jeden Kofferraum
+              </p>
+              <h3 class="pt-5">
                 Das Startup aus Niedersachsen macht die Campingtoillette endlich
-                komplett ökologisch, ohne dabei auf Komfort zu verzichten. Weder
-                Strom, Chemie oder Wasser werden benötigt, um diese smarte Art
-                der Campingtoilette zu benutzen. Die Stapelfunktion zum
-                Aufklappen macht eine normal hohe Sitzposition möglich und auch
-                der Sitz hat Standardgröße wie die Toilette zu Hause. Für den
-                Transport zusammengeklappt findet sie in jedem Kofferraum oder
-                Campingschrank ihren Platz. Der patentierte Auslaufschutz gibt
-                Sicherheit vor austretendem Geruch und die Reinigung ist dank
-                hochwertiger Materialien und der smarten Konstruktion schnell
-                und hygienisch erledigt.
+                komplett ökologisch,
+              </h3>
+              <p class="text-justify lead" style="color: #000 !important">
+                ohne dabei auf Komfort zu verzichten. Weder Strom, Chemie oder
+                Wasser werden benötigt, um diese smarte Art der Campingtoilette
+                zu benutzen. Die Stapelfunktion zum Aufklappen macht eine normal
+                hohe Sitzposition möglich und auch der Sitz hat Standardgröße
+                wie die Toilette zu Hause. Für den Transport zusammengeklappt
+                findet sie in jedem Kofferraum oder Campingschrank ihren Platz.
+                Der patentierte Auslaufschutz gibt Sicherheit vor austretendem
+                Geruch und die Reinigung ist dank hochwertiger Materialien und
+                der smarten Konstruktion schnell und hygienisch erledigt.
               </p>
 
               <a
@@ -101,6 +126,9 @@
                   format="webp"
                   quality="90"
                 />
+                <p class="lead">
+                  Ultrakompakt und 4,7kg leicht (Bild: TROBOLO)
+                </p>
               </a>
 
               <div class="h2 pt-5">
@@ -108,7 +136,7 @@
               </div>
               <div class="divider mx-auto my-4"></div>
 
-              <div class="text-justify lead">
+              <div class="text-justify lead" style="color: #000 !important">
                 <ul>
                   <li>Ideal zum Transport in Vans, Wohnmobilen und PKWs</li>
                   <li>Extrem kompakt und ultraleicht</li>
@@ -136,26 +164,26 @@
               </div>
               <div class="divider mx-auto my-4"></div>
 
-              <div class="h2 pt-5">Update/Nachtrag:</div>
-              <div class="divider mx-auto my-4"></div>
-
-              <p class="text-justify lead pt-5">
-                Die Nachfrage ist aktuell extrem hoch wegen bundesweiter
-                Ferienzeiten und laufender Campingsaison. Wir raten daher
-                regelmäßig die Verfügbarkeit zu überprüfen und schnell zu
-                bestellen, wenn die begehrte WandaGo verfügbar ist.
-              </p>
-
               <!-- big green cta button -->
-              <div class="btn-container pt-5">
+              <div class="btn-container pt-5 pb-5">
                 <a
                   href="https://trobolo.com/de/mehr-erfahren/wandago/"
                   rel="nofollow"
                   class="btn btn-main-2 btn-icon btn-round-full"
                   style="font-size: 33px"
-                  >Revolutionäre Campingtoilette kaufen</a
+                  >Verfügbarkeit und mehr Infos >></a
                 >
               </div>
+
+              <div class="h2 pt-5">Update/Nachtrag:</div>
+              <div class="divider mx-auto my-4"></div>
+
+              <p class="text-justify lead pt-5" style="color: #000 !important">
+                Die Nachfrage ist aktuell extrem hoch wegen bundesweiter
+                Ferienzeiten und laufender Campingsaison. Wir raten daher
+                regelmäßig die Verfügbarkeit zu überprüfen und schnell zu
+                bestellen, wenn die begehrte WandaGo verfügbar ist.
+              </p>
             </div>
           </div>
         </div>
