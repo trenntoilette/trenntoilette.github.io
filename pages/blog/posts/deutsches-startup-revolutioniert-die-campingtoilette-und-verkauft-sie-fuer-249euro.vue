@@ -35,6 +35,7 @@
               quality="90"
               alt="WandaGO Campingtoilette"
               style="border-radius: 10px"
+              class="img-fluid"
             />
             <div class="col-md-12 text-md-left text-center text-light pt-2">
               <p class="lead">
@@ -70,7 +71,7 @@
               </p>
               <img
                 src="/images/landingpage/bild2.png"
-                class="pt-5"
+                class="pt-5 img-fluid"
                 format="webp"
                 quality="90"
               />
@@ -93,7 +94,7 @@
               </p>
               <img
                 src="/images/landingpage/bild3.png"
-                class="pt-5"
+                class="pt-5 img-fluid"
                 format="webp"
                 quality="90"
               />
@@ -122,7 +123,7 @@
               >
                 <img
                   src="/images/landingpage/bild4.png"
-                  class="pt-5"
+                  class="pt-5 img-fluid"
                   format="webp"
                   quality="90"
                 />
@@ -169,7 +170,7 @@
                 <a
                   href="https://trobolo.com/de/mehr-erfahren/wandago/"
                   rel="nofollow"
-                  class="btn btn-main-2 btn-icon btn-round-full"
+                  class="btn btn-main-2 btn-icon btn-round-full img-fluid"
                   style="font-size: 33px"
                   >Verfügbarkeit und mehr Infos >></a
                 >
