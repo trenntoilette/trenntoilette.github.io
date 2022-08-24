@@ -3,9 +3,13 @@
     <nav class="navbar navbar-expand-lg navigation" id="navbar">
       <div class="container">
         <!-- <a class="navbar-brand" href="https://www.trenntoilette.net">
-			  	<img src="/images/logo.webp" alt="" class="img-fluid">
-				<span class="nav-link">Trenntoiletten.com</span>
-			 	</a> -->
+          <img
+            src="/images/trenntoilette-logo.png"
+            alt="Trenntoilette.net"
+            class="img-fluid"
+            style="height: 50px"
+          />
+        </a> -->
 
         <button
           class="navbar-toggler collapsed"

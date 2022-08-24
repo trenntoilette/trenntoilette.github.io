@@ -38,8 +38,8 @@
               class="img-fluid"
             />
             <div class="col-md-12 text-md-left text-center text-light pt-2">
-              <p class="lead">
-                Die erst moderne Trenntoilette für Camping optimiert. (BIld:
+              <p class="lead text-center" style="font-size: 14px">
+                Die erste moderne Trenntoilette für Camping optimiert. (Bild:
                 TROBOLO)
               </p>
             </div>
@@ -76,8 +76,8 @@
                 quality="90"
               />
 
-              <p class="lead" style="color: #000 !important">
-                Nachhaltig, autark und immer einsatzbereit (BIld: TROBOLO)
+              <p class="lead" style="color: #000 !important; font-size: 14px">
+                Nachhaltig, autark und immer einsatzbereit (Bild: TROBOLO)
               </p>
 
               <p class="text-justify lead pt-5" style="color: #000 !important">
@@ -98,8 +98,8 @@
                 format="webp"
                 quality="90"
               />
-              <p class="lead" style="color: #000 !important">
-                Zusammengeklappt passt sie in jeden Kofferraum
+              <p class="lead" style="color: #000 !important; font-size: 14px">
+                Zusammengeklappt passt sie in jeden Kofferraum (Bild: TROBOLO)
               </p>
               <h3 class="pt-5">
                 Das Startup aus Niedersachsen macht die Campingtoillette endlich
@@ -127,7 +127,7 @@
                   format="webp"
                   quality="90"
                 />
-                <p class="lead">
+                <p class="lead" style="color: #000 !important; font-size: 14px">
                   Ultrakompakt und 4,7kg leicht (Bild: TROBOLO)
                 </p>
               </a>
