@@ -2,11 +2,7 @@
   <div>
     <nav class="navbar navbar-expand-lg navigation" id="navbar">
       <div class="container">
-        <a
-          class="navbar-brand"
-          href="https://www.trenntoilette.net"
-          style="padding-top: 40px"
-        >
+        <a class="navbar-brand" href="https://www.trenntoilette.net">
           <nuxt-img
             format="webp"
             quality="80"
