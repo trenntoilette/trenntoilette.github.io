@@ -2,14 +2,20 @@
   <div>
     <nav class="navbar navbar-expand-lg navigation" id="navbar">
       <div class="container">
-        <!-- <a class="navbar-brand" href="https://www.trenntoilette.net">
-          <img
+        <a
+          class="navbar-brand"
+          href="https://www.trenntoilette.net"
+          style="padding-top: 40px"
+        >
+          <nuxt-img
+            format="webp"
+            quality="80"
             src="/images/trenntoilette-logo.png"
             alt="Trenntoilette.net"
             class="img-fluid"
-            style="height: 50px"
+            style="width: 175px; height: auto"
           />
-        </a> -->
+        </a>
 
         <button
           class="navbar-toggler collapsed"

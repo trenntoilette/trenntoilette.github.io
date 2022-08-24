@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/posts/deutsches-startup-revolutioniert-die-campingtoilette-und-verkauft-sie-fuer-249euro", {data:[{_img:{"/_ipx/f_webp,q_80/images/trenntoilette-logo.png":"\u002Fassets\u002Fimg\u002Ftrenntoilette-logo.webp"}}],fetch:{},mutations:void 0});
