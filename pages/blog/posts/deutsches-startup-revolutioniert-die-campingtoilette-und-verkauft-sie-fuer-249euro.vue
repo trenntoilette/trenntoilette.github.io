@@ -183,7 +183,7 @@
                 Die Nachfrage ist aktuell extrem hoch wegen bundesweiter
                 Ferienzeiten und laufender Campingsaison. Wir raten daher
                 regelmäßig die Verfügbarkeit zu überprüfen und schnell zu
-                bestellen, wenn die begehrte WandaGO verfügbar ist.
+                bestellen, wenn das begehrte TROBOLO WandaGO verfügbar ist.
               </p>
             </div>
           </div>
