@@ -58,15 +58,15 @@
                 endlich Realität. Es war nur eine Frage der Zeit, bis ein
                 Hersteller die Vorteile einer Trenntoilette campingtauglich
                 machte. Dabei überrascht es uns nicht, dass das Team von TROBOLO
-                das erste ist. Mit der WandaGo präsentiert das Startup eine
-                überzeugende und perfekt durchdachte Lösung zu einem
-                konkurrenzlosen Preis.
+                das erste ist. Mit der TROBOLO WandaGO Campingtoilette
+                präsentiert das Startup eine überzeugende und perfekt
+                durchdachte Lösung zu einem konkurrenzlosen Preis.
               </h3>
               <div class="divider mx-auto my-4"></div>
               <p class="lead text-justify" style="color: #000 !important">
                 Zum ersten Mal gibt es eine „Camping-Trenntoilette“ für
                 autarken, nachhaltigen Toilettenkomfort, überall und immer
-                einsatzbereit. Extrem kompakt und ultraleicht findet die WandaGo
+                einsatzbereit. Extrem kompakt und ultraleicht findet das WandaGO
                 jedem PKW, Van oder Wohnmobil ihren Platz.
               </p>
               <img
@@ -86,8 +86,8 @@
                 Thema für jeden Camper, ob Neuling oder erfahrener Abenteurer.
                 Die altbekannten Chemieklos sind nicht mehr zeitgemäß und
                 unökologisch und kommen für die meisten Camper deshalb nicht
-                mehr in Frage. Hier bietet das WandaGo als Trenntoillete eine
-                nachhaltige Alternative und zukunftsorientierte Lösung.
+                mehr in Frage. Hier bietet das TROBOLO WandaGO als Trenntoillete
+                eine nachhaltige Alternative und zukunftsorientierte Lösung.
                 Unabhängig von Chemieklos, öffentlichen Toiletten und speziellen
                 Entsorgungsstationen ist die mobile Trenntoilette immer
                 einsatzbereit und schnell wieder verstaut.
@@ -101,11 +101,11 @@
               <p class="lead" style="color: #000 !important; font-size: 14px">
                 Zusammengeklappt passt sie in jeden Kofferraum (Bild: TROBOLO)
               </p>
-              <h3 class="pt-5">
-                Das Startup aus Niedersachsen macht die Campingtoillette endlich
-                komplett ökologisch,
-              </h3>
               <p class="text-justify lead" style="color: #000 !important">
+                <span class="font-weight-bold">
+                  Das Startup aus Niedersachsen macht die Campingtoillette
+                  endlich komplett ökologisch,</span
+                >
                 ohne dabei auf Komfort zu verzichten. Weder Strom, Chemie oder
                 Wasser werden benötigt, um diese smarte Art der Campingtoilette
                 zu benutzen. Die Stapelfunktion zum Aufklappen macht eine normal
@@ -160,8 +160,8 @@
               </div>
 
               <div class="h2 pt-5">
-                Die WandaGo ist ein revolutionäres Produkt und für uns die neue
-                Nr.1 der Campingtoiletten.
+                Das TROBOLO WandaGO ist ein revolutionäres Produkt und für uns
+                die neue Nr.1 der Campingtoiletten.
               </div>
               <div class="divider mx-auto my-4"></div>
 
@@ -183,7 +183,7 @@
                 Die Nachfrage ist aktuell extrem hoch wegen bundesweiter
                 Ferienzeiten und laufender Campingsaison. Wir raten daher
                 regelmäßig die Verfügbarkeit zu überprüfen und schnell zu
-                bestellen, wenn die begehrte WandaGo verfügbar ist.
+                bestellen, wenn die begehrte WandaGO verfügbar ist.
               </p>
             </div>
           </div>

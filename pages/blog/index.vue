@@ -107,7 +107,8 @@
                 </p>
                 <nuxt-link
                   to="/blog/posts/deutsches-startup-revolutioniert-die-campingtoilette-und-verkauft-sie-fuer-249euro/"
-                  title="                    verkauft sie für 249€"
+                  title="Deutsches Startup revolutioniert die Campingtoilette und
+                    verkauft sie für 249€"
                   class="btn btn-main-2 btn-icon btn-round-full"
                   >weiterlesen</nuxt-link
                 >
