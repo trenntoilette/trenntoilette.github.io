@@ -175,6 +175,7 @@
                   >Verfügbarkeit und mehr Infos >></a
                 >
               </div>
+              <!-- end big green cta button -->
 
               <div class="h2 pt-5">Update/Nachtrag:</div>
               <div class="divider mx-auto my-4"></div>
