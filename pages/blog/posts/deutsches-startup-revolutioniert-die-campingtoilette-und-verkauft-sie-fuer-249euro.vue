@@ -66,8 +66,8 @@
               <p class="lead text-justify" style="color: #000 !important">
                 Zum ersten Mal gibt es eine „Camping-Trenntoilette“ für
                 autarken, nachhaltigen Toilettenkomfort, überall und immer
-                einsatzbereit. Extrem kompakt und ultraleicht findet das WandaGO
-                jedem PKW, Van oder Wohnmobil ihren Platz.
+                einsatzbereit. Extrem kompakt und ultraleicht findet das TROBOLO
+                WandaGO in jedem PKW, Van oder Wohnmobil ihren Platz.
               </p>
               <img
                 src="/images/landingpage/bild2.png"
