@@ -13,8 +13,7 @@
 
               <p class="lead mb-4 pr-5 text-light">
                 TROBOLO ist ein deutsches Unternehmen welches Trenntoiletten
-                herstellt. Das Holz ist FSC-zertifiziert, die Produkte sind
-                Nachhhaltig und das Design ist toll.
+                herstellt. Die Verarbeitung ist exzellent und das Design ist toll und zeitlos.
               </p>
               <div class="btn-container">
                 <a
