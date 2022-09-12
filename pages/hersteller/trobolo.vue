@@ -17,7 +17,7 @@
               </p>
               <div class="btn-container">
                 <a
-                  href="#articles"
+                  href="#article"
                   class="btn btn-main-2 btn-icon btn-round-full"
                   >Mehr über TROBOLO erfahren ></a
                 >
@@ -28,13 +28,13 @@
       </div>
     </section>
 
-    <section class="section department-single">
+    <section class="section department-single" id="article">
       <div class="container">
         <div class="row">
           <div class="col-lg-8">
             <div class="department-content mt-5">
               <h2 class="text-md">
-                Vom Problem zur Lösung: Die Trenntoilette von Trobolo
+                Vom Problem zur Lösung: Die Trenntoilette von TROBOLO
               </h2>
               <div class="divider my-4"></div>
               <p class="lead">
@@ -52,8 +52,8 @@
                 eine Geruchsüberdeckung. Zersetzt wird damit nichts. Das muss besser gehen, und es geht auch besser.</p>
               <p>
                 Weg von Chemie und Plastiktoiletten, hin zu umweltfreundlichen
-                Materialien und Entsorgungsmöglichkeiten. Dies hat sich Trobolo
-                auf die Fahnen geschrieben. So wurde die erste Trenntoilette von Trobolo bereits 2010 aus
+                Materialien und Entsorgungsmöglichkeiten. Dies hat sich TROBOLO
+                auf die Fahnen geschrieben. So wurde die erste Trenntoilette von TROBOLO bereits 2010 aus
                 recyceltem Altholz hergestellt und bis heute ständig
                 weiterentwickelt.
               </p>
@@ -63,18 +63,18 @@
               </div>
 
               <p>
-                Trobolotoiletten werden von Profis gebaut und entwickelt.
+                TROBOLO Trenntoiletten werden von Profis gebaut und entwickelt.
                 Schreiner und Designexperten kümmern sich um jeden
                 Fertigungsschritt. Das Endprodukt ist eine aus FSC
                 zertifiziertem Holz hergestellte Trenntoilette.
               </p>
 
               <p>
-                Die Trobolo Deutschland GmbH ist in Hannover ansässig, hier
-                vertreibt die GmbH verschiedene Trobolo Toilettenmodelle.
+                Die TROBOLO Deutschland GmbH ist in Hannover ansässig, hier
+                vertreibt die GmbH verschiedene TROBOLO Toilettenmodelle.
               </p>
 
-              <div class="text-md h3 pt-5">Die Trenntoiletten von Trobolo</div>
+              <div class="text-md h3 pt-5">Die Trenntoiletten von TROBOLO</div>
 
               <p class="pt-5">
                 <ul>
@@ -93,14 +93,19 @@
                 </ul>
               </p>
 
-              <div class="h4 pt-5">WandaGo</div>
-              <p>Eine extrem leichte und kompakte Toilette. Die Einzige im Programm, bei der Körper aus Kunststoff gefertigt wird.</p>
+              <div class="h4 pt-5">WandaGO</div>
+              <p>Eine extrem leichte und kompakte Campingtoilette. Die Einzige im Programm, bei der Körper aus Kunststoff gefertigt wird.</p>
+              <p><nuxt-link to="/trobolo-wandago/" title="TROBOLO TeraBloem Testbericht">Zum Testbericht der TROBOLO WandaGO</nuxt-link></p>
+
 
               <div class="h4 pt-5">TeraBloem</div>
               <p>Bausatz für den Innenbereich.</p>
+              <p><nuxt-link to="/trobolo-terabloem/" title="TROBOLO TeraBloem Testbericht">Zum Testbericht der TROBOLO TeraBloem</nuxt-link></p>
 
               <div class="h4 pt-5">KersaBoem</div>
               <p>Bausatz für den Außenbereich.</p>
+              <p><nuxt-link to="/trobolo-kersaboem/" title="TROBOLO KersaBoem Testbericht">Zum Testbericht der TROBOLO KersaBoem</nuxt-link></p>
+
 
               <div class="h4 pt-5">LuweBloem</div>
               <p>Mit optionalem Abluftsystem.</p>
@@ -119,6 +124,8 @@
 
               <div class="h4 pt-5">KitaBoem</div>
               <p>Abgerundet, optional mit Abluftsystem.</p>
+              <p><nuxt-link to="/trobolo-kitaboem/" title="TROBOLO KitaBoem Testbericht">Zum Testbericht der TROBOLO KitaBoem</nuxt-link></p>
+
 
               <div class="h4 pt-5">LunaBloem</div>
               <p>Bausatz für den Außenbereich mit zusätzlicher Kindertoilette.</p>
@@ -134,9 +141,16 @@
 
 
               <div class="text-md h2 pt-5">Fazit</div>
+
+
+
               <p class="lead">
-                TROBOLO ist eine sehr gute Alternative zu herkömmlichen Toiletten und bei dieser Vielfalt ist definitiv das passende Model für Interessenten dabei. Das Holz ist aus nachhaltier Forstwirtschaft und die Toiletten werden in Deutschland hergestellt. Die Verarbeitung ist excellent und das Design ist sehr ansprechend. Wir vergeben TROBOLO daher eine Bestnote.
-              </p>
+                TROBLO ist eine tolle Alternative zu herkömmlichen Toiletten. Das Sortiment ist vielfältig und bietet Trenntoiletten für den Innenbereich, den Außenbereich wie dem <nuxt-link to="/gartentoilette/" title="Gartentoiletten">Garten</nuxt-link>, sowie <nuxt-link to="/campingtoilette/" title="Campingtoiletten">Campingtoiletten</nuxt-link>. Dabei hat jedes Model hat ein Alleinstellungsmerkmal.</p>
+              <p class="lead">Die Verarbeitung der Produkte ist exzellent. Das Holz ist FSC-zertifiziert und stammt aus nachhaltiger Forstwirtschaft.</p> 
+
+            <p class="lead">Nicht vernachlässigt hat TROBOLO das Design, welches sehr ansprechend und zeitlos ist. Fast schon könnte man die Trenntoiletten als Design-Element bezeichen. </p>
+
+            <p class="lead">Wir fühlen uns zur Nutzung einer TROBOLO Trenntoilette eingeladen und sagen "Bravo TROBOLO!".</p>
 
               <h3 class="mt-5 mb-4">Test Kriterien</h3>
               <div class="divider my-4"></div>
@@ -220,7 +234,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "TROBOLO ist ein Unternehmen mit breitem Sortiment an Trenntoiletten. Exzellente Vearbeitung bei tollem, zeitlosem Design. TROBOLO produziert Trenntoiletten für den Innenbereich, den Garten und für's Camping.",
+          "TROBOLO bietet ein breites Sortiment an Trenntoiletten. Exzellente Vearbeitung bei tollem Design. Trenntoiletten für's Haus, den Garten und für's Camping.",
       },
       {
         hid: "author",
