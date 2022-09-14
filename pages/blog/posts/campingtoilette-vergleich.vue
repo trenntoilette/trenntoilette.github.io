@@ -85,10 +85,9 @@
               </p>
 
               <div class="h2 pt-5">
-                Eine Grundsatzfrage: Chemietoilette VS Trenntoilette
+                Geruchsentwicklung bei Chemie- und Trenntoiletten
               </div>
               <div class="divider mx-auto my-4"></div>
-              Geruchsentwicklung bei Chemie- und Trenntoiletten
             </div>
 
             <p class="text-justify lead">
@@ -116,9 +115,7 @@
               vorn.
             </p>
 
-            <div class="h2 pt-5">
-              Eine Grundsatzfrage: Chemietoilette VS Trenntoilette
-            </div>
+            <div class="h2 pt-5">Entleerung und Entsorgung der Toiletten</div>
             <div class="divider mx-auto my-4"></div>
 
             <p class="text-justify lead">
@@ -506,7 +503,7 @@
             <p class="text-justify lead">
               Wir haben drei mobile Toiletten unter 250 € getestet und das
               WandaGO von TROBOLO konnte dabei am meisten punkten und sich den
-              ersten Platz sichern.
+              <span style="font-weight: bold">ersten Platz</span> sichern.
             </p>
             <p class="text-justify lead">
               Besonders gut hat uns die Stapelfunktion gefallen, die eine
@@ -527,8 +524,10 @@
             </p>
 
             <p class="text-justify lead">
-              Auf dem zweiten Platz landete das PortaPotti 335 von Thetford, das
-              mit ebenso geringen Maßen wie das WandaGO daherkommt.
+              Auf dem
+              <span style="font-weight: bold">zweiten Platz</span> landete das
+              PortaPotti 335 von Thetford, das mit ebenso geringen Maßen wie das
+              WandaGO daherkommt.
             </p>
             <p class="text-justify lead">
               Es handelt sich hierbei mit 3,3 kg um die leichteste
@@ -542,7 +541,8 @@
               allerdings im üblichen Bereich.
             </p>
             <p class="text-justify lead">
-              Die Dometic C976 sehen wir auf dem dritten Platz.
+              Die Dometic C976 sehen wir auf dem
+              <span style="font-weight: bold">dritten Platz</span>.
             </p>
             <p class="text-justify lead">
               Hierbei handelt es sich um die größte und schwerste
