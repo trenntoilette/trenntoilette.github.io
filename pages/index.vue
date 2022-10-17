@@ -523,13 +523,13 @@
                 <div class="doctor-img">
                   <img
                     src="/images/trenntoiletten/trenntoilette-trelino-trelino.webp"
-                    alt="Trenntoilette Trelino"
+                    alt="Trenntoilette Trelino L"
                     class="trenntoiletteImageSieger img-fluid w-100"
                   />
                 </div>
               </div>
               <div class="content mt-3">
-                <h4 class="mb-0"><a title="Trelino Trelino">Trelino</a></h4>
+                <h4 class="mb-0"><a title="Trelino Trelino">Trelino L</a></h4>
                 <p class="lead">Trelino</p>
               </div>
             </div>
@@ -543,17 +543,17 @@
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <img
-                    src="/images/trenntoiletten/trenntoilette-kompotoi-separett-weekend.webp"
-                    alt="Trenntoilette Kompotoi Separett Weekend"
+                    src="/images/trenntoiletten/trenntoilette-separett-weekend.webp"
+                    alt="Trenntoilette Separett Weekend"
                     class="trenntoiletteImageSieger img-fluid w-100"
                   />
                 </div>
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a title="Kompotoi Separett Weekend">Separett Weekend</a>
+                  <a title="Separett Weekend">Separett Weekend</a>
                 </h4>
-                <p class="lead">Kompotoi</p>
+                <p class="lead">Separett</p>
               </div>
             </div>
           </div>
