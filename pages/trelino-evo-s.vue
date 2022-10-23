@@ -141,7 +141,7 @@
                                 </li>
                                 <li class="d-flex justify-content-between align-items-center">
                                     <a href="#">Maße</a>
-                                    <span>Höhe 290 - Tiefe 390 - Breite 330 mm </span>
+                                    <span>Höhe 290 - Tiefe 390 - Breite 330</span>
                                 </li>
                                 <li class="d-flex justify-content-between align-items-center">
                                     <a href="#">Gewicht</a>
