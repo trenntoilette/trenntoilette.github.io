@@ -38,15 +38,15 @@
                                 Trenntoilette lediglich ein Gewicht von 4,3 KG auf.
                             </p>
                             <p>
-                                Vorgestellt wurde die Trelino Evo S das erste mal auf der Caravan Salon 2022 Messe in
+                                Vorgestellt wurde die Trelino Evo S das erste Mal auf der Caravan Salon 2022 Messe in
                                 Düsseldorf. Hervorheben tut sich die Trenntoilette vor allem durch ihre Kompaktheit. Die
                                 Trelino Evo S ist also für überall dort gedacht, wo wenig Platz verfügbar ist, zum
                                 Beispiel beim Camping, im Boot oder im Van.
                             </p>
 
-                            <p>Das Material der mobilen Trenntoilette ist Kunststoff. Funktionieren tut die Trelino Evo
+                            <p> Das Material der mobilen Trenntoilette ist Kunststoff. Funktionieren tut die Trelino Evo
                                 S über einen Trenneinsatz, welcher ebenfalls aus Kunststoff ist. Der Deckel der
-                                Trenntoilette hat eine Softclose-Automatik, welches wir als ein nettes komfortables
+                                Trenntoilette hat eine Soft-Close-Automatik, welches wir als ein nettes komfortables
                                 Feature betrachten.</p>
 
                             <p>Die Sitzhöhe der Trelino Evo S beträgt lediglich 29,00 cm, was für den Transport
@@ -66,18 +66,18 @@
                                 was sie ideal macht für Unternehmungen wie Camping, Wochenendtrips oder den Transport im
                                 PKW.</p>
 
-                            <p>Trelino selbst schreibt über sein Produkt, das es solide gebaut ist und somit unterwegs
-                                eine Auslaufsicherheit garantiert ist. Ob Trelino sein versprechen hält, ist abzuwarten.
+                            <p>Trelino selbst schreibt über sein Produkt, dass es solide gebaut ist und somit unterwegs
+                                eine Auslaufsicherheit garantiert ist. Ob Trelino sein Versprechen hält, ist abzuwarten.
                             </p>
 
                             <p>Der Korpus der Mini-Trenntoilette besteht aus Kunststoff, Acrylnitril-Butadien-Styrol
-                                (ABS) um genau zu sein. Die Behälter bestehen aus Polypropylen und Polyethylen, welches
+                                (ABS), um genau zu sein. Die Behälter bestehen aus Polypropylen und Polyethylen, welches
                                 ebenfalls Kunststoff ist.</p>
 
                             <p>Wir finden das Design der Trelino Evo S gut, sie hat einen cleanes, minimalistisches
                                 Design. </p>
 
-                            <p>Vorhanden ist die kleine Trenntoilette in den Farben weiß, Anthrazit und Grau. Der Preis
+                            <p>Vorhanden ist die kleine Trenntoilette in den Farben Weiß, Anthrazit und Grau. Der Preis
                                 liegt bei 349,00 EUR, was wir als hoch angesetzt empfinden. Für alle Vorbesteller bietet
                                 Trelino jedoch einen Rabatt von 50,00 EUR an und ist aktuell somit für 299,00 EUR
                                 vorbestellbar.</p>
