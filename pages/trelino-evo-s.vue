@@ -46,21 +46,26 @@
 
                             <p> Das Material der mobilen Trenntoilette ist Kunststoff. Funktionieren tut die Trelino Evo
                                 S über einen Trenneinsatz, welcher ebenfalls aus Kunststoff ist. Der Deckel der
-                                Trenntoilette hat eine Soft-Close-Automatik, welches wir als ein nettes komfortables
+                                Trenntoilette hat eine Soft-Close-Automatik, welches wir als ein nettes, komfortables
                                 Feature betrachten.</p>
 
                             <p>Die Sitzhöhe der Trelino Evo S beträgt lediglich 29,00 cm, was für den Transport
-                                natürlich optimal ist, für den Stuhlgang jedoch suboptimal und sicherlich
+                                natürlich optimal ist, für den Toilettengang jedoch suboptimal und sicherlich
                                 gewöhnungsbedürftig.</p>
 
                             <p>Testen konnten wir die Trenntoilette bisher leider nicht, da sie derzeit nur
                                 vorbestellbar ist. Die Maße beträgt: Breite 33,00 cm, Tiefe 39,00 cm, Höhe 29,00 cm. Das
-                                Gewicht beträgt lediglich 4,3 KG. Somit ist die kompakte Trenntoilette eine der
-                                leichtesten mobilen Toiletten die verfügbar sind.</p>
+                                Gewicht beträgt lediglich 4,3 KG. Somit ist die kompakte Trenntoilette neben der
+                                <nuxt-link to="/trobolo-wandago/" title="TROBOLO WandaGO Testbericht">WandaGO von
+                                    Trobolo
+                                </nuxt-link> eine der
+                                leichtesten, die auf dem Markt verfügbar sind.
+                            </p>
 
                             <p>Das Volumen des Urinkanisters beträgt 5 Liter, die des Feststoffbehälters beträgt 6
                                 Liter. Eine gesonderte Belüftung hat die kleine Evo S von Trelino nicht, somit ist eine
-                                Verwendung von Einstreu definitiv zu empfehlen.</p>
+                                Verwendung von <nuxt-link to="/einstreu/" title="Einstreu für die Trenntoilette">
+                                    Einstreu</nuxt-link> definitiv zu empfehlen.</p>
 
                             <p>Die Evo S benötigt weder Wasser, Strom, noch Chemie und bietet damit eine Unabhängigkeit,
                                 was sie ideal macht für Unternehmungen wie Camping, Wochenendtrips oder den Transport im
@@ -101,7 +106,7 @@
 
                             <p>
                                 Wir sind gespannt auf die ultrakompakte Trenntoilette Evo S aus dem Hause Trelino,
-                                welches
+                                welche
                                 ab Februar 2023 ausgeliefert werden soll und machen ein informelles Update hier auf
                                 Trenntoilette.net verfügbar, sobald wir das Produkt erhalten haben.
                             </p>
