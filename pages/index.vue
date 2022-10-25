@@ -538,7 +538,7 @@
 
           <div
             class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups="['haus', 'camping']"
+            data-groups="['haus']"
           >
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
