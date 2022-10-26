@@ -135,7 +135,7 @@
                                 Design, die tolle Farbe und der Toilettensitz aus Holz, sowie der extra erhältliche
                                 Lüfter
                                 diesen Preis unserer Meinung nach nicht, zumal hier andere Produkte in selber Maße aus
-                                Vollholz für mehr als 250,00 günstiger zu haben sind.
+                                Vollholz für mehr als 250 € günstiger zu haben sind.
                             </p>
 
                             <h3 class="mt-5 mb-4">Test Kriterien</h3>
