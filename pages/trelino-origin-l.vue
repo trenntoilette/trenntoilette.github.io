@@ -160,35 +160,36 @@
 
                     <div class="col-lg-4">
                         <div class="sidebar-widget schedule-widget mt-5">
-                            <h5 class="mb-4">TeraBlœm</h5>
+                            <h5 class="mb-4">Origin L</h5>
 
                             <ul class="list-unstyled">
                                 <li class="d-flex justify-content-between align-items-center">
                                     <a href="#">Marke</a>
-                                    <span>TROBOLO®</span>
+                                    <span>Trelino</span>
                                 </li>
                                 <li class="d-flex justify-content-between align-items-center">
                                     <a href="#">Material</a>
-                                    <span>Erlen Mehrschichtholz</span>
+                                    <span>Kunststoff & Holz</span>
                                 </li>
                                 <li class="d-flex justify-content-between align-items-center">
                                     <a href="#">Maße</a>
-                                    <span>Höhe 497 - Tiefe 470 - Breite 330</span>
+                                    <span>Höhe 465 - Tiefe 390 - Breite 328</span>
                                 </li>
                                 <li class="d-flex justify-content-between align-items-center">
                                     <a href="#">Gewicht</a>
-                                    <span>12,7 KG</span>
+                                    <span>6,5 KG</span>
                                 </li>
                             </ul>
 
                             <div class="sidebar-contatct-info mt-4">
                                 <p class="mb-0">Preis</p>
-                                <h3>429,00 EUR</h3>
+                                <h3>699,00 EUR</h3>
                             </div>
                         </div>
                         <div class="text-center">
-                            <a href="https://trobolo.com/de/produkte/terabloem/" target="_blank" rel="nofollow noopener"
-                                title="TeraBloem online bestellen" class="btn btn-main-2 btn-round-full">Online
+                            <a href="https://www.trelino.com/de/collections/composting-toilets/products/trelino-l-composting-toilet"
+                                target="_blank" rel="nofollow noopener" title="Trelino Origin L online bestellen"
+                                class="btn btn-main-2 btn-round-full">Online
                                 Bestellen ></a>
                         </div>
                     </div>
