@@ -37,7 +37,7 @@
               <h2 id="datenschutz" class="text-md">Datenschutzerklärung</h2>
               <div class="divider my-4"></div>
               <p>
-                Die Leon Breitschneider ist Betreiber der unter
+                Leon Breitschneider ist Betreiber der unter
                 trenntoilette.net abrufbaren Website. Wir nehmen den Schutz
                 deiner persönlichen Daten sehr ernst und halten uns strikt an
                 die Regeln der Datenschutzgesetze. Personenbezogene Daten werden
