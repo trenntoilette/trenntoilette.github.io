@@ -37,16 +37,16 @@
                             <h2 class="text-md">Trelino Origin L</h2>
                             <div class="divider my-4"></div>
                             <p class="lead">
-                                Trelino führt in seinem Sortiment eines seiner beliebtesten Trenntoiletten mit dem Namen
+                                Trelino führt in seinem Sortiment eine seiner beliebtesten Trenntoiletten mit dem Namen
                                 Trelino Origin L. Sie ist eine Trenntoilette mit Komfort, welche für den Dauereinsatz
-                                gedacht ist. Sie ist in der Farbe Anthrazit erhältlich und besitzt einen Toilettensitz
+                                gedacht ist. Die Origin L ist in der Farbe Anthrazit erhältlich und besitzt einen Toilettensitz
                                 aus Holz. Ebenfalls ist ein separater Lüfter erhältlich. In diesem Testbericht gehen wir
                                 der Trelino Origin L auf den Grund und schauen, für welche Umgebung und Anforderung sich
                                 diese Trenntoilette am besten eignet.
                             </p>
 
                             <p>Trelino selbst schreibt, dass es sich bei der Trelino Origin L um die perfekte Lösung für
-                                Wohnmobile oder Gartenlauben eignet. Die Trenntoilette, welche ohne Wasser und Chemie
+                                Wohnmobile oder Gartenlauben handelt. Die Trenntoilette, welche ohne Wasser und Chemie
                                 auskommt, besitzt ein formschönes Design, hat ein großes Fassungsvermögen sowie eine
                                 Sitzhöhe von 46,5 cm. Die Standardhöhe bei Installationen von herkömmlichen Toiletten
                                 liegt bei 40,00 cm, dadurch fällt die Sitzhöhe der Trelino Origin L höher aus als wie
@@ -61,8 +61,8 @@
                                 Trenntoilette einen Ausschwappstop, dadurch wird verhindert, dass Flüssigkeit auf z. B.
                                 holprigen Wegen mit dem Wohnmobil austreten. </p>
 
-                            <p>Der Deckel der Trelino Origin L hat einen Magnetverschluss, damit ist gewährleistet, dass
-                                der Deckel nicht versehentlich geöffnet wird, dies ist vor allem dann ein Benefit, wenn
+                            <p>Der Deckel der Trelino Origin L hat einen Magnetverschluss. Durch diesen ist gewährleistet, dass
+                                der Deckel nicht versehentlich geöffnet wird. Dies ist vor allem dann ein Benefit, wenn
                                 die Trenntoilette oft mobilisiert wird.</p>
 
                             <p>Das Material besteht aus recyclebarem Polyethylen, so wie die meisten anderen
@@ -71,7 +71,7 @@
 
                             <p>Der Toilettensitz ist aus mehrschichtigem, unbehandeltem und verleimten Birkenholz. Somit
                                 ist jedem Nutzer selber überlassen, ob er den Deckel mit z. B. Holzlack versiegelt.
-                                Empfehlen tun wir dies fast immer, da hierdurch das Holz länger erhalten bleibt und die
+                                Wir empfehlen dies fast immer, da hierdurch das Holz länger erhalten bleibt und die
                                 Trenntoilette einfach ein schöneres Finish bekommt.</p>
 
                             <p>Folgend gehen wir auf die Eckdaten der Trelino Origin L ein:</p>
