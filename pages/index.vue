@@ -26,18 +26,10 @@
     <section class="section about gray-bg">
       <div class="container">
         <div class="row align-items-center">
-          <div class="col-lg-4 col-sm-6">
+          <div class="col-lg-8">
             <div class="about-img">
-              <img src="/images/trenntoiletten/trenntoilette-trobolo-luwebloem-im-haus.webp"
-                alt="Trenntoilette TROBOLO LuweBloem beim Camping" class="img-fluid" />
-              <img src="/images/trenntoiletten/trenntoilette-trobolo-luwebloem-camper.webp"
-                alt="Trenntoilette TROBOLO LuweBloem im Haus" class="img-fluid mt-4" />
-            </div>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <div class="about-img mt-4 mt-lg-0">
-              <img src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem-garten.webp"
-                alt="Garten-Trenntoilette TROBOLO KersaBœm" class="img-fluid" />
+              <img src="/images/trenntoiletten/trenntoiletten.webp" alt="Trenntoilette TROBOLO LuweBloem beim Camping"
+                class="img-fluid" />
             </div>
           </div>
           <div class="col-lg-4">
@@ -50,7 +42,8 @@
                 oder Wasser benötigt wird. Der Umwelt zu Liebe.
               </p>
 
-              <a href="#trenntoiletten" class="btn btn-main-2 btn-round-full btn-icon">Alle Trenntoiletten ansehen ></a>
+              <a href="#trenntoiletten" class="btn btn-main-2 btn-round-full btn-icon">Alle Trenntoiletten ansehen
+                ></a>
             </div>
           </div>
         </div>
