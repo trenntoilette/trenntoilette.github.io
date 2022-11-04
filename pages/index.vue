@@ -105,7 +105,7 @@
               <div class="h2">Trenntoilette Testsieger</div>
               <div class="divider mx-auto my-4"></div>
               <p class="lead">
-                Wir stellen vor: Die beste Trenntoilette in Seiner Kategorie
+                Wir stellen vor: Die besten Trenntoiletten nach Kategorien
               </p>
             </div>
           </div>
