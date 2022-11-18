@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/hersteller/separett", {data:[{_img:{"/_ipx/f_webp,q_80/images/trenntoilette-logo.png":"\u002Fassets\u002Fimg\u002Ftrenntoilette-logo.webp","/_ipx/f_webp,q_90/images/hersteller/separett.png":"\u002Fassets\u002Fimg\u002Fseparett.webp"}}],fetch:{},mutations:void 0});
