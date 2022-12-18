@@ -124,6 +124,12 @@
                   title="Kompotoi"
                   >Kompotoi</nuxt-link
                 >
+                <nuxt-link
+                  class="dropdown-item"
+                  to="/hersteller/boxio/"
+                  title="Boxio"
+                  >Boxio</nuxt-link
+                >
                 <!-- <a class="dropdown-item" href="#">Another action</a>
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="#">Something else here</a> -->

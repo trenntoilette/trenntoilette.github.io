@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/hersteller/boxio", {data:[{_img:{"/_ipx/f_webp,q_80/images/trenntoilette-logo.png":"\u002Fassets\u002Fimg\u002Ftrenntoilette-logo.webp","/_ipx/f_webp,q_90/images/hersteller/boxio.png":"\u002Fassets\u002Fimg\u002Fboxio.webp"}}],fetch:{},mutations:void 0});
