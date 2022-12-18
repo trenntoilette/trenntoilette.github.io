@@ -71,6 +71,7 @@
               </p>
 
               <div class="text-md h2 pt-5">Fazit</div>
+              <div class="divider my-4"></div>
 
               <p class="lead">Separett entwickelt seit 40 Jahren Toilettenlösung und ist somit ein Pionier auf diesem Gebiet. Die Produkte sind zumeist modular aufgebaut und somit erweiterbar, lediglich das Design ist mittlerweile etwas auf der Mode gekommen.</p>
 

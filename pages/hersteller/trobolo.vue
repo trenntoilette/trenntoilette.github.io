@@ -149,7 +149,7 @@
 
               <div class="text-md h2 pt-5">Fazit</div>
 
-
+              <div class="divider my-4"></div>
 
               <p class="lead">
                 TROBLO ist eine tolle Alternative zu herkömmlichen Toiletten. Das Sortiment ist vielfältig und bietet

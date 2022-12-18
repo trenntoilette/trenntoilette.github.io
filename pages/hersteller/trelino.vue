@@ -91,6 +91,7 @@
               <p>Der Herstellungsprozess der Trelino Trenntoiletten findet ausschließlich in Deutschland statt.</p>
 
               <div class="text-md h3 pt-5">Fazit</div>
+              <div class="divider my-4"></div>
 
               <p>
                 Trelino baut formschöne, mobile Trenntoiletten, welche primär für den Campingbereich entwickelt werden
