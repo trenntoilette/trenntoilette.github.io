@@ -32,10 +32,12 @@
         <div class="row align-items-center">
           <div class="col-lg-8">
             <div class="about-img">
-              <img
+              <nuxt-img
                 src="/images/trenntoiletten/trenntoiletten.webp"
                 alt="Trenntoilette TROBOLO LuweBloem beim Camping"
                 class="img-fluid"
+                format="webp"
+                quality="90"
               />
             </div>
           </div>
@@ -138,10 +140,12 @@
           <div class="col-lg-4 col-md-6">
             <div class="department-block mb-5">
               <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">
-                <img
+                <nuxt-img
                   src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
                   alt="Trenntoilette TROBOLO TeraBloem"
                   class="img-fluid w-100"
+                  format="webp"
+                  quality="90"
                 />
               </a>
               <div class="content">
@@ -163,10 +167,12 @@
           <div class="col-lg-4 col-md-6">
             <div class="department-block mb-5">
               <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">
-                <img
+                <nuxt-img
                   src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
                   alt="Trenntoilette TROBOLO KersaBoem"
                   class="img-fluid w-100"
+                  format="webp"
+                  quality="90"
                 />
               </a>
               <div class="content">
@@ -188,10 +194,12 @@
           <div class="col-lg-4 col-md-6">
             <div class="department-block mb-5">
               <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
-                <img
+                <nuxt-img
                   src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
                   alt="Camping Toilette Kildwick MiniLoo"
                   class="img-fluid w-100"
+                  format="webp"
+                  quality="90"
                 />
               </a>
               <div class="content">
@@ -232,7 +240,12 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img class="text-lg" src="/images/icons/chemie.webp" />
+                <nuxt-img
+                  class="text-lg"
+                  src="/images/icons/chemie.webp"
+                  format="webp"
+                  quality="90"
+                />
                 <h4 class="mt-3 mb-3">Chemiefrei</h4>
               </div>
 
@@ -247,7 +260,12 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img class="text-lg" src="/images/icons/wasser.webp" />
+                <nuxt-img
+                  class="text-lg"
+                  src="/images/icons/wasser.webp"
+                  format="webp"
+                  quality="90"
+                />
                 <h4 class="mt-3 mb-3">Wasserersparnis</h4>
               </div>
               <div class="content">
@@ -261,7 +279,12 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img class="text-lg" src="/images/icons/geruchsfrei.webp" />
+                <nuxt-img
+                  class="text-lg"
+                  src="/images/icons/geruchsfrei.webp"
+                  format="webp"
+                  quality="90"
+                />
                 <h4 class="mt-3 mb-3">Geruchsfrei</h4>
               </div>
               <div class="content">
@@ -275,7 +298,12 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img class="text-lg" src="/images/icons/muelleimer.webp" />
+                <nuxt-img
+                  class="text-lg"
+                  src="/images/icons/muelleimer.webp"
+                  format="webp"
+                  quality="90"
+                />
                 <h4 class="mt-3 mb-3">Einfache Entsorgung</h4>
               </div>
 
@@ -290,9 +318,11 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img
+                <nuxt-img
                   class="text-lg"
                   src="/images/icons/umweltfreundlich.webp"
+                  format="webp"
+                  quality="90"
                 />
                 <h4 class="mt-3 mb-3">Umweltfreundlich</h4>
               </div>
@@ -307,7 +337,12 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <img class="text-lg" src="/images/icons/nachhaltig.webp" />
+                <nuxt-img
+                  class="text-lg"
+                  src="/images/icons/nachhaltig.webp"
+                  format="webp"
+                  quality="90"
+                />
                 <h4 class="mt-3 mb-3">Nachhaltig</h4>
               </div>
               <div class="content">
@@ -374,10 +409,12 @@
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">
-                    <img
+                    <nuxt-img
                       src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
                       alt="Trenntoilette TROBOLO TeraBloem"
                       class="trenntoiletteImageSieger img-fluid w-100"
+                      format="webp"
+                      quality="90"
                     />
                   </a>
                 </div>
@@ -401,10 +438,12 @@
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">
-                    <img
+                    <nuxt-img
                       src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
                       alt="Trenntoilette TROBOLO KersaBoem"
                       class="trenntoiletteImageSieger img-fluid w-100"
+                      format="webp"
+                      quality="90"
                     />
                   </a>
                 </div>
@@ -428,10 +467,12 @@
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <a href="/trobolo-kitaboem/" title="TROBOLO KitaBœm">
-                    <img
+                    <nuxt-img
                       src="/images/trenntoiletten/trenntoilette-trobolo-kitaboem.webp"
                       alt="Trenntoilette TROBOLO KitaBoem"
                       class="trenntoiletteImageSieger img-fluid w-100"
+                      format="webp"
+                      quality="90"
                     />
                   </a>
                 </div>
@@ -455,10 +496,12 @@
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <a href="/trobolo-wandago/" title="TROBOLO WandaGO">
-                    <img
+                    <nuxt-img
                       src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
                       alt="Campingtoilette TROBOLO WandaGO"
                       class="trenntoiletteImageSieger img-fluid w-100"
+                      format="webp"
+                      quality="90"
                     />
                   </a>
                 </div>
@@ -482,10 +525,12 @@
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
-                    <img
+                    <nuxt-img
                       src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
                       alt="Camping Toilette Kildwick MiniLoo"
                       class="trenntoiletteImageSieger img-fluid w-100"
+                      format="webp"
+                      quality="90"
                     />
                   </a>
                 </div>
@@ -509,10 +554,12 @@
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <nuxt-link to="/trelino-origin-l/" title="Trelino Origin L">
-                    <img
+                    <nuxt-img
                       src="/images/trenntoiletten/trenntoilette-trelino-origin-l.webp"
                       alt="Trelino Origin L"
                       class="trenntoiletteImageSieger img-fluid w-100"
+                      format="webp"
+                      quality="90"
                     />
                   </nuxt-link>
                 </div>
@@ -536,10 +583,12 @@
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <nuxt-link to="/separett-weekend/" title="Separett Weekend">
-                    <img
+                    <nuxt-img
                       src="/images/trenntoiletten/trenntoilette-separett-weekend.webp"
                       alt="Trenntoilette Separett Weekend"
                       class="trenntoiletteImageSieger img-fluid w-100"
+                      format="webp"
+                      quality="90"
                     />
                   </nuxt-link>
                 </div>
@@ -563,10 +612,12 @@
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <nuxt-link to="/trelino-evo-s/" title="Trelino Evo S">
-                    <img
+                    <nuxt-img
                       src="/images/trenntoiletten/trelino-evo-s.webp"
                       alt="Trelino Evo S"
                       class="trenntoiletteImageSieger img-fluid w-100"
+                      format="webp"
+                      quality="90"
                     />
                   </nuxt-link>
                 </div>
@@ -581,6 +632,37 @@
               </div>
             </div>
           </div>
+
+          <!-- easyloo kildwick -->
+          <div
+            class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
+            data-groups="['camping', 'haus', 'garten]"
+          >
+            <div class="position-relative doctor-inner-box">
+              <div class="doctor-profile">
+                <div class="doctor-img">
+                  <nuxt-link to="/kildwick-easyloo/" title="Kildwick EasyLoo">
+                    <nuxt-img
+                      src="/images/trenntoiletten/trenntoilette-kildwick-easyloo.webp"
+                      alt="Kildwick EasyLoo"
+                      class="trenntoiletteImageSieger img-fluid w-100"
+                      format="webp"
+                      quality="90"
+                    />
+                  </nuxt-link>
+                </div>
+              </div>
+              <div class="content mt-3">
+                <h4 class="mb-0">
+                  <a href="/kildwick-easyloo/" title="Kildwick EasyLoo"
+                    >Kildwick EasyLoo</a
+                  >
+                </h4>
+                <p class="lead">Kildwick</p>
+              </div>
+            </div>
+          </div>
+          <!-- easyloo kildwick end -->
         </div>
       </div>
     </section>
@@ -685,10 +767,12 @@
           <div class="col-lg-12 testimonial-wrap-2">
             <div class="testimonial-block style-2 gray-bg">
               <div class="testimonial-thumb">
-                <img
+                <nuxt-img
                   src="/images/feedback/jennifer.webp"
                   alt="Feedback von Jennifer"
                   class="img-fluid"
+                  format="webp"
+                  quality="90"
                 />
               </div>
 
@@ -703,12 +787,18 @@
                 </p>
               </div>
 
-              <img src="/images/icons/zitat.webp" />
+              <nuxt-img
+                src="/images/icons/zitat.webp"
+                format="webp"
+                quality="90"
+              />
             </div>
 
             <div class="testimonial-block style-2 gray-bg">
               <div class="testimonial-thumb">
-                <img
+                <nuxt-img
+                  format="webp"
+                  quality="90"
                   src="/images/feedback/nicolas.webp"
                   alt="Feedback von Nicolas"
                   class="img-fluid"
@@ -726,15 +816,21 @@
                 </p>
               </div>
 
-              <img src="/images/icons/zitat.webp" />
+              <nuxt-img
+                format="webp"
+                quality="90"
+                src="/images/icons/zitat.webp"
+              />
             </div>
 
             <div class="testimonial-block style-2 gray-bg">
               <div class="testimonial-thumb">
-                <img
+                <nuxt-img
                   src="/images/feedback/vicky.webp"
                   alt="Feedback von Vicky"
                   class="img-fluid"
+                  format="webp"
+                  quality="90"
                 />
               </div>
 
@@ -749,7 +845,11 @@
                 </p>
               </div>
 
-              <img src="/images/icons/zitat.webp" />
+              <nuxt-img
+                src="/images/icons/zitat.webp"
+                format="webp"
+                quality="90"
+              />
             </div>
           </div>
         </div>
@@ -776,37 +876,45 @@
         <div class="row clients-logo">
           <div class="col-lg-3">
             <div class="client-thumb">
-              <img
+              <nuxt-img
                 src="/images/hersteller/trobolo.webp"
                 alt="TROBOLO"
                 class="img-fluid"
+                format="webp"
+                quality="90"
               />
             </div>
           </div>
           <div class="col-lg-3">
             <div class="client-thumb">
-              <img
+              <nuxt-img
                 src="/images/hersteller/kildwick.webp"
                 alt="Kildwick"
                 class="img-fluid"
+                format="webp"
+                quality="90"
               />
             </div>
           </div>
           <div class="col-lg-3">
             <div class="client-thumb">
-              <img
+              <nuxt-img
                 src="/images/hersteller/meinetrenntoilette.webp"
                 alt="MeineTrenntoilette"
                 class="img-fluid"
+                format="webp"
+                quality="90"
               />
             </div>
           </div>
           <div class="col-lg-3">
             <div class="client-thumb">
-              <img
+              <nuxt-img
                 src="/images/hersteller/kompotoi.webp"
                 alt="Kompotoi"
                 class="img-fluid"
+                format="webp"
+                quality="90"
               />
             </div>
           </div>
