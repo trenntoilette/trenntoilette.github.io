@@ -273,7 +273,7 @@ export default {
           "@type": "Product",
           name: "EasyLoo",
           image: [
-            "https://www.trenntoilette.net/_nuxt/img/trenntoilette-kildwick-easyloo.webp",
+            "https://www.trenntoilette.net/assets/img/trenntoilette-kildwick-easyloo.webp",
           ],
           description:
             "Die Trenntoilette EasyLoo von Kildwick ist ein Trenntoiletten-Bausatz aus dem Hause Kildwick. Sie ist leicht aufzubauen und bietet viel Komfort zu einem guten Preis.",
