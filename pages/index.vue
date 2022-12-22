@@ -1010,31 +1010,37 @@
 </template>
 
 <script>
+// import multiLanguageOptions from "~/plugins/lang.js";
+
 export default {
   name: "IndexPage",
-  head: {
-    title: "Trenntoilette - Alle Testsieger im Überblick",
-    meta: [
-      {
-        hid: "description",
-        name: "description",
-        content:
-          "Trenntoilette für Garten, Haus und Camping im Vergleich. Wir haben einen Testsieger und helfen dir zu entscheiden, welche Trenntoilette für dich die richtige ist.",
-      },
-      {
-        hid: "author",
-        name: "author",
-        content: "trenntoilette.net",
-      },
-    ],
-    script: [
-      { src: "js/main.js", type: "text/javascript", body: true },
-      {
-        src: "/plugins/slick-carousel/slick/slick.min.js",
-        type: "text/javascript",
-      },
-      { src: "/plugins/shuffle/shuffle.min.js", type: "text/javascript" },
-    ],
+  head() {
+    const routePath = this.$route.path;
+    return {
+      title: "Trenntoilette - Alle Testsieger im Überblick",
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content:
+            "Trenntoilette für Garten, Haus und Camping im Vergleich. Wir haben einen Testsieger und helfen dir zu entscheiden, welche Trenntoilette für dich die richtige ist.",
+        },
+        {
+          hid: "author",
+          name: "author",
+          content: "trenntoilette.net",
+        },
+      ],
+      script: [
+        { src: "js/main.js", type: "text/javascript", body: true },
+        {
+          src: "/plugins/slick-carousel/slick/slick.min.js",
+          type: "text/javascript",
+        },
+        { src: "/plugins/shuffle/shuffle.min.js", type: "text/javascript" },
+      ],
+      // link: multiLanguageOptions(routePath),
+    };
   },
 };
 </script>
