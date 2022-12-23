@@ -17,5 +17,13 @@
             "hreflang": "en",
             "href": "https://www.compostino.com"
         }
-    ]
+    ],
+    "urlMatching": {
+        "/": {
+            "en": "/"
+        },
+        "/campingtoilette/": {
+            "en": "/campingtoilet/"
+        }
+    }
 }

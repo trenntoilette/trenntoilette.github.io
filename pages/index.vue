@@ -1039,7 +1039,6 @@ export default {
         },
         { src: "/plugins/shuffle/shuffle.min.js", type: "text/javascript" },
       ],
-      // link: multiLanguageOptions(routePath),
     };
   },
 };
