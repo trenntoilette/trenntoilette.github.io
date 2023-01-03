@@ -4,8 +4,12 @@ export default ({ app, route }) => {
     const routePath = route.path
     const urlMatching = config.urlMatching;
 
+    // if multiLanguage is not enabled, return
+    if (!config.multiLanguage) { return }
+
     // for each language, add the alternate link to the app.head.link array
     // which will then be added to the head of the page as <link rel="alternate" ... />
+
     config.languages.forEach((language) => {
         let path;
 

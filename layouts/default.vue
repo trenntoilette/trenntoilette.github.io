@@ -27,13 +27,44 @@
 
         <div class="collapse navbar-collapse" id="navbarmain">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
-              <a class="nav-link" title="Trenntoilette" href="/">Startseite</a>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="/#sieger">Testsieger</a>
-            </li>
-            <li class="nav-item dropdown">
+            <!-- navigationLinks -->
+            <template v-for="(item, index) in navigationLinks">
+              <li class="nav-item dropdown" v-if="item.sublinks" :key="index">
+                <a
+                  class="nav-link dropdown-toggle"
+                  href="#"
+                  id="navbarDropdown"
+                  role="button"
+                  data-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  {{ item.linktext }}
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <nuxt-link
+                    class="dropdown-item"
+                    v-for="(child, i) in item.sublinks"
+                    :key="i"
+                    :to="child.url"
+                    :title="child.linktitle"
+                    >{{ child.linktext }}</nuxt-link
+                  >
+                </div>
+              </li>
+              <li class="nav-item" v-else :key="index">
+                <nuxt-link
+                  class="nav-link"
+                  :to="item.url"
+                  :title="item.linktitle"
+                >
+                  {{ item.linktext }}
+                </nuxt-link>
+              </li>
+            </template>
+            <!-- end navigationLinks -->
+
+            <!-- <li class="nav-item dropdown">
               <a
                 class="nav-link dropdown-toggle"
                 href="#"
@@ -130,12 +161,8 @@
                   title="Boxio"
                   >Boxio</nuxt-link
                 >
-                <!-- <a class="dropdown-item" href="#">Another action</a>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#">Something else here</a> -->
               </div>
             </li>
-            <!-- /blog/ link -->
             <li class="nav-item active">
               <a class="nav-link" title="Trenntoiletten Blog" href="/blog/"
                 >Blog</a
@@ -146,7 +173,7 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/#kontakt">Kontakt</a>
-            </li>
+            </li> -->
           </ul>
         </div>
       </div>
@@ -191,30 +218,17 @@
               <div class="divider mb-4"></div>
 
               <ul class="list-unstyled footer-menu lh-35">
-                <li>
-                  <nuxt-link to="/gartentoilette/" title="Gartentoiletten"
-                    >Gartentoilette</nuxt-link
+                <li v-for="(item, index) in footerLinks" :key="index">
+                  <nuxt-link :to="item.url" :title="item.linktitle">
+                    {{ item.linktext }}</nuxt-link
                   >
                 </li>
+                <li><nuxt-link to="/impressum/">Impressum</nuxt-link></li>
                 <li>
-                  <nuxt-link to="/campingtoilette/" title="Campingtoilette"
-                    >Campingtoilette</nuxt-link
+                  <nuxt-link to="/impressum/#datenschutz"
+                    >Datenschutz</nuxt-link
                   >
                 </li>
-                <li>
-                  <nuxt-link
-                    to="/einstreu/"
-                    title="Einstreu für die Trenntoilette"
-                    >Einstreu</nuxt-link
-                  >
-                </li>
-                <li>
-                  <nuxt-link to="/blog/" title="Blog zum Thema Trenntoilette"
-                    >Blog</nuxt-link
-                  >
-                </li>
-                <li><a href="/impressum/">Impressum</a></li>
-                <li><a href="/impressum/#datenschutz">Datenschutz</a></li>
               </ul>
             </div>
           </div>
@@ -308,3 +322,39 @@
     </footer>
   </div>
 </template>
+
+<script>
+import config from "~/assets/data/config.json";
+
+export default {
+  name: "defaultLayout",
+  data() {
+    return {
+      navigationLinks: config.navigationLinks,
+    };
+  },
+  computed: {
+    footerLinks() {
+      // filter links in navigationLinks where footerLink property is true and also return if an item.sublink.footerLink is true
+
+      let items = [];
+
+      this.navigationLinks.forEach((element) => {
+        if (element.footerLink) {
+          items.push(element);
+        } else {
+          if (element.sublinks) {
+            element.sublinks.forEach((sublink) => {
+              if (sublink.footerLink) {
+                items.push(sublink);
+              }
+            });
+          }
+        }
+      });
+
+      return items;
+    },
+  },
+};
+</script>
