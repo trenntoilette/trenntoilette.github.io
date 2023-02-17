@@ -39,8 +39,8 @@
               <div class="text-md h3 pt-5">
                 Produkte von Trelino
               </div>
-              <p>Trelino baut mobile Trenntoiletten, welche man definitiv auch rein als <nuxt-link
-                  to="/campingtoilette/" title="Campingtoiletten">Campingtoiletten</nuxt-link> bezeichnen
+              <p>Trelino baut mobile Trenntoiletten, welche man definitiv auch rein als <nuxt-link to="/campingtoilette/"
+                  title="Campingtoiletten">Campingtoiletten</nuxt-link> bezeichnen
                 kann. Jedoch stellt Trelino auch Produkte wie die Trelino Origin L her, welche für den Dauereinsatz an
                 einem Ort gedacht sind, wie z. B. im Badezimme</p>
               <p>Das Design der Trelino ist minimalistisch und zeitlos und zieht sich über die komplette Produktpalette.
@@ -129,7 +129,7 @@
 
           <div class="col-lg-4">
             <div clss="sidebar-contatct-info mt-4">
-              <img format="webp" src="/images/hersteller/trelino.png" style="width: 50%" alt="Trelino"
+              <img format="webp" src="/images/hersteller/trelino.webp" style="width: 50%" alt="Trelino"
                 class="img-fluid mx-auto d-block" />
             </div>
             <div class="sidebar-widget schedule-widget mt-5">
@@ -155,9 +155,9 @@
               </ul>
 
               <!-- <div class="sidebar-contatct-info mt-4">
-                <p class="mb-0">Preis</p>
-                <h3>579,90 EUR</h3>
-              </div> -->
+                        <p class="mb-0">Preis</p>
+                        <h3>579,90 EUR</h3>
+                      </div> -->
             </div>
             <div class="text-center">
               <a href="https://www.trelino.com/de/" target="_blank" rel="nofollow noopener noreferrer" title="Kildwick"
