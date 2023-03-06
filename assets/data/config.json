@@ -128,5 +128,15 @@
             "linktext": "Kontakt",
             "url": "/#kontakt"
         }
+    ],
+    "faqs": [
+        {
+            "question": "Was ist eine Trenntoilette?",
+            "answer": "Grundsätzlich handelt es sich bei einer Trenntoilette um eine Toilette, bei der Kot und Urin beim Toilettengang voneinander getrennt werden. Dank dieses Trennmechanismus kommen Trenntoiletten ohne Wasser und Chemie aus. Dies macht sie zu einer idealen Lösung für eine Vielzahl von Einsatzbereichen, beispielsweise im Garten, im Wohnmobil oder auch daheim. Mittlerweile gibt es eine Vielzahl von Herstellern und Modellen, die alle ihre Vor- und Nachteile mit sich bringen. Daher haben wir es uns zur Aufgabe gemacht, die verschiedenen Modelle zu testen und zu vergleichen. In unseren Testberichten finden Sie ausführliche Informationen zu den jeweiligen Trenntoiletten, so dass diese ihnen als Entscheidungshilfe bei der Wahl der richtigen Trenntoilette dienen können."
+        },
+        {
+            "question": "Welche Trenntoilette ist die beste?",
+            "answer": "Diese Frage stellen sich viele Interessierte, allerdings lässt sich das gar nicht so pauschal beantworten. Beispielsweise gibt es große Trenntoiletten mit Toilettenhäuschen, die vor allem im Bereich Kleingarten eingesetzt werden, aber für die Mitnahme im Wohnmobil ziemlich ungeeignet sind. Dann wiederum gibt es kleine, handliche Modelle, die man problemlos ins Auto packen und mit zum Camping nehmen kann. Die richtige Wahl hängt also stark von Ihren persönlichen Präferenzen und Vorhaben ab."
+        }
     ]
 }

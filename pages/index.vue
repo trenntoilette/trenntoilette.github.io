@@ -1011,6 +1011,22 @@
 
 <script>
 // import multiLanguageOptions from "~/plugins/lang.js";
+import { faqs } from "~/assets/data/config.json";
+
+function createFAQitems(faqs) {
+  const faqItems = faqs.map((item, index) => {
+    return {
+      "@type": "Question",
+      name: item.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: item.answer,
+      },
+    };
+  });
+
+  return faqItems;
+}
 
 export default {
   name: "IndexPage",
@@ -1038,6 +1054,23 @@ export default {
           type: "text/javascript",
         },
         { src: "/plugins/shuffle/shuffle.min.js", type: "text/javascript" },
+      ],
+    };
+  },
+  data() {
+    return {
+      faqs,
+    };
+  },
+  jsonld() {
+    return {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: createFAQitems(this.faqs),
+        },
       ],
     };
   },
