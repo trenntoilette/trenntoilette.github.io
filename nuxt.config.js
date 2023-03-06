@@ -41,7 +41,7 @@ export default {
 
     // middleware
     router: {
-        middleware: 'lang'
+        // middleware: 'lang'
     },
 
     // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
