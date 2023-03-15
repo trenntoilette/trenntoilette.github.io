@@ -89,7 +89,7 @@
                 als vorgefertigter Bausatz. Der Aufbau und die Inbetriebnahme
                 war sehr einfach. Auch hier ist wie bei der
                 <a
-                  href="/trobolo-terabloem"
+                  href="/trobolo-terabloem/"
                   title="Trenntoilette TROBOLO TeraBlœm im Test"
                   >TROBOLO® TeraBlœm</a
                 >
