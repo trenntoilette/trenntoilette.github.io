@@ -1086,7 +1086,7 @@ export default {
         },
       ],
       script: [
-        { src: "js/main.js", type: "text/javascript", body: true },
+        { src: "/js/main.js", type: "text/javascript", body: true },
         {
           src: "/plugins/slick-carousel/slick/slick.min.js",
           type: "text/javascript",
