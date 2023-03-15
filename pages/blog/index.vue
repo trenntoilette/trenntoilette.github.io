@@ -56,7 +56,7 @@
                     Campingtoiletten unter 250 € im Vergleich
                   </h5>
                 </nuxt-link>
-                <p class="card-text">
+                <p class="card-text" style="min-height: 100px">
                   Unter Campern wird das Thema Campingtoilette aktuell heiß
                   diskutiert...
                 </p>
@@ -101,7 +101,7 @@
                     verkauft sie für 249€
                   </h5>
                 </nuxt-link>
-                <p class="card-text">Produktneuheit</p>
+                <p class="card-text" style="min-height: 55px">Produktneuheit</p>
                 <p class="card-text">
                   <small class="text-muted">21. August 2022</small>
                 </p>
@@ -116,6 +116,45 @@
             </div>
           </div>
           <!-- blog article card -->
+
+          <!-- blog article card -->
+          <div class="col-lg-4">
+            <div class="card" style="width: 18rem">
+              <nuxt-link
+                to="/blog/posts/richtig-kompostieren/"
+                title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird"
+              >
+                <nuxt-img
+                  class="card-img-top"
+                  src="/images/blog/kiezkompost.jpg"
+                  format="webp"
+                  quality="90"
+                  alt="Campingtoilette unter 250 € im Vergleich"
+                />
+              </nuxt-link>
+              <div class="card-body">
+                <nuxt-link
+                  to="/blog/posts/richtig-kompostieren/"
+                  title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird"
+                >
+                  <h5 class="card-title">Trenntoilette richtig kompostieren</h5>
+                </nuxt-link>
+                <p class="card-text" style="min-height: 100px">
+                  Wie aus Kompost Humus wird
+                </p>
+                <p class="card-text">
+                  <small class="text-muted">15. März 2023</small>
+                </p>
+                <nuxt-link
+                  to="/blog/posts/richtig-kompostieren/"
+                  title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird"
+                  class="btn btn-main-2 btn-icon btn-round-full"
+                  >weiterlesen</nuxt-link
+                >
+              </div>
+            </div>
+          </div>
+          <!-- end blog article card -->
         </div>
 
         <div class="row">
