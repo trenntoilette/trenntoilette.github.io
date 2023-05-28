@@ -6,9 +6,7 @@
           <div class="col-lg-6 col-md-12 col-xl-7">
             <div class="block">
               <div class="divider mb-3"></div>
-              <span class="text-uppercase lead letter-spacing text-light"
-                >Wir finden für Sie die beste</span
-              >
+              <span class="text-uppercase lead letter-spacing text-light">Wir finden für Sie die beste</span>
               <h1 class="mb-3 mt-3 text-light">Trenntoilette</h1>
 
               <p class="lead mb-4 pr-5 text-light">
@@ -17,9 +15,7 @@
                 Trenntoilette für Ihr Einsatzgebiet.
               </p>
               <div class="btn-container">
-                <a href="#sieger" class="btn btn-main-2 btn-icon btn-round-full"
-                  >Zu den Testsiegern ></a
-                >
+                <a href="#sieger" class="btn btn-main-2 btn-icon btn-round-full">Zu den Testsiegern ></a>
               </div>
             </div>
           </div>
@@ -32,13 +28,8 @@
         <div class="row align-items-center">
           <div class="col-lg-8">
             <div class="about-img">
-              <nuxt-img
-                src="/images/trenntoiletten/trenntoiletten.webp"
-                alt="Trenntoilette TROBOLO LuweBloem beim Camping"
-                class="img-fluid"
-                format="webp"
-                quality="90"
-              />
+              <nuxt-img src="/images/trenntoiletten/trenntoiletten.webp"
+                alt="Trenntoilette TROBOLO LuweBloem beim Camping" class="img-fluid" format="webp" quality="90" />
             </div>
           </div>
           <div class="col-lg-4">
@@ -51,11 +42,7 @@
                 oder Wasser benötigt wird. Der Umwelt zu Liebe.
               </p>
 
-              <a
-                href="#trenntoiletten"
-                class="btn btn-main-2 btn-round-full btn-icon"
-                >Alle Trenntoiletten ansehen ></a
-              >
+              <a href="#trenntoiletten" class="btn btn-main-2 btn-round-full btn-icon">Alle Trenntoiletten ansehen ></a>
             </div>
           </div>
         </div>
@@ -79,23 +66,13 @@
         <div class="row">
           <div class="col-md-4">
             <div class="card" style="width: 18rem">
-              <nuxt-link
-                to="/blog/posts/campingtoilette-vergleich/"
-                title="Campingtoilette unter 250 Euro im Vergleich"
-              >
-                <nuxt-img
-                  class="card-img-top"
-                  src="/images/blog/camping.jpg"
-                  format="webp"
-                  quality="90"
-                  alt="Campingtoilette unter 250 € im Vergleich"
-                />
+              <nuxt-link to="/blog/posts/campingtoilette-vergleich/" title="Campingtoilette unter 250 Euro im Vergleich">
+                <nuxt-img class="card-img-top" src="/images/blog/camping.jpg" format="webp" quality="90"
+                  alt="Campingtoilette unter 250 € im Vergleich" />
               </nuxt-link>
               <div class="card-body">
-                <nuxt-link
-                  to="/blog/posts/campingtoilette-vergleich/"
-                  title="Campingtoiletten unter 250 Euro im Vergleich"
-                >
+                <nuxt-link to="/blog/posts/campingtoilette-vergleich/"
+                  title="Campingtoiletten unter 250 Euro im Vergleich">
                   <h5 class="card-title">
                     Campingtoiletten unter 250 € im Vergleich
                   </h5>
@@ -107,36 +84,23 @@
                 <p class="card-text">
                   <small class="text-muted">15. August 2022</small>
                 </p>
-                <nuxt-link
-                  to="/blog/posts/campingtoilette-vergleich/"
-                  title="Campingtoiletten unter 250 Euro im Vergleich"
-                  class="btn btn-main-2 btn-icon btn-round-full"
-                >
-                  weiterlesen</nuxt-link
-                >
+                <nuxt-link to="/blog/posts/campingtoilette-vergleich/"
+                  title="Campingtoiletten unter 250 Euro im Vergleich" class="btn btn-main-2 btn-icon btn-round-full">
+                  weiterlesen</nuxt-link>
               </div>
             </div>
           </div>
           <!-- blog article card -->
           <div class="col-lg-4">
             <div class="card" style="width: 18rem">
-              <nuxt-link
-                to="/blog/posts/richtig-kompostieren/"
-                title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird"
-              >
-                <nuxt-img
-                  class="card-img-top"
-                  src="/images/blog/kiezkompost.jpg"
-                  format="webp"
-                  quality="90"
-                  alt="Campingtoilette unter 250 € im Vergleich"
-                />
+              <nuxt-link to="/blog/posts/richtig-kompostieren/"
+                title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird">
+                <nuxt-img class="card-img-top" src="/images/blog/kiezkompost.jpg" format="webp" quality="90"
+                  alt="Campingtoilette unter 250 € im Vergleich" />
               </nuxt-link>
               <div class="card-body">
-                <nuxt-link
-                  to="/blog/posts/richtig-kompostieren/"
-                  title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird"
-                >
+                <nuxt-link to="/blog/posts/richtig-kompostieren/"
+                  title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird">
                   <h5 class="card-title">Trenntoilette richtig kompostieren</h5>
                 </nuxt-link>
                 <p class="card-text" style="min-height: 100px">
@@ -145,12 +109,9 @@
                 <p class="card-text">
                   <small class="text-muted">15. März 2023</small>
                 </p>
-                <nuxt-link
-                  to="/blog/posts/richtig-kompostieren/"
+                <nuxt-link to="/blog/posts/richtig-kompostieren/"
                   title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird"
-                  class="btn btn-main-2 btn-icon btn-round-full"
-                  >weiterlesen</nuxt-link
-                >
+                  class="btn btn-main-2 btn-icon btn-round-full">weiterlesen</nuxt-link>
               </div>
             </div>
           </div>
@@ -178,13 +139,8 @@
           <div class="col-lg-4 col-md-6">
             <div class="department-block mb-5">
               <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">
-                <nuxt-img
-                  src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
-                  alt="Trenntoilette TROBOLO TeraBloem"
-                  class="img-fluid w-100"
-                  format="webp"
-                  quality="90"
-                />
+                <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
+                  alt="Trenntoilette TROBOLO TeraBloem" class="img-fluid w-100" format="webp" quality="90" />
               </a>
               <div class="content">
                 <h5 class="mt-4 mb-2 title-color">
@@ -205,13 +161,8 @@
           <div class="col-lg-4 col-md-6">
             <div class="department-block mb-5">
               <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">
-                <nuxt-img
-                  src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
-                  alt="Trenntoilette TROBOLO KersaBoem"
-                  class="img-fluid w-100"
-                  format="webp"
-                  quality="90"
-                />
+                <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
+                  alt="Trenntoilette TROBOLO KersaBoem" class="img-fluid w-100" format="webp" quality="90" />
               </a>
               <div class="content">
                 <h5 class="mt-4 mb-2 title-color">
@@ -232,13 +183,8 @@
           <div class="col-lg-4 col-md-6">
             <div class="department-block mb-5">
               <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
-                <nuxt-img
-                  src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
-                  alt="Camping Toilette Kildwick MiniLoo"
-                  class="img-fluid w-100"
-                  format="webp"
-                  quality="90"
-                />
+                <nuxt-img src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
+                  alt="Camping Toilette Kildwick MiniLoo" class="img-fluid w-100" format="webp" quality="90" />
               </a>
               <div class="content">
                 <h5 class="mt-4 mb-2 title-color">
@@ -278,12 +224,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <nuxt-img
-                  class="text-lg"
-                  src="/images/icons/chemie.webp"
-                  format="webp"
-                  quality="90"
-                />
+                <nuxt-img class="text-lg" src="/images/icons/chemie.webp" format="webp" quality="90" />
                 <h4 class="mt-3 mb-3">Chemiefrei</h4>
               </div>
 
@@ -298,12 +239,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <nuxt-img
-                  class="text-lg"
-                  src="/images/icons/wasser.webp"
-                  format="webp"
-                  quality="90"
-                />
+                <nuxt-img class="text-lg" src="/images/icons/wasser.webp" format="webp" quality="90" />
                 <h4 class="mt-3 mb-3">Wasserersparnis</h4>
               </div>
               <div class="content">
@@ -317,12 +253,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <nuxt-img
-                  class="text-lg"
-                  src="/images/icons/geruchsfrei.webp"
-                  format="webp"
-                  quality="90"
-                />
+                <nuxt-img class="text-lg" src="/images/icons/geruchsfrei.webp" format="webp" quality="90" />
                 <h4 class="mt-3 mb-3">Geruchsfrei</h4>
               </div>
               <div class="content">
@@ -336,12 +267,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <nuxt-img
-                  class="text-lg"
-                  src="/images/icons/muelleimer.webp"
-                  format="webp"
-                  quality="90"
-                />
+                <nuxt-img class="text-lg" src="/images/icons/muelleimer.webp" format="webp" quality="90" />
                 <h4 class="mt-3 mb-3">Einfache Entsorgung</h4>
               </div>
 
@@ -356,12 +282,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <nuxt-img
-                  class="text-lg"
-                  src="/images/icons/umweltfreundlich.webp"
-                  format="webp"
-                  quality="90"
-                />
+                <nuxt-img class="text-lg" src="/images/icons/umweltfreundlich.webp" format="webp" quality="90" />
                 <h4 class="mt-3 mb-3">Umweltfreundlich</h4>
               </div>
               <div class="content">
@@ -375,12 +296,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="service-item mb-4">
               <div class="icon d-flex align-items-center">
-                <nuxt-img
-                  class="text-lg"
-                  src="/images/icons/nachhaltig.webp"
-                  format="webp"
-                  quality="90"
-                />
+                <nuxt-img class="text-lg" src="/images/icons/nachhaltig.webp" format="webp" quality="90" />
                 <h4 class="mt-3 mb-3">Nachhaltig</h4>
               </div>
               <div class="content">
@@ -415,12 +331,7 @@
         <div class="col-12 text-center mb-5">
           <div class="btn-group btn-group-toggle" data-toggle="buttons">
             <label class="btn active">
-              <input
-                type="radio"
-                name="shuffle-filter"
-                value="all"
-                checked="checked"
-              />Alle Einsatzgebiete
+              <input type="radio" name="shuffle-filter" value="all" checked="checked" />Alle Einsatzgebiete
             </label>
             <label class="btn">
               <input type="radio" name="shuffle-filter" value="haus" />Haus
@@ -429,205 +340,139 @@
               <input type="radio" name="shuffle-filter" value="garten" />Garten
             </label>
             <label class="btn">
-              <input
-                type="radio"
-                name="shuffle-filter"
-                value="camping"
-              />Camping
+              <input type="radio" name="shuffle-filter" value="camping" />Camping
             </label>
           </div>
         </div>
 
         <div class="row shuffle-wrapper portfolio-gallery">
-          <div
-            class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups="['haus']"
-          >
+          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['haus']">
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">
-                    <nuxt-img
-                      src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
-                      alt="Trenntoilette TROBOLO TeraBloem"
-                      class="trenntoiletteImageSieger img-fluid w-100"
-                      format="webp"
-                      quality="90"
-                    />
+                    <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
+                      alt="Trenntoilette TROBOLO TeraBloem" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
+                      quality="90" />
                   </a>
                 </div>
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem"
-                    >TeraBlœm</a
-                  >
+                  <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">TeraBlœm</a>
                 </h4>
                 <p class="lead">Trobolo</p>
               </div>
             </div>
           </div>
 
-          <div
-            class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups="['garten']"
-          >
+          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['garten']">
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">
-                    <nuxt-img
-                      src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
-                      alt="Trenntoilette TROBOLO KersaBoem"
-                      class="trenntoiletteImageSieger img-fluid w-100"
-                      format="webp"
-                      quality="90"
-                    />
+                    <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
+                      alt="Trenntoilette TROBOLO KersaBoem" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
+                      quality="90" />
                   </a>
                 </div>
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem"
-                    >KersaBœm</a
-                  >
+                  <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">KersaBœm</a>
                 </h4>
                 <p class="lead">Trobolo</p>
               </div>
             </div>
           </div>
 
-          <div
-            class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups="['garten']"
-          >
+          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['garten']">
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <a href="/trobolo-kitaboem/" title="TROBOLO KitaBœm">
-                    <nuxt-img
-                      src="/images/trenntoiletten/trenntoilette-trobolo-kitaboem.webp"
-                      alt="Trenntoilette TROBOLO KitaBoem"
-                      class="trenntoiletteImageSieger img-fluid w-100"
-                      format="webp"
-                      quality="90"
-                    />
+                    <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-kitaboem.webp"
+                      alt="Trenntoilette TROBOLO KitaBoem" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
+                      quality="90" />
                   </a>
                 </div>
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/trobolo-kitaboem/" title="TROBOLO KitaBoem"
-                    >KitaBœm</a
-                  >
+                  <a href="/trobolo-kitaboem/" title="TROBOLO KitaBoem">KitaBœm</a>
                 </h4>
                 <p class="lead">Trobolo</p>
               </div>
             </div>
           </div>
 
-          <div
-            class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups="['camping']"
-          >
+          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping']">
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <a href="/trobolo-wandago/" title="TROBOLO WandaGO">
-                    <nuxt-img
-                      src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
-                      alt="Campingtoilette TROBOLO WandaGO"
-                      class="trenntoiletteImageSieger img-fluid w-100"
-                      format="webp"
-                      quality="90"
-                    />
+                    <nuxt-img src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
+                      alt="Campingtoilette TROBOLO WandaGO" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
+                      quality="90" />
                   </a>
                 </div>
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/trobolo-wandago/" title="TROBOLO WandaGO"
-                    >WandaGO</a
-                  >
+                  <a href="/trobolo-wandago/" title="TROBOLO WandaGO">WandaGO</a>
                 </h4>
                 <p class="lead">Trobolo</p>
               </div>
             </div>
           </div>
 
-          <div
-            class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups="['camping','haus']"
-          >
+          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping','haus']">
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
-                    <nuxt-img
-                      src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
-                      alt="Camping Toilette Kildwick MiniLoo"
-                      class="trenntoiletteImageSieger img-fluid w-100"
-                      format="webp"
-                      quality="90"
-                    />
+                    <nuxt-img src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
+                      alt="Camping Toilette Kildwick MiniLoo" class="trenntoiletteImageSieger img-fluid w-100"
+                      format="webp" quality="90" />
                   </a>
                 </div>
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/kildwick-miniloo/" title="Kildwick MiniLoo"
-                    >Kildwick MiniLoo</a
-                  >
+                  <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">Kildwick MiniLoo</a>
                 </h4>
                 <p class="lead">Kildwick</p>
               </div>
             </div>
           </div>
 
-          <div
-            class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups="['camping', 'haus']"
-          >
+          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping', 'haus']">
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <nuxt-link to="/trelino-origin-l/" title="Trelino Origin L">
-                    <nuxt-img
-                      src="/images/trenntoiletten/trenntoilette-trelino-origin-l.webp"
-                      alt="Trelino Origin L"
-                      class="trenntoiletteImageSieger img-fluid w-100"
-                      format="webp"
-                      quality="90"
-                    />
+                    <nuxt-img src="/images/trenntoiletten/trenntoilette-trelino-origin-l.webp" alt="Trelino Origin L"
+                      class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
                   </nuxt-link>
                 </div>
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/trelino-origin-l/" title="Trelino Origin L"
-                    >Trelino Origin L</a
-                  >
+                  <a href="/trelino-origin-l/" title="Trelino Origin L">Trelino Origin L</a>
                 </h4>
                 <p class="lead">Trelino</p>
               </div>
             </div>
           </div>
 
-          <div
-            class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups="['haus']"
-          >
+          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['haus']">
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <nuxt-link to="/separett-weekend/" title="Separett Weekend">
-                    <nuxt-img
-                      src="/images/trenntoiletten/trenntoilette-separett-weekend.webp"
-                      alt="Trenntoilette Separett Weekend"
-                      class="trenntoiletteImageSieger img-fluid w-100"
-                      format="webp"
-                      quality="90"
-                    />
+                    <nuxt-img src="/images/trenntoiletten/trenntoilette-separett-weekend.webp"
+                      alt="Trenntoilette Separett Weekend" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
+                      quality="90" />
                   </nuxt-link>
                 </div>
               </div>
@@ -642,29 +487,19 @@
             </div>
           </div>
 
-          <div
-            class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups="['camping']"
-          >
+          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping']">
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <nuxt-link to="/trelino-evo-s/" title="Trelino Evo S">
-                    <nuxt-img
-                      src="/images/trenntoiletten/trelino-evo-s.webp"
-                      alt="Trelino Evo S"
-                      class="trenntoiletteImageSieger img-fluid w-100"
-                      format="webp"
-                      quality="90"
-                    />
+                    <nuxt-img src="/images/trenntoiletten/trelino-evo-s.webp" alt="Trelino Evo S"
+                      class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
                   </nuxt-link>
                 </div>
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/trelino-evo-s/" title="Trelino Trelino"
-                    >Trelino Evo S</a
-                  >
+                  <a href="/trelino-evo-s/" title="Trelino Trelino">Trelino Evo S</a>
                 </h4>
                 <p class="lead">Trelino</p>
               </div>
@@ -672,35 +507,51 @@
           </div>
 
           <!-- easyloo kildwick -->
-          <div
-            class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-            data-groups="['camping', 'haus', 'garten]"
-          >
+          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping', 'haus', 'garten]">
             <div class="position-relative doctor-inner-box">
               <div class="doctor-profile">
                 <div class="doctor-img">
                   <nuxt-link to="/kildwick-easyloo/" title="Kildwick EasyLoo">
-                    <nuxt-img
-                      src="/images/trenntoiletten/trenntoilette-kildwick-easyloo.webp"
-                      alt="Kildwick EasyLoo"
-                      class="trenntoiletteImageSieger img-fluid w-100"
-                      format="webp"
-                      quality="90"
-                    />
+                    <nuxt-img src="/images/trenntoiletten/trenntoilette-kildwick-easyloo.webp" alt="Kildwick EasyLoo"
+                      class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
                   </nuxt-link>
                 </div>
               </div>
               <div class="content mt-3">
                 <h4 class="mb-0">
-                  <a href="/kildwick-easyloo/" title="Kildwick EasyLoo"
-                    >Kildwick EasyLoo</a
-                  >
+                  <a href="/kildwick-easyloo/" title="Kildwick EasyLoo">Kildwick EasyLoo</a>
                 </h4>
                 <p class="lead">Kildwick</p>
               </div>
             </div>
           </div>
           <!-- easyloo kildwick end -->
+
+          <!-- trobolo teragoe -->
+          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping']">
+            <div class="position-relative doctor-inner-box">
+              <div class="doctor-profile">
+                <div class="doctor-img">
+                  <nuxt-link to="/trobolo-terago/" title="TROBOLO TeraGO">
+                    <nuxt-img src="/images/trenntoiletten/campingtoilette-trobolo-terago.webp"
+                      alt="Campingtoilette TROBOLO TeraGO" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
+                      quality="90" />
+                  </nuxt-link>
+                </div>
+              </div>
+              <div class="content mt-3">
+                <h4 class="mb-0">
+                  <nuxt-link to="/trobolo-terago/" title="TROBOLO TeraGO">
+                    <a title="TROBOLO TeraGO">TROBOLO TeraGO</a>
+                  </nuxt-link>
+                </h4>
+                <p class="lead">TROBOLO</p>
+              </div>
+            </div>
+          </div>
+          <!--end trobolo terago-->
+
+
         </div>
       </div>
     </section>
@@ -710,13 +561,8 @@
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="appoinment-content">
-              <nuxt-img
-                src="/images/faq.png"
-                format="webp"
-                quality="90"
-                alt="Fragen zum Thema Trenntoilette"
-                class="img-fluid"
-              />
+              <nuxt-img src="/images/faq.png" format="webp" quality="90" alt="Fragen zum Thema Trenntoilette"
+                class="img-fluid" />
             </div>
           </div>
           <div class="col-lg-6 col-md-10">
@@ -733,44 +579,22 @@
                 <div class="row">
                   <div class="col-lg-6">
                     <div class="form-group">
-                      <input
-                        name="name"
-                        id="name"
-                        type="text"
-                        class="form-control"
-                        placeholder="Ihr Name"
-                      />
+                      <input name="name" id="name" type="text" class="form-control" placeholder="Ihr Name" />
                     </div>
                   </div>
 
                   <div class="col-lg-6">
                     <div class="form-group">
-                      <input
-                        name="email"
-                        id="email"
-                        type="email"
-                        class="form-control"
-                        placeholder="Ihre Email"
-                      />
+                      <input name="email" id="email" type="email" class="form-control" placeholder="Ihre Email" />
                     </div>
                   </div>
                 </div>
                 <div class="form-group-2 mb-4">
-                  <textarea
-                    name="message"
-                    id="message"
-                    class="form-control"
-                    rows="6"
-                    placeholder="Ihre Nachricht"
-                  ></textarea>
+                  <textarea name="message" id="message" class="form-control" rows="6"
+                    placeholder="Ihre Nachricht"></textarea>
                 </div>
 
-                <a
-                  class="btn btn-main btn-round-full"
-                  href="#"
-                  onclick="alert('todo!');"
-                  >Nachricht abschicken ></a
-                >
+                <a class="btn btn-main btn-round-full" href="#" onclick="alert('todo!');">Nachricht abschicken ></a>
               </form>
             </div>
           </div>
@@ -805,13 +629,8 @@
           <div class="col-lg-12 testimonial-wrap-2">
             <div class="testimonial-block style-2 gray-bg">
               <div class="testimonial-thumb">
-                <nuxt-img
-                  src="/images/feedback/jennifer.webp"
-                  alt="Feedback von Jennifer"
-                  class="img-fluid"
-                  format="webp"
-                  quality="90"
-                />
+                <nuxt-img src="/images/feedback/jennifer.webp" alt="Feedback von Jennifer" class="img-fluid" format="webp"
+                  quality="90" />
               </div>
 
               <div class="client-info">
@@ -825,22 +644,13 @@
                 </p>
               </div>
 
-              <nuxt-img
-                src="/images/icons/zitat.webp"
-                format="webp"
-                quality="90"
-              />
+              <nuxt-img src="/images/icons/zitat.webp" format="webp" quality="90" />
             </div>
 
             <div class="testimonial-block style-2 gray-bg">
               <div class="testimonial-thumb">
-                <nuxt-img
-                  format="webp"
-                  quality="90"
-                  src="/images/feedback/nicolas.webp"
-                  alt="Feedback von Nicolas"
-                  class="img-fluid"
-                />
+                <nuxt-img format="webp" quality="90" src="/images/feedback/nicolas.webp" alt="Feedback von Nicolas"
+                  class="img-fluid" />
               </div>
 
               <div class="client-info">
@@ -854,22 +664,13 @@
                 </p>
               </div>
 
-              <nuxt-img
-                format="webp"
-                quality="90"
-                src="/images/icons/zitat.webp"
-              />
+              <nuxt-img format="webp" quality="90" src="/images/icons/zitat.webp" />
             </div>
 
             <div class="testimonial-block style-2 gray-bg">
               <div class="testimonial-thumb">
-                <nuxt-img
-                  src="/images/feedback/vicky.webp"
-                  alt="Feedback von Vicky"
-                  class="img-fluid"
-                  format="webp"
-                  quality="90"
-                />
+                <nuxt-img src="/images/feedback/vicky.webp" alt="Feedback von Vicky" class="img-fluid" format="webp"
+                  quality="90" />
               </div>
 
               <div class="client-info">
@@ -883,11 +684,7 @@
                 </p>
               </div>
 
-              <nuxt-img
-                src="/images/icons/zitat.webp"
-                format="webp"
-                quality="90"
-              />
+              <nuxt-img src="/images/icons/zitat.webp" format="webp" quality="90" />
             </div>
           </div>
         </div>
@@ -914,46 +711,26 @@
         <div class="row clients-logo">
           <div class="col-lg-3">
             <div class="client-thumb">
-              <nuxt-img
-                src="/images/hersteller/trobolo.webp"
-                alt="TROBOLO"
-                class="img-fluid"
-                format="webp"
-                quality="90"
-              />
+              <nuxt-img src="/images/hersteller/trobolo.webp" alt="TROBOLO" class="img-fluid" format="webp"
+                quality="90" />
             </div>
           </div>
           <div class="col-lg-3">
             <div class="client-thumb">
-              <nuxt-img
-                src="/images/hersteller/kildwick.webp"
-                alt="Kildwick"
-                class="img-fluid"
-                format="webp"
-                quality="90"
-              />
+              <nuxt-img src="/images/hersteller/kildwick.webp" alt="Kildwick" class="img-fluid" format="webp"
+                quality="90" />
             </div>
           </div>
           <div class="col-lg-3">
             <div class="client-thumb">
-              <nuxt-img
-                src="/images/hersteller/meinetrenntoilette.webp"
-                alt="MeineTrenntoilette"
-                class="img-fluid"
-                format="webp"
-                quality="90"
-              />
+              <nuxt-img src="/images/hersteller/meinetrenntoilette.webp" alt="MeineTrenntoilette" class="img-fluid"
+                format="webp" quality="90" />
             </div>
           </div>
           <div class="col-lg-3">
             <div class="client-thumb">
-              <nuxt-img
-                src="/images/hersteller/kompotoi.webp"
-                alt="Kompotoi"
-                class="img-fluid"
-                format="webp"
-                quality="90"
-              />
+              <nuxt-img src="/images/hersteller/kompotoi.webp" alt="Kompotoi" class="img-fluid" format="webp"
+                quality="90" />
             </div>
           </div>
         </div>
@@ -1126,8 +903,7 @@ export default {
 /* Slider */
 
 .slick-loading .slick-list {
-  background: #fff url("/plugins/slick-carousel/slick//ajax-loader.gif") center
-    center no-repeat;
+  background: #fff url("/plugins/slick-carousel/slick//ajax-loader.gif") center center no-repeat;
 }
 
 /* Icons */
