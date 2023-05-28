@@ -63,7 +63,9 @@
                                 Flüssigkeitsbehälter reicht für bis zu 20 Nutzungen aus. </p>
 
                             <p>Durch den Trenneinsatz werden beide Behälter der Trenntoilette voneinander getrennt. Für
-                                einen geruchlosen Gebrauch wird etwas Einstreu über die festen Ausscheidungen gegeben. Durch
+                                einen geruchlosen Gebrauch wird etwas <nuxt-link to="/einstreu/"
+                                    title="Einstreu für die Trenntoilette">Einstreu</nuxt-link> über die festen
+                                Ausscheidungen gegeben. Durch
                                 das moderne TROBOLO SafeShell System® wird der Flüssigkeitsbehälter vor einem Auslaufen
                                 geschützt, weshalb sich die Trenntoilette selbst für das autarke Leben in einem Camper
                                 eignet. Wer das Toilettenpapier immer griffbereit haben möchte, kann die TROBOLO TeraGO
