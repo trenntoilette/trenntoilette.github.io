@@ -102,6 +102,32 @@
                     </div>
                     <!-- end terago-->
 
+                    <!-- trelino origin s -->
+                    <div class="col-lg-4 col-md-6" data-groups="['camping']">
+                        <div class="position-relative doctor-inner-box">
+                            <div class="doctor-profile">
+                                <div class="doctor-img">
+                                    <nuxt-link to="/trelino-origin-s/" title="Trelino Origin S">
+                                        <nuxt-img src="/images/trenntoiletten/campingtoilette-trelino-origin-s.webp"
+                                            alt="Campingtoilette Trelino Origin S"
+                                            class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
+                                    </nuxt-link>
+                                </div>
+                            </div>
+                            <div class="content mt-3">
+                                <div class="h5 mt-4 mb-2 title-color">Testsieger<br />"Campingtoiletten"</div>
+                                <div class="h3 mt-4 mb-2  title-color">Trelino Origin S</div>
+                                <p class="mb-4 lead">Der Kompakte Reisebegleiter
+                                </p>
+                                <a href="/trelino-origin-s/" title="Trelino Origin S">
+                                    <h4>Zum Testbericht >
+                                    </h4>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end trelino origin s-->
+
                     <!-- <div class="col-lg-4 col-md-6">
                     <div class="department-block mb-5">
                         <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
