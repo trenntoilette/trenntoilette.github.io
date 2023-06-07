@@ -6,9 +6,7 @@
           <div class="col-lg-6 col-md-12 col-xl-7">
             <div class="block">
               <div class="divider mb-3"></div>
-              <span class="text-uppercase lead letter-spacing text-light"
-                >Trenntoiletten</span
-              >
+              <span class="text-uppercase lead letter-spacing text-light">Trenntoiletten</span>
               <h1 class="mb-3 mt-3 text-light">Blog</h1>
 
               <p class="lead mb-4 pr-5 text-light">
@@ -17,11 +15,7 @@
                 folge uns auf unserem Blog.
               </p>
               <div class="btn-container">
-                <a
-                  href="#articles"
-                  class="btn btn-main-2 btn-icon btn-round-full"
-                  >Die neusten Beiträge ></a
-                >
+                <a href="#articles" class="btn btn-main-2 btn-icon btn-round-full">Die neusten Beiträge ></a>
               </div>
             </div>
           </div>
@@ -35,23 +29,13 @@
           <!-- blog article card -->
           <div class="col-lg-4">
             <div class="card" style="width: 18rem">
-              <nuxt-link
-                to="/blog/posts/campingtoilette-vergleich/"
-                title="Campingtoilette unter 250 Euro im Vergleich"
-              >
-                <nuxt-img
-                  class="card-img-top"
-                  src="/images/blog/camping.jpg"
-                  format="webp"
-                  quality="90"
-                  alt="Campingtoilette unter 250 € im Vergleich"
-                />
+              <nuxt-link to="/blog/posts/campingtoilette-vergleich/" title="Campingtoilette unter 250 Euro im Vergleich">
+                <nuxt-img class="card-img-top" src="/images/blog/camping.jpg" format="webp" quality="90"
+                  alt="Campingtoilette unter 250 € im Vergleich" />
               </nuxt-link>
               <div class="card-body">
-                <nuxt-link
-                  to="/blog/posts/campingtoilette-vergleich/"
-                  title="Campingtoiletten unter 250 Euro im Vergleich"
-                >
+                <nuxt-link to="/blog/posts/campingtoilette-vergleich/"
+                  title="Campingtoiletten unter 250 Euro im Vergleich">
                   <h5 class="card-title">
                     Campingtoiletten unter 250 € im Vergleich
                   </h5>
@@ -63,12 +47,9 @@
                 <p class="card-text">
                   <small class="text-muted">15. August 2022</small>
                 </p>
-                <nuxt-link
-                  to="/blog/posts/campingtoilette-vergleich/"
+                <nuxt-link to="/blog/posts/campingtoilette-vergleich/"
                   title="Campingtoiletten unter 250 Euro im Vergleich"
-                  class="btn btn-main-2 btn-icon btn-round-full"
-                  >weiterlesen</nuxt-link
-                >
+                  class="btn btn-main-2 btn-icon btn-round-full">weiterlesen</nuxt-link>
               </div>
             </div>
           </div>
@@ -80,22 +61,14 @@
               <nuxt-link
                 to="/blog/posts/deutsches-startup-revolutioniert-die-campingtoilette-und-verkauft-sie-fuer-249euro/"
                 title="Deutsches Startup revolutioniert die Campingtoilette und
-                    verkauft sie für 249€"
-              >
-                <nuxt-img
-                  class="card-img-top"
-                  src="/images/landingpage/lander-title.png"
-                  format="webp"
-                  quality="90"
-                  alt="Deutsches Startup revolutioniert die Campingtoilette und
-                    verkauft sie für 249€"
-                />
+                                      verkauft sie für 249€">
+                <nuxt-img class="card-img-top" src="/images/landingpage/lander-title.png" format="webp" quality="90" alt="Deutsches Startup revolutioniert die Campingtoilette und
+                                      verkauft sie für 249€" />
               </nuxt-link>
               <div class="card-body">
                 <nuxt-link
                   to="/blog/posts/deutsches-startup-revolutioniert-die-campingtoilette-und-verkauft-sie-fuer-249euro/"
-                  title="Deutsches Startup revolutioniert die Campingtoilette und"
-                >
+                  title="Deutsches Startup revolutioniert die Campingtoilette und">
                   <h5 class="card-title">
                     Deutsches Startup revolutioniert die Campingtoilette und
                     verkauft sie für 249€
@@ -108,10 +81,8 @@
                 <nuxt-link
                   to="/blog/posts/deutsches-startup-revolutioniert-die-campingtoilette-und-verkauft-sie-fuer-249euro/"
                   title="Deutsches Startup revolutioniert die Campingtoilette und
-                    verkauft sie für 249€"
-                  class="btn btn-main-2 btn-icon btn-round-full"
-                  >weiterlesen</nuxt-link
-                >
+                                      verkauft sie für 249€"
+                  class="btn btn-main-2 btn-icon btn-round-full">weiterlesen</nuxt-link>
               </div>
             </div>
           </div>
@@ -120,23 +91,14 @@
           <!-- blog article card -->
           <div class="col-lg-4">
             <div class="card" style="width: 18rem">
-              <nuxt-link
-                to="/blog/posts/richtig-kompostieren/"
-                title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird"
-              >
-                <nuxt-img
-                  class="card-img-top"
-                  src="/images/blog/kiezkompost.jpg"
-                  format="webp"
-                  quality="90"
-                  alt="Campingtoilette unter 250 € im Vergleich"
-                />
+              <nuxt-link to="/blog/posts/richtig-kompostieren/"
+                title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird">
+                <nuxt-img class="card-img-top" src="/images/blog/kiezkompost.jpg" format="webp" quality="90"
+                  alt="Campingtoilette unter 250 € im Vergleich" />
               </nuxt-link>
               <div class="card-body">
-                <nuxt-link
-                  to="/blog/posts/richtig-kompostieren/"
-                  title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird"
-                >
+                <nuxt-link to="/blog/posts/richtig-kompostieren/"
+                  title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird">
                   <h5 class="card-title">Trenntoilette richtig kompostieren</h5>
                 </nuxt-link>
                 <p class="card-text" style="min-height: 100px">
@@ -145,12 +107,39 @@
                 <p class="card-text">
                   <small class="text-muted">15. März 2023</small>
                 </p>
-                <nuxt-link
-                  to="/blog/posts/richtig-kompostieren/"
+                <nuxt-link to="/blog/posts/richtig-kompostieren/"
                   title="Trenntoilette richtig kompostieren – wie aus Kompost Humus wird"
-                  class="btn btn-main-2 btn-icon btn-round-full"
-                  >weiterlesen</nuxt-link
-                >
+                  class="btn btn-main-2 btn-icon btn-round-full">weiterlesen</nuxt-link>
+              </div>
+            </div>
+          </div>
+          <!-- end blog article card -->
+
+          <!-- blog article card -->
+          <div class="col-lg-4 pt-5">
+            <div class="card" style="width: 18rem">
+              <nuxt-link to="/blog/posts/die-beste-trenntoilette/"
+                title="Die beste Trenntoilette für Campingbus, Van und Wohnmobil 2023">
+                <nuxt-img class="card-img-top" src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-1.png"
+                  format="webp" quality="90" alt="Campingtoilette unter 250 € im Vergleich" />
+              </nuxt-link>
+              <div class="card-body">
+                <nuxt-link to="/blog/posts/die-beste-trenntoilette/" title="Campingtoiletten unter 250 Euro im Vergleich">
+                  <h5 class="card-title">
+                    Die beste Trenntoilette
+                  </h5>
+                </nuxt-link>
+                <p class="card-text" style="min-height: 100px">
+                  Das ist die beste
+                  Trenntoilette für
+                  Campingbus, Van
+                  und Wohnmobil.
+                </p>
+                <p class="card-text">
+                  <small class="text-muted">07. Juni 2023</small>
+                </p>
+                <nuxt-link to="/blog/posts/die-beste-trenntoilette/" title="Campingtoiletten unter 250 Euro im Vergleich"
+                  class="btn btn-main-2 btn-icon btn-round-full">weiterlesen</nuxt-link>
               </div>
             </div>
           </div>
