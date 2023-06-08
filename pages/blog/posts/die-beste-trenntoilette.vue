@@ -53,27 +53,27 @@
                                 Freiheitsgefühl stark einschränken: "Der Toilettengang".
                             </h3>
                             <div class="divider mx-auto my-4"></div>
-                            <p class="lead text-justify" style="color: #000 !important">
+                            <p class="lead text-justify pb-5" style="color: #000 !important">
                                 Vor allem Besitzer von Campern ohne serienmäßig
                                 eingebaute Lösung kennen das Problem. Warum sich die
                                 Trenntoilette ideal für das Campen eignet und ein Produkt besser als alle anderen ist, lesen
                                 sie jetzt.
                             </p>
-                            <div class="h2 pt-3">
+                            <div class="h2 pt-5">
                                 Wie Trenntoiletten das
                                 Wohnmobil erobern
                             </div>
                             <img src="/images/landingpage/bild2.png" class="pt-5 img-fluid" format="webp" quality="90" />
 
-                            <p class="lead" style="color: #000 !important; font-size: 14px">
+                            <p class="lead pb-5" style="color: #000 !important; font-size: 14px">
                                 Nachhaltig, autark und immer einsatzbereit, die Camping-Trenntoilette (Bild: TROBOLO)
                             </p>
 
-                            <div class="h2 pt-3">
+                            <div class="h2 pt-5">
                                 Das Problem
                             </div>
 
-                            <p class="text-justify lead pt-5" style="color: #000 !important">
+                            <p class="text-justify lead pt-4 pb-5" style="color: #000 !important">
                                 Camper ohne eigene Toilette an Board kennen das:
                                 Während der Fahrt und langen Autoreisen abhängig von
                                 der nächsten Raststätte zu sein oder nachts mit
@@ -88,10 +88,10 @@
                                 unabhängig von öffentlichen Toiletten und speziellen
                                 Entsorgungsstationen zu sein.
                             </p>
-                            <div class="h2 pt-3">
+                            <div class="h2 pt-5">
                                 Die Trenntoilette als ideale Lösung
                             </div>
-                            <p class="text-justify lead" style="color: #000 !important">
+                            <p class="text-justify lead pt-4" style="color: #000 !important">
                                 Verrückt, dass noch niemand früher darauf gekommen ist?!
                                 Denn das Prinzip der Trenntoilette ist nicht neu: Im
                                 Gartenhaus, Tinyhaus und an weiteren Orten hat sich der
@@ -112,7 +112,7 @@
                                 Europa.
                             </p>
 
-                            <div class="h2 pt-3">Ein Hersteller revolutioniert die Camping-Trenntoilette</div>
+                            <div class="h2 pt-5">Ein Hersteller revolutioniert die Camping-Trenntoilette</div>
 
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-3.png"
@@ -122,7 +122,7 @@
                                 California, Mercedes Marco Polo und Ford Nugget. (Bild:TROBOLO)
                             </p>
 
-                            <div class="text-justify lead" style="color: #000 !important">
+                            <div class="text-justify lead pb-5" style="color: #000 !important">
                                 Eine dieser neuen Trenntoiletten zum Campen sticht mit
                                 einzigartigen Funktionen hervor und macht sie zur ersten
                                 Wahl. Das WandaGo von TROBOLO ist bis ins Detail für die
@@ -140,16 +140,16 @@
                             </div>
                             <div class="divider mx-auto my-4"></div>
 
-                            <p class="text-justify lead pt-5" style="color: #000 !important">
+                            <p class="text-justify lead pt-3" style="color: #000 !important">
                                 Zwei praktische und exklusive Features, an die kein
                                 anderer Hersteller gedacht hat, machen das WandaGo
                                 unersetzbar:
                             </p>
 
-                            <div class="h4">1. Sitzhöhe durch Stapelfunktion.</div>
+                            <div class="h4 pt-5">1. Sitzhöhe durch Stapelfunktion.</div>
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-stapelfunktion.gif"
-                                class="pt-5 img-fluid" />
+                                class="pt-3 img-fluid" />
 
 
                             <div class="text-justify lead" style="color: #000 !important">
@@ -162,18 +162,18 @@
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-4.png"
                                 class="pt-5 img-fluid" />
 
-                            <p class="lead" style="color: #000 !important; font-size: 14px">
+                            <p class="lead pb-5" style="color: #000 !important; font-size: 14px">
                                 Zwei optimale Sitzhöhen für Komfort wie zu Hause (Bild: TROBOLO)
                             </p>
 
-                            <div class="h4 pt-3">2. Ausschwappschutz und geruchsfrei
+                            <div class="h4 pt-5">2. Ausschwappschutz und geruchsfrei
                                 durch TROBOLO SafeShell System
                             </div>
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-animation.gif"
                                 class="pt-5 img-fluid" />
 
-                            <div class="text-justify lead" style="color: #000 !important">
+                            <div class="text-justify lead pb-5" style="color: #000 !important">
                                 Das praktische SafeShell System schützt vor dem
                                 Ausschwappen von Flüssigkeiten und Austreten von
                                 Gerüchen. So bleibt es zu jederzeit geruchlos und trocken.
@@ -182,20 +182,12 @@
                                 Urlaub.
                             </div>
 
-                            <div class="h2 pt-3">Weitere Vorteile gegenüber anderen Herstellern</div>
+                            <div class="h2 pt-5">Weitere Vorteile gegenüber anderen Herstellern</div>
 
-                            <div class="row">
-                                <div class="col-6">
-                                    <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-10.png"
-                                        class="pt-5 img-fluid" />
-                                </div>
-                                <div class="col-6">
-                                    <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-11.png"
-                                        class="pt-5 img-fluid" />
-                                </div>
-                            </div>
+                            <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-SETPIC.jpg"
+                                class="pt-3 img-fluid" />
 
-                            <div class="pt-5 text-justify lead" style="color: #000 !important">
+                            <div class="pt-5 pb-5 text-justify lead" style="color: #000 !important">
                                 <ul>
                                     <li>Ultrakompakt zusammengeklappt, passt sie in jedes
                                         Campingmobil</li>
@@ -233,12 +225,12 @@
                                     class="pt-5 img-fluid" />
                             </div>
 
-                            <div class="row">
+                            <div class="row pb-5">
                                 <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-8.png"
                                     class="pt-5 img-fluid" />
                             </div>
 
-                            <div class="h2 pt-4">Fazit</div>
+                            <div class="h2 pt-5 pb-3">Fazit</div>
 
                             <div class="pt-5 text-justify lead"
                                 style="color: #000 !important; border-radius: 2px; border-color: #000; border-style: solid; padding: 20px;">
@@ -315,7 +307,7 @@ export default {
             const utm_content = this.$route.query.utm_content;
             const utm_term = this.$route.query.utm_term;
 
-            let redirectLink = `https://trobolo.com/?utm_source=${utm_source || ''}&utm_medium=${utm_medium || ''}&utm_campaign=${utm_campaign || ''}&utm_content=${utm_content || ''}&utm_term=${utm_term || ''}`;
+            let redirectLink = `https://trobolo.com/de/produkte/wandago/?utm_source=${utm_source || ''}&utm_medium=${utm_medium || ''}&utm_campaign=${utm_campaign || ''}&utm_content=${utm_content || ''}&utm_term=${utm_term || ''}`;
 
             return redirectLink;
         },
