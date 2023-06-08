@@ -251,8 +251,7 @@
                                 class="pt-5 img-fluid" />
 
                             <div class="btn-container pt-5 pb-5">
-                                <a :href="redirectLink()" rel="nofollow"
-                                    class="btn btn-main-2 btn-icon btn-round-full img-fluid"
+                                <a ref="link" rel="nofollow" class="btn btn-main-2 btn-icon btn-round-full img-fluid"
                                     style="font-size: 33px">Verfügbarkeit und Preis sehen >></a>
                             </div>
 
@@ -298,20 +297,20 @@ export default {
             },
         ],
     },
-    methods: {
-        redirectLink() {
-            // get the url params from the current route
-            const utm_source = this.$route.query.utm_source;
-            const utm_medium = this.$route.query.utm_medium;
-            const utm_campaign = this.$route.query.utm_campaign;
-            const utm_content = this.$route.query.utm_content;
-            const utm_term = this.$route.query.utm_term;
+    mounted() {
+        let link = this.$refs.link;
 
-            let redirectLink = `https://trobolo.com/de/produkte/wandago/?utm_source=${utm_source || ''}&utm_medium=${utm_medium || ''}&utm_campaign=${utm_campaign || ''}&utm_content=${utm_content || ''}&utm_term=${utm_term || ''}`;
+        let urlParams = new URLSearchParams(window.location.search);
+        let utm_source = urlParams.get('utm_source') || '';
+        let utm_medium = urlParams.get('utm_medium') || '';
+        let utm_campaign = urlParams.get('utm_campaign') || '';
+        let utm_content = urlParams.get('utm_content') || '';
+        let utm_term = urlParams.get('utm_term') || '';
 
-            return redirectLink;
-        },
-    }
+        let redirectLink = `https://trobolo.com/?utm_source=${utm_source}&utm_medium=${utm_medium}&utm_campaign=${utm_campaign}&utm_content=${utm_content}&utm_term=${utm_term}`;
+
+        link.href = redirectLink;
+    },
 };
 </script>
   
