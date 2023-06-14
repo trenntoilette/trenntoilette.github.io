@@ -59,19 +59,19 @@
                                 Trenntoilette ideal für das Campen eignet und ein Produkt besser als alle anderen ist, lesen
                                 sie jetzt.
                             </p>
-                            <div class="h2 pt-5">
+                            <h2 class="pt-5">
                                 Wie Trenntoiletten das
                                 Wohnmobil erobern
-                            </div>
+                            </h2>
                             <img src="/images/landingpage/bild2.png" class="pt-5 img-fluid" format="webp" quality="90" />
 
                             <p class="lead pb-5" style="color: #000 !important; font-size: 14px">
                                 Nachhaltig, autark und immer einsatzbereit, die Camping-Trenntoilette (Bild: TROBOLO)
                             </p>
 
-                            <div class="h2 pt-5">
+                            <h3 class="pt-5">
                                 Das Problem
-                            </div>
+                            </h3>
 
                             <p class="text-justify lead pt-4 pb-5" style="color: #000 !important">
                                 Camper ohne eigene Toilette an Board kennen das:
@@ -88,9 +88,9 @@
                                 unabhängig von öffentlichen Toiletten und speziellen
                                 Entsorgungsstationen zu sein.
                             </p>
-                            <div class="h2 pt-5">
+                            <h3 class="pt-5">
                                 Die Trenntoilette als ideale Lösung
-                            </div>
+                            </h3>
                             <p class="text-justify lead pt-4" style="color: #000 !important">
                                 Verrückt, dass noch niemand früher darauf gekommen ist?!
                                 Denn das Prinzip der Trenntoilette ist nicht neu: Im
@@ -112,7 +112,7 @@
                                 Europa.
                             </p>
 
-                            <div class="h2 pt-5">Ein Hersteller revolutioniert die Camping-Trenntoilette</div>
+                            <h2 class="pt-5">Ein Hersteller revolutioniert die Camping-Trenntoilette</h2>
 
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-3.png"
@@ -134,10 +134,10 @@
                                 anderen Lösungen.
                             </div>
 
-                            <div class="h2 pt-5">
+                            <h2 class="pt-5">
                                 Zwei Funktionen machen das
                                 WandaGo konkurrenzlos
-                            </div>
+                            </h2>
                             <div class="divider mx-auto my-4"></div>
 
                             <p class="text-justify lead pt-3" style="color: #000 !important">
@@ -146,7 +146,7 @@
                                 unersetzbar:
                             </p>
 
-                            <div class="h4 pt-5">1. Sitzhöhe durch Stapelfunktion.</div>
+                            <h3 class="pt-5">1. Sitzhöhe durch Stapelfunktion.</h3>
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-stapelfunktion.gif"
                                 class="pt-3 img-fluid" />
@@ -166,9 +166,9 @@
                                 Zwei optimale Sitzhöhen für Komfort wie zu Hause (Bild: TROBOLO)
                             </p>
 
-                            <div class="h4 pt-5">2. Ausschwappschutz und geruchsfrei
+                            <h3 class="pt-5">2. Ausschwappschutz und geruchsfrei
                                 durch TROBOLO SafeShell System
-                            </div>
+                            </h3>
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-animation.gif"
                                 class="pt-5 img-fluid" />
@@ -182,7 +182,7 @@
                                 Urlaub.
                             </div>
 
-                            <div class="h2 pt-5">Weitere Vorteile gegenüber anderen Herstellern</div>
+                            <h2 class="pt-5">Weitere Vorteile gegenüber anderen Herstellern</h2>
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-SETPIC.jpg"
                                 class="pt-3 img-fluid" />
@@ -202,7 +202,7 @@
                                 </ul>
                             </div>
 
-                            <div class="h2 pt-5">Kundenbewertungen Übersicht</div>
+                            <h2 class="pt-5">Kundenbewertungen Übersicht</h2>
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-5.png"
                                 class="pt-5 img-fluid" />
@@ -210,8 +210,8 @@
 
                             <div class="pt-5 text-justify lead" style="color: #000 !important">
                                 Tausende Camper verwenden das Wandago und
-                                empfehlen es weiter. Auf der anerkannten Bewertungs-
-                                plattform Trusted Shops erreicht das Wandago und
+                                empfehlen es weiter. Auf der anerkannten Bewertungsplattform Trusted Shops erreicht das
+                                Wandago und
                                 Trobolo eine “Sehr gute” Bewertung. Mit 4,76 Sternen bei
                                 2036 Kundenrezessionen ist sie die beliebteste Camping-
                                 Trenntoilette auf dem Markt.</div>
@@ -230,7 +230,7 @@
                                     class="pt-5 img-fluid" />
                             </div>
 
-                            <div class="h2 pt-5 pb-3">Fazit</div>
+                            <h2 class="pt-5 pb-3">Fazit</h2>
 
                             <div class="pt-5 text-justify lead"
                                 style="color: #000 !important; border-radius: 2px; border-color: #000; border-style: solid; padding: 20px;">
@@ -242,10 +242,10 @@
                                 macht das WANDAGO zur besten Camping-
                                 Trenntoilette, die es aktuell zu kaufen gibt.</div>
 
-                            <div class="h4 pt-5">"Das WandaGo revolutioniert die
+                            <h3 class="pt-5">"Das WandaGo revolutioniert die
                                 Camping-Trenntoilette und ist die beste
                                 moderne Lösung für den Urlaub mit dem
-                                Wohnmobil."</div>
+                                Wohnmobil."</h3>
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-9.jpg"
                                 class="pt-5 img-fluid" />
@@ -255,7 +255,7 @@
                                     style="font-size: 33px">Verfügbarkeit und Preis sehen >></a>
                             </div>
 
-                            <div class="h6 pt-5">Update/Nachtrag</div>
+                            <h3 class="pt-5">Update/Nachtrag</h3>
 
                             <div class="pt-5 text-justify lead" style="color: #000 !important">Die Ferien und Camping Saison
                                 steht bevor und die
@@ -276,9 +276,9 @@
 
 
 export default {
-    name: "campingtoilette-startup",
+    name: "die-beste-trenntoilette",
     head: {
-        title: "Startup revolutioniert die Campingtoilette",
+        title: "Das ist die beste Trenntoilette für Campingbus, Van und Wohnmobil.",
         meta: [
             {
                 hid: "author",
@@ -293,7 +293,7 @@ export default {
             {
                 hid: "description",
                 name: "description",
-                content: "Ein deutsches Startup revolutioniert die Campingtoilette",
+                content: "Vor allem Besitzer von Campern ohne serienmäßig eingebaute Lösung kennen das Problem. Warum sich diese Trenntoilette ideal für das Campen eignet.",
             },
         ],
     },
