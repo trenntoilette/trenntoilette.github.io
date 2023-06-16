@@ -307,7 +307,7 @@ export default {
         let utm_content = urlParams.get('utm_content') || '';
         let utm_term = urlParams.get('utm_term') || '';
 
-        let redirectLink = `https://trobolo.com/?utm_source=${utm_source}&utm_medium=${utm_medium}&utm_campaign=${utm_campaign}&utm_content=${utm_content}&utm_term=${utm_term}`;
+        let redirectLink = `https://trobolo.com/de/produkte/wandago/?utm_source=${utm_source}&utm_medium=${utm_medium}&utm_campaign=${utm_campaign}&utm_content=${utm_content}&utm_term=${utm_term}`;
 
         link.href = redirectLink;
     },
