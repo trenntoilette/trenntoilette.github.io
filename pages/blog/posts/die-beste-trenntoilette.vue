@@ -26,16 +26,13 @@
                 </div> -->
                         </div>
                     </div>
-                    <div class="col-lg-8 offset-lg-2 pb-5 text-center" style="margin-top: -100px">
+                    <div class="col-lg-8 offset-lg-2 pb-5 text-center"
+                        style="margin-top: -100px; display: flex; justify-content: center; align-items: center;">
                         <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-1.png" format="webp"
-                            quality="90" alt="Die beste Trenntoilette 2023" style="border-radius: 10px" class="img-fluid" />
-                        <!-- <div class="col-md-12 text-md-left text-center text-light pt-2">
-                            <p class="lead text-center" style="font-size: 14px">
-                                Die erste moderne Trenntoilette für Camping optimiert. (Bild:
-                                TROBOLO)
-                            </p>
-                        </div> -->
+                            quality="90" alt="Die beste Trenntoilette 2023" style="border-radius: 10px; max-width: 100%;"
+                            class="headerImage img-fluid" />
                     </div>
+
                 </div>
             </div>
         </section>
@@ -274,6 +271,10 @@
 <style scoped>
 .contentImage {
     width: 80vh;
+}
+
+.headerImage {
+    min-width: 1000px;
 }
 </style>
   
