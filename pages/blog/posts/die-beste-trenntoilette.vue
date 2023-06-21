@@ -261,7 +261,7 @@
   
 <style scoped>
 .contentImage {
-    width: 80vh;
+    width: 70vh;
 
 }
 </style>
