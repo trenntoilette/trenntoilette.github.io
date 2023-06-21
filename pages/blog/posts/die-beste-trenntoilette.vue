@@ -63,7 +63,8 @@
                                 Wie Trenntoiletten das
                                 Wohnmobil erobern
                             </h2>
-                            <img src="/images/landingpage/bild2.png" class="pt-5 img-fluid" format="webp" quality="90" />
+                            <img src="/images/landingpage/bild2.png" class="pt-5 img-fluid contentImage" format="webp"
+                                quality="90" />
 
                             <p class="lead pb-5" style="color: #000 !important; font-size: 14px">
                                 Nachhaltig, autark und immer einsatzbereit, die Camping-Trenntoilette (Bild: TROBOLO)
@@ -116,7 +117,7 @@
 
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-3.png"
-                                class="pt-5 img-fluid" format="webp" quality="90" />
+                                class="pt-5 img-fluid contentImage" format="webp" quality="90" />
                             <p class="lead" style="color: #000 !important; font-size: 14px">
                                 Passt in jeden Campervan z.B. perfekt in das Toilettenfach von VW
                                 California, Mercedes Marco Polo und Ford Nugget. (Bild:TROBOLO)
@@ -160,7 +161,7 @@
                             </div>
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-4.png"
-                                class="pt-5 img-fluid" />
+                                class="pt-5 img-fluid contentImage" />
 
                             <p class="lead pb-5" style="color: #000 !important; font-size: 14px">
                                 Zwei optimale Sitzhöhen für Komfort wie zu Hause (Bild: TROBOLO)
@@ -185,7 +186,7 @@
                             <h2 class="pt-5">Weitere Vorteile gegenüber anderen Herstellern</h2>
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-SETPIC.jpg"
-                                class="pt-3 img-fluid" />
+                                class="pt-3 img-fluid contentImage" />
 
                             <div class="pt-5 pb-5 lead text-justify" style="color: #000 !important">
                                 <ul>
@@ -205,7 +206,7 @@
                             <h2 class="pt-5">Kundenbewertungen Übersicht</h2>
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-5.png"
-                                class="pt-5 img-fluid" />
+                                class="pt-5 img-fluid contentImage" />
 
 
                             <div class="pt-5 lead text-left" style="color: #000 !important">
@@ -248,7 +249,7 @@
                                 Wohnmobil."</h3>
 
                             <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-9.jpg"
-                                class="pt-5 img-fluid" />
+                                class="pt-5 img-fluid contentImage" />
 
                             <div class="btn-container pt-5 pb-5">
                                 <a ref="link" rel="nofollow" class="btn btn-main-2 btn-icon btn-round-full img-fluid"
@@ -270,7 +271,11 @@
     </div>
 </template>
   
-<style scoped></style>
+<style scoped>
+.contentImage {
+    width: 80vh;
+}
+</style>
   
 <script>
 
