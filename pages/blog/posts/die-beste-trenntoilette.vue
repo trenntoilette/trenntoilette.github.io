@@ -26,11 +26,11 @@
                 </div> -->
                         </div>
                     </div>
-                    <div class="col-lg-8 offset-lg-2 pb-5 text-center"
+                    <div class="col-lg-12 pb-5 text-center"
                         style="margin-top: -100px; display: flex; justify-content: center; align-items: center;">
                         <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-1.png" format="webp"
                             quality="90" alt="Die beste Trenntoilette 2023" style="border-radius: 10px; max-width: 100%;"
-                            class="headerImage img-fluid" />
+                            class="img-fluid" />
                     </div>
 
                 </div>
@@ -271,10 +271,7 @@
 <style scoped>
 .contentImage {
     width: 80vh;
-}
 
-.headerImage {
-    min-width: 1000px;
 }
 </style>
   
