@@ -35,33 +35,20 @@
                 </div>
 
                 <div class="row">
-                    <!-- <div class="col-lg-4 col-md-6 ">
-                    <div class="department-block mb-5">
-                        <a href="/trobolo-terabloem.html/" title="TROBOLO TeraBloem">
-                            <img src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
-                                alt="Trenntoilette TROBOLO TeraBloem" class="img-fluid w-100">
-                        </a>
-                        <div class="content">
-                            <h5 class="mt-4 mb-2 title-color">Testsieger<br />"Trenntoilette im Haus"</h5>
-                            <h3 class="mt-4 mb-2 title-color">TROBOLO® TeraBlœm</h3>
-                            <p class="mb-4 lead">Testsieger TeraBlœm von Trobolo. Ausgezeichnete Qualität bei bestem
-                                Komfort und Preis.</p>
-                            <a href="/trobolo-terabloem.html/" title="TROBOLO TeraBloem">
-                                <h4>Zum Testbericht ></i>
-                                </h4>
-                            </a>
-                        </div>
-                    </div>
-                </div> -->
 
-                    <!-- wandago -->
                     <div class="col-lg-4 col-md-6">
-                        <div class="department-block mb-5">
-                            <a href="/trobolo-wandago/" title="TROBOLO WandaGO">
-                                <img src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
-                                    alt="Campingtoilette TROBOLO KersaBoem" class="img-fluid w-100">
-                            </a>
-                            <div class="content">
+                        <div class=" position-relative doctor-inner-box">
+                            <div class="doctor-profile">
+                                <div class="doctor-img">
+                                    <nuxt-link to="/trobolo-wandago/" title="TROBOLO WandaGO">
+                                        <nuxt-img src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
+                                            alt="Campingtoilette TROBOLO WandaGO"
+                                            class="productThumbnail trenntoiletteImageSieger img-fluid w-100" format="webp"
+                                            quality="90" />
+                                    </nuxt-link>
+                                </div>
+                            </div>
+                            <div class="content mt-3">
                                 <div class="h5 mt-4 mb-2 title-color">Testsieger<br />"Campingtoiletten"</div>
                                 <div class="h3 mt-4 mb-2  title-color">TROBOLO® WandaGO</div>
                                 <p class="mb-4 lead">Testsieger WandaGO von TROBOLO. Autarke Campingtoilette für's Camping,
@@ -73,17 +60,17 @@
                             </div>
                         </div>
                     </div>
-                    <!-- end wandago -->
 
                     <!-- terago -->
-                    <div class="col-lg-4 col-md-6" data-groups="['camping']">
-                        <div class="position-relative doctor-inner-box">
+                    <div class="col-lg-4 col-md-6">
+                        <div class=" position-relative doctor-inner-box">
                             <div class="doctor-profile">
                                 <div class="doctor-img">
                                     <nuxt-link to="/trobolo-terago/" title="TROBOLO TeraGO">
                                         <nuxt-img src="/images/trenntoiletten/campingtoilette-trobolo-terago.webp"
                                             alt="Campingtoilette TROBOLO TeraGO"
-                                            class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
+                                            class="productThumbnail trenntoiletteImageSieger img-fluid w-100" format="webp"
+                                            quality="90" />
                                     </nuxt-link>
                                 </div>
                             </div>
@@ -103,14 +90,15 @@
                     <!-- end terago-->
 
                     <!-- trelino origin s -->
-                    <div class="col-lg-4 col-md-6" data-groups="['camping']">
+                    <div class="col-lg-4 col-md-6">
                         <div class="position-relative doctor-inner-box">
                             <div class="doctor-profile">
                                 <div class="doctor-img">
                                     <nuxt-link to="/trelino-origin-s/" title="Trelino Origin S">
                                         <nuxt-img src="/images/trenntoiletten/campingtoilette-trelino-origin-s.webp"
                                             alt="Campingtoilette Trelino Origin S"
-                                            class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
+                                            class="productThumbnail trenntoiletteImageSieger img-fluid w-100" format="webp"
+                                            quality="90" />
                                     </nuxt-link>
                                 </div>
                             </div>
@@ -127,191 +115,9 @@
                         </div>
                     </div>
                     <!-- end trelino origin s-->
-
-                    <!-- <div class="col-lg-4 col-md-6">
-                    <div class="department-block mb-5">
-                        <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
-                            <img src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
-                                alt="Camping Toilette Kildwick MiniLoo" class="img-fluid w-100">
-                        </a>
-                        <div class="content">
-                            <h5 class="mt-4 mb-2 title-color">Testsieger<br />"Camping Toilette"</h5>
-                            <h3 class="mt-4 mb-2 title-color">Kildwick MiniLoo</h3>
-                            <p class="mb-4 lead">Die Camping Toilette als Bausatz. Kostengünstig, Platzsparend und
-                                leicht im Gewicht.</p>
-                            <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
-                                <h4>Zum Testbericht ></i>
-                                </h4>
-                            </a>
-                        </div>
-                    </div>
-                </div> -->
-
                 </div>
             </div>
         </section>
-
-        <!-- <section class="section doctors" id="trenntoiletten">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8 text-center">
-                    <div class="section-title">
-                        <h2>Trenntoiletten</h2>
-                        <div class="divider mx-auto my-4"></div>
-                        <p class="lead">Für jedes Einsatzgebiet findest du eine passende Trenntoilette. Egal ob im Haus,
-                            im Garten oder unterwegs im Camper. Folgende Trenntoiletten haben wir getestet und sind
-                            führend in Sachen Nachhaltigkeit, Umweltfreundlichkeit, Geruchsentwicklung
-                            und Entsorgung.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 text-center  mb-5">
-                <div class="btn-group btn-group-toggle " data-toggle="buttons">
-                    <label class="btn active ">
-                        <input type="radio" name="shuffle-filter" value="all" checked="checked" />Alle Einsatzgebiete
-                    </label>
-                    <label class="btn ">
-                        <input type="radio" name="shuffle-filter" value="haus" />Haus
-                    </label>
-                    <label class="btn">
-                        <input type="radio" name="shuffle-filter" value="garten" />Garten
-                    </label>
-                    <label class="btn">
-                        <input type="radio" name="shuffle-filter" value="camping" />Camping
-                    </label>
-                </div>
-            </div>
-
-            <div class="row shuffle-wrapper portfolio-gallery">
-                <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="[&quot;haus&quot;]">
-                    <div class="position-relative doctor-inner-box">
-                        <div class="doctor-profile">
-                            <div class="doctor-img">
-                                <a href="/trobolo-terabloem.html/" title="TROBOLO TeraBloem">
-                                    <img src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
-                                        alt="Trenntoilette TROBOLO TeraBloem"
-                                        class="trenntoiletteImageSieger img-fluid w-100">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="content mt-3">
-                            <h4 class="mb-0"><a href="/trobolo-terabloem.html/" title="TROBOLO TeraBloem">TeraBlœm</a>
-                            </h4>
-                            <p class="lead">Trobolo</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="[&quot;garten&quot;]">
-                    <div class="position-relative doctor-inner-box">
-                        <div class="doctor-profile">
-                            <div class="doctor-img">
-                                <a href="/trobolo-kersaboem.html/" title="TROBOLO KersaBoem">
-                                    <img src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
-                                        alt="Trenntoilette TROBOLO KersaBoem"
-                                        class="trenntoiletteImageSieger img-fluid w-100">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="content mt-3">
-                            <h4 class="mb-0"><a href="/trobolo-kersaboem.html/" title="TROBOLO KersaBoem">KersaBœm</a>
-                            </h4>
-                            <p class="lead">Trobolo</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="[&quot;garten&quot;]">
-                    <div class="position-relative doctor-inner-box">
-                        <div class="doctor-profile">
-                            <div class="doctor-img">
-                                <a href="/trobolo-kitaboem.html/" title="TROBOLO KitaBœm">
-                                    <img src="/images/trenntoiletten/trenntoilette-trobolo-kitaboem.webp"
-                                        alt="Trenntoilette TROBOLO KitaBoem"
-                                        class="trenntoiletteImageSieger img-fluid w-100">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="content mt-3">
-                            <h4 class="mb-0"><a href="/trobolo-kitaboem.html/" title="TROBOLO KitaBoem">KitaBœm</a></h4>
-                            <p class="lead">Trobolo</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="[&quot;camping&quot;]">
-                    <div class="position-relative doctor-inner-box">
-                        <div class="doctor-profile">
-                            <div class="doctor-img">
-                                <a href="/trobolo-wandago/" title="TROBOLO WandaGO">
-                                    <img src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
-                                        alt="Campingtoilette TROBOLO WandaGO"
-                                        class="trenntoiletteImageSieger img-fluid w-100">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="content mt-3">
-                            <h4 class="mb-0"><a href="/trobolo-wandago/" title="TROBOLO WandaGO">WandaGO</a></h4>
-                            <p class="lead">Trobolo</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-                    data-groups="[&quot;camping&quot;,&quot;haus&quot;]">
-                    <div class="position-relative doctor-inner-box">
-                        <div class="doctor-profile">
-                            <div class="doctor-img">
-                                <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
-                                    <img src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
-                                        alt="Camping Toilette Kildwick MiniLoo"
-                                        class="trenntoiletteImageSieger img-fluid w-100">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="content mt-3">
-                            <h4 class="mb-0"><a href="/kildwick-miniloo/" title="Kildwick MiniLoo">Kildwick
-                                    MiniLoo</a></h4>
-                            <p class="lead">Kildwick</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="[&quot;camping&quot;]">
-                    <div class="position-relative doctor-inner-box">
-                        <div class="doctor-profile">
-                            <div class="doctor-img">
-                                <img src="/images/trenntoiletten/trenntoilette-trelino-trelino.webp"
-                                    alt="Trenntoilette Trelino" class="trenntoiletteImageSieger img-fluid w-100">
-                            </div>
-                        </div>
-                        <div class="content mt-3">
-                            <h4 class="mb-0"><a title="Trelino Trelino">Trelino</a></h4>
-                            <p class="lead">Trelino</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item"
-                    data-groups="[&quot;haus&quot;,&quot;camping&quot;]">
-                    <div class="position-relative doctor-inner-box">
-                        <div class="doctor-profile">
-                            <div class="doctor-img">
-                                <img src="/images/trenntoiletten/trenntoilette-kompotoi-separett-weekend.webp"
-                                    alt="Trenntoilette Kompotoi Separett Weekend"
-                                    class="trenntoiletteImageSieger img-fluid w-100">
-                            </div>
-                        </div>
-                        <div class="content mt-3">
-                            <h4 class="mb-0"><a title="Kompotoi Separett Weekend">Separett Weekend</a></h4>
-                            <p class="lead">Kompotoi</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
 
         <section class="section clients">
             <div class="container">
@@ -404,3 +210,10 @@ export default {
     },
 };
 </script>
+
+<style scoped>
+.productThumbnail {
+    max-height: 300px;
+    object-fit: cover;
+}
+</style>

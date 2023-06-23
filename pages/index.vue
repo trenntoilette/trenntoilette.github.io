@@ -310,459 +310,264 @@
       </div>
     </section>
 
-    <section class="section doctors gray-bg" id="trenntoiletten">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-8 text-center">
-            <div class="section-title">
-              <div class="h2">Trenntoiletten</div>
-              <div class="divider mx-auto my-4"></div>
-              <p class="lead">
-                Für jedes Einsatzgebiet findest du eine passende Trenntoilette.
-                Egal ob im Haus, im Garten oder unterwegs im Camper. Folgende
-                Trenntoiletten haben wir getestet und sind führend in Sachen
-                Nachhaltigkeit, Umweltfreundlichkeit, Geruchsentwicklung und
-                Entsorgung.
-              </p>
+    <template>
+      <section class="section doctors gray-bg" id="trenntoiletten">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+              <div class="section-title">
+                <div class="h2">Trenntoiletten</div>
+                <div class="divider mx-auto my-4"></div>
+                <p class="lead">
+                  Für jedes Einsatzgebiet findest du eine passende Trenntoilette.
+                  Egal ob im Haus, im Garten oder unterwegs im Camper. Folgende
+                  Trenntoiletten haben wir getestet und sind führend in Sachen
+                  Nachhaltigkeit, Umweltfreundlichkeit, Geruchsentwicklung und
+                  Entsorgung.
+                </p>
+              </div>
             </div>
+          </div>
+
+          <div class="row portfolio-gallery">
+            <!-- Add your shuffle items here without data-groups -->
+
+            <!-- Example item -->
+            <div class="col-lg-3 col-sm-6 col-md-6 mb-4">
+              <div class="position-relative doctor-inner-box">
+                <div class="doctor-profile">
+                  <div class="doctor-img">
+                    <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">
+                      <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
+                        alt="Trenntoilette TROBOLO TeraBloem" class="trenntoiletteImageSieger img-fluid w-100"
+                        format="webp" quality="90" />
+                    </a>
+                  </div>
+                </div>
+                <div class="content mt-3">
+                  <h4 class="mb-0">
+                    <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">TeraBlœm</a>
+                  </h4>
+                  <p class="lead">Trobolo</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Add other items here -->
+            <div class="col-lg-3 col-sm-6 col-md-6 mb-4">
+              <div class="position-relative doctor-inner-box">
+                <div class="doctor-profile">
+                  <div class="doctor-img">
+                    <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">
+                      <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
+                        alt="Trenntoilette TROBOLO KersaBoem" class="trenntoiletteImageSieger img-fluid w-100"
+                        format="webp" quality="90" />
+                    </a>
+                  </div>
+                </div>
+                <div class="content mt-3">
+                  <h4 class="mb-0">
+                    <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">KersaBœm</a>
+                  </h4>
+                  <p class="lead">Trobolo</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-6 mb-4">
+              <div class="position-relative doctor-inner-box">
+                <div class="doctor-profile">
+                  <div class="doctor-img">
+                    <a href="/trobolo-kitaboem/" title="TROBOLO KitaBœm">
+                      <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-kitaboem.webp"
+                        alt="Trenntoilette TROBOLO KitaBoem" class="trenntoiletteImageSieger img-fluid w-100"
+                        format="webp" quality="90" />
+                    </a>
+                  </div>
+                </div>
+                <div class="content mt-3">
+                  <h4 class="mb-0">
+                    <a href="/trobolo-kitaboem/" title="TROBOLO KitaBoem">KitaBœm</a>
+                  </h4>
+                  <p class="lead">Trobolo</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-6 mb-4">
+              <div class="position-relative doctor-inner-box">
+                <div class="doctor-profile">
+                  <div class="doctor-img">
+                    <a href="/trobolo-wandago/" title="TROBOLO WandaGO">
+                      <nuxt-img src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
+                        alt="Campingtoilette TROBOLO WandaGO" class="trenntoiletteImageSieger img-fluid w-100"
+                        format="webp" quality="90" />
+                    </a>
+                  </div>
+                </div>
+                <div class="content mt-3">
+                  <h4 class="mb-0">
+                    <a href="/trobolo-wandago/" title="TROBOLO WandaGO">WandaGO</a>
+                  </h4>
+                  <p class="lead">Trobolo</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-6 mb-4">
+              <div class="position-relative doctor-inner-box">
+                <div class="doctor-profile">
+                  <div class="doctor-img">
+                    <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
+                      <nuxt-img src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
+                        alt="Camping Toilette Kildwick MiniLoo" class="trenntoiletteImageSieger img-fluid w-100"
+                        format="webp" quality="90" />
+                    </a>
+                  </div>
+                </div>
+                <div class="content mt-3">
+                  <h4 class="mb-0">
+                    <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">Kildwick MiniLoo</a>
+                  </h4>
+                  <p class="lead">Kildwick</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-6 mb-4">
+              <div class="position-relative doctor-inner-box">
+                <div class="doctor-profile">
+                  <div class="doctor-img">
+                    <nuxt-link to="/trelino-origin-l/" title="Trelino Origin L">
+                      <nuxt-img src="/images/trenntoiletten/trenntoilette-trelino-origin-l.webp" alt="Trelino Origin L"
+                        class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
+                    </nuxt-link>
+                  </div>
+                </div>
+                <div class="content mt-3">
+                  <h4 class="mb-0">
+                    <a href="/trelino-origin-l/" title="Trelino Origin L">Trelino Origin L</a>
+                  </h4>
+                  <p class="lead">Trelino</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-6 mb-4">
+              <div class="position-relative doctor-inner-box">
+                <div class="doctor-profile">
+                  <div class="doctor-img">
+                    <nuxt-link to="/separett-weekend/" title="Separett Weekend">
+                      <nuxt-img src="/images/trenntoiletten/trenntoilette-separett-weekend.webp"
+                        alt="Trenntoilette Separett Weekend" class="trenntoiletteImageSieger img-fluid w-100"
+                        format="webp" quality="90" />
+                    </nuxt-link>
+                  </div>
+                </div>
+                <div class="content mt-3">
+                  <h4 class="mb-0">
+                    <nuxt-link to="/separett-weekend/" title="Separett Weekend">
+                      <a title="Separett Weekend">Separett Weekend</a>
+                    </nuxt-link>
+                  </h4>
+                  <p class="lead">Separett</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-6 mb-4">
+              <div class="position-relative doctor-inner-box">
+                <div class="doctor-profile">
+                  <div class="doctor-img">
+                    <nuxt-link to="/trelino-evo-s/" title="Trelino Evo S">
+                      <nuxt-img src="/images/trenntoiletten/trelino-evo-s.webp" alt="Trelino Evo S"
+                        class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
+                    </nuxt-link>
+                  </div>
+                </div>
+                <div class="content mt-3">
+                  <h4 class="mb-0">
+                    <a href="/trelino-evo-s/" title="Trelino Trelino">Trelino Evo S</a>
+                  </h4>
+                  <p class="lead">Trelino</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- trobolo teragoe -->
+            <div class="col-lg-3 col-sm-6 col-md-6 mb-4">
+              <div class="position-relative doctor-inner-box">
+                <div class="doctor-profile">
+                  <div class="doctor-img">
+                    <nuxt-link to="/trobolo-terago/" title="TROBOLO TeraGO">
+                      <nuxt-img src="/images/trenntoiletten/campingtoilette-trobolo-terago.webp"
+                        alt="Campingtoilette TROBOLO TeraGO" class="trenntoiletteImageSieger img-fluid w-100"
+                        format="webp" quality="90" />
+                    </nuxt-link>
+                  </div>
+                </div>
+                <div class="content mt-3">
+                  <h4 class="mb-0">
+                    <nuxt-link to="/trobolo-terago/" title="TROBOLO TeraGO">
+                      <a title="TROBOLO TeraGO">TROBOLO TeraGO</a>
+                    </nuxt-link>
+                  </h4>
+                  <p class="lead">TROBOLO</p>
+                </div>
+              </div>
+            </div>
+            <!--end trobolo terago-->
+
+            <!-- easyloo kildwick -->
+            <div class="col-lg-3 col-sm-6 col-md-6 mb-4">
+              <div class="position-relative doctor-inner-box">
+                <div class="doctor-profile">
+                  <div class="doctor-img">
+                    <nuxt-link to="/kildwick-easyloo/" title="Kildwick EasyLoo">
+                      <nuxt-img src="/images/trenntoiletten/trenntoilette-kildwick-easyloo.webp" alt="Kildwick EasyLoo"
+                        class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
+                    </nuxt-link>
+                  </div>
+                </div>
+                <div class="content mt-3">
+                  <h4 class="mb-0">
+                    <a href="/kildwick-easyloo/" title="Kildwick EasyLoo">Kildwick EasyLoo</a>
+                  </h4>
+                  <p class="lead">Kildwick</p>
+                </div>
+              </div>
+            </div>
+            <!-- easyloo kildwick end -->
+
+            <!-- trelino origin s -->
+            <div class="col-lg-3 col-sm-6 col-md-6 mb-4">
+              <div class="position-relative doctor-inner-box">
+                <div class="doctor-profile">
+                  <div class="doctor-img">
+                    <nuxt-link to="/trelino-origin-s/" title="Trelino Origin S">
+                      <nuxt-img src="/images/trenntoiletten/campingtoilette-trelino-origin-s.webp"
+                        alt="Campingtoilette Trelino Origin S" class="trenntoiletteImageSieger img-fluid w-100"
+                        format="webp" quality="90" />
+                    </nuxt-link>
+                  </div>
+                </div>
+                <div class="content mt-3">
+                  <h4 class="mb-0">
+                    <nuxt-link to="/trelino-origin-s/" title="Trelino Origin S">
+                      <a title="Trelino Origin S">Trelino Origin S</a>
+                    </nuxt-link>
+                  </h4>
+                  <p class="lead">Trelino</p>
+                </div>
+              </div>
+            </div>
+            <!--end trelino origin s-->
+
           </div>
         </div>
+      </section>
+    </template>
 
-        <div class="col-12 text-center mb-5">
-          <div class="btn-group btn-group-toggle" data-toggle="buttons">
-            <label class="btn active">
-              <input type="radio" name="shuffle-filter" value="all" checked="checked" />Alle Einsatzgebiete
-            </label>
-            <label class="btn">
-              <input type="radio" name="shuffle-filter" value="haus" />Haus
-            </label>
-            <label class="btn">
-              <input type="radio" name="shuffle-filter" value="garten" />Garten
-            </label>
-            <label class="btn">
-              <input type="radio" name="shuffle-filter" value="camping" />Camping
-            </label>
-          </div>
-        </div>
-
-        <div class="row shuffle-wrapper portfolio-gallery">
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['haus']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
-                      alt="Trenntoilette TROBOLO TeraBloem" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
-                      quality="90" />
-                  </a>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">TeraBlœm</a>
-                </h4>
-                <p class="lead">Trobolo</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['garten']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
-                      alt="Trenntoilette TROBOLO KersaBoem" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
-                      quality="90" />
-                  </a>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">KersaBœm</a>
-                </h4>
-                <p class="lead">Trobolo</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['garten']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <a href="/trobolo-kitaboem/" title="TROBOLO KitaBœm">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-kitaboem.webp"
-                      alt="Trenntoilette TROBOLO KitaBoem" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
-                      quality="90" />
-                  </a>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/trobolo-kitaboem/" title="TROBOLO KitaBoem">KitaBœm</a>
-                </h4>
-                <p class="lead">Trobolo</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <a href="/trobolo-wandago/" title="TROBOLO WandaGO">
-                    <nuxt-img src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
-                      alt="Campingtoilette TROBOLO WandaGO" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
-                      quality="90" />
-                  </a>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/trobolo-wandago/" title="TROBOLO WandaGO">WandaGO</a>
-                </h4>
-                <p class="lead">Trobolo</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping','haus']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
-                      alt="Camping Toilette Kildwick MiniLoo" class="trenntoiletteImageSieger img-fluid w-100"
-                      format="webp" quality="90" />
-                  </a>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">Kildwick MiniLoo</a>
-                </h4>
-                <p class="lead">Kildwick</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping', 'haus']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <nuxt-link to="/trelino-origin-l/" title="Trelino Origin L">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-trelino-origin-l.webp" alt="Trelino Origin L"
-                      class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
-                  </nuxt-link>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/trelino-origin-l/" title="Trelino Origin L">Trelino Origin L</a>
-                </h4>
-                <p class="lead">Trelino</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['haus']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <nuxt-link to="/separett-weekend/" title="Separett Weekend">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-separett-weekend.webp"
-                      alt="Trenntoilette Separett Weekend" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
-                      quality="90" />
-                  </nuxt-link>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <nuxt-link to="/separett-weekend/" title="Separett Weekend">
-                    <a title="Separett Weekend">Separett Weekend</a>
-                  </nuxt-link>
-                </h4>
-                <p class="lead">Separett</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <nuxt-link to="/trelino-evo-s/" title="Trelino Evo S">
-                    <nuxt-img src="/images/trenntoiletten/trelino-evo-s.webp" alt="Trelino Evo S"
-                      class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
-                  </nuxt-link>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/trelino-evo-s/" title="Trelino Trelino">Trelino Evo S</a>
-                </h4>
-                <p class="lead">Trelino</p>
-              </div>
-            </div>
-          </div>
-
-          <!-- easyloo kildwick -->
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping', 'haus', 'garten]">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <nuxt-link to="/kildwick-easyloo/" title="Kildwick EasyLoo">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-kildwick-easyloo.webp" alt="Kildwick EasyLoo"
-                      class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
-                  </nuxt-link>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/kildwick-easyloo/" title="Kildwick EasyLoo">Kildwick EasyLoo</a>
-                </h4>
-                <p class="lead">Kildwick</p>
-              </div>
-            </div>
-          </div>
-          <!-- easyloo kildwick end -->
-
-          <!-- trobolo teragoe -->
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <nuxt-link to="/trobolo-terago/" title="TROBOLO TeraGO">
-                    <nuxt-img src="/images/trenntoiletten/campingtoilette-trobolo-terago.webp"
-                      alt="Campingtoilette TROBOLO TeraGO" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
-                      quality="90" />
-                  </nuxt-link>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <nuxt-link to="/trobolo-terago/" title="TROBOLO TeraGO">
-                    <a title="TROBOLO TeraGO">TROBOLO TeraGO</a>
-                  </nuxt-link>
-                </h4>
-                <p class="lead">TROBOLO</p>
-              </div>
-            </div>
-          </div>
-          <!--end trobolo terago-->
-
-
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['haus']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-terabloem.webp"
-                      alt="Trenntoilette TROBOLO TeraBloem" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
-                      quality="90" />
-                  </a>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">TeraBlœm</a>
-                </h4>
-                <p class="lead">Trobolo</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['garten']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
-                      alt="Trenntoilette TROBOLO KersaBoem" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
-                      quality="90" />
-                  </a>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">KersaBœm</a>
-                </h4>
-                <p class="lead">Trobolo</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['garten']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <a href="/trobolo-kitaboem/" title="TROBOLO KitaBœm">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-trobolo-kitaboem.webp"
-                      alt="Trenntoilette TROBOLO KitaBoem" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
-                      quality="90" />
-                  </a>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/trobolo-kitaboem/" title="TROBOLO KitaBoem">KitaBœm</a>
-                </h4>
-                <p class="lead">Trobolo</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <a href="/trobolo-wandago/" title="TROBOLO WandaGO">
-                    <nuxt-img src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
-                      alt="Campingtoilette TROBOLO WandaGO" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
-                      quality="90" />
-                  </a>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/trobolo-wandago/" title="TROBOLO WandaGO">WandaGO</a>
-                </h4>
-                <p class="lead">Trobolo</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping','haus']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-kildwick-miniloo.webp"
-                      alt="Camping Toilette Kildwick MiniLoo" class="trenntoiletteImageSieger img-fluid w-100"
-                      format="webp" quality="90" />
-                  </a>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">Kildwick MiniLoo</a>
-                </h4>
-                <p class="lead">Kildwick</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping', 'haus']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <nuxt-link to="/trelino-origin-l/" title="Trelino Origin L">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-trelino-origin-l.webp" alt="Trelino Origin L"
-                      class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
-                  </nuxt-link>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/trelino-origin-l/" title="Trelino Origin L">Trelino Origin L</a>
-                </h4>
-                <p class="lead">Trelino</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['haus']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <nuxt-link to="/separett-weekend/" title="Separett Weekend">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-separett-weekend.webp"
-                      alt="Trenntoilette Separett Weekend" class="trenntoiletteImageSieger img-fluid w-100" format="webp"
-                      quality="90" />
-                  </nuxt-link>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <nuxt-link to="/separett-weekend/" title="Separett Weekend">
-                    <a title="Separett Weekend">Separett Weekend</a>
-                  </nuxt-link>
-                </h4>
-                <p class="lead">Separett</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <nuxt-link to="/trelino-evo-s/" title="Trelino Evo S">
-                    <nuxt-img src="/images/trenntoiletten/trelino-evo-s.webp" alt="Trelino Evo S"
-                      class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
-                  </nuxt-link>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/trelino-evo-s/" title="Trelino Trelino">Trelino Evo S</a>
-                </h4>
-                <p class="lead">Trelino</p>
-              </div>
-            </div>
-          </div>
-
-          <!-- easyloo kildwick -->
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping', 'haus', 'garten]">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <nuxt-link to="/kildwick-easyloo/" title="Kildwick EasyLoo">
-                    <nuxt-img src="/images/trenntoiletten/trenntoilette-kildwick-easyloo.webp" alt="Kildwick EasyLoo"
-                      class="trenntoiletteImageSieger img-fluid w-100" format="webp" quality="90" />
-                  </nuxt-link>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <a href="/kildwick-easyloo/" title="Kildwick EasyLoo">Kildwick EasyLoo</a>
-                </h4>
-                <p class="lead">Kildwick</p>
-              </div>
-            </div>
-          </div>
-          <!-- easyloo kildwick end -->
-
-          <!-- trelino origin s -->
-          <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="['camping']">
-            <div class="position-relative doctor-inner-box">
-              <div class="doctor-profile">
-                <div class="doctor-img">
-                  <nuxt-link to="/trelino-origin-s/" title="Trelino Origin S">
-                    <nuxt-img src="/images/trenntoiletten/campingtoilette-trelino-origin-s.webp"
-                      alt="Campingtoilette Trelino Origin S" class="trenntoiletteImageSieger img-fluid w-100"
-                      format="webp" quality="90" />
-                  </nuxt-link>
-                </div>
-              </div>
-              <div class="content mt-3">
-                <h4 class="mb-0">
-                  <nuxt-link to="/trelino-origin-s/" title="Trelino Origin S">
-                    <a title="Trelino Origin S">Trelino Origin S</a>
-                  </nuxt-link>
-                </h4>
-                <p class="lead">Trelino</p>
-              </div>
-            </div>
-          </div>
-          <!--end trelino origin s-->
-
-
-        </div>
-
-      </div>
-    </section>
 
     <section id="kontakt" class="section appoinment">
       <div class="container">
@@ -1076,7 +881,7 @@ export default {
           src: "/plugins/slick-carousel/slick/slick.min.js",
           type: "text/javascript",
         },
-        { src: "/plugins/shuffle/shuffle.min.js", type: "text/javascript" },
+        // { src: "/plugins/shuffle/shuffle.min.js", type: "text/javascript" },
       ],
     };
   },
