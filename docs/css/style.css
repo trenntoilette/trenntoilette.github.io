@@ -1,6 +1,7 @@
 /*=== MEDIA QUERY ===*/
 
 @import url("https://fonts.googleapis.com/css?family=Exo:500,600,700|Roboto&display=swap");
+
 html {
     overflow-x: hidden;
 }
@@ -358,6 +359,7 @@ a:focus {
 }
 
 @media (max-width: 480px) {
+
     h2,
     .h2 {
         font-size: 1.3rem;
@@ -534,6 +536,7 @@ a:focus {
         font-size: 48px;
         line-height: 50px;
     }
+
     .banner {
         min-height: 450px;
         background-size: cover;
@@ -546,6 +549,7 @@ a:focus {
         font-size: 38px;
         line-height: 40px;
     }
+
     .banner {
         min-height: 450px;
         background-size: cover;
@@ -557,6 +561,7 @@ a:focus {
     .banner .block h1 {
         line-height: 58px;
     }
+
     .banner {
         background-size: cover;
         background: linear-gradient(134deg, #245037 0, #2ecc9d 100%)
@@ -832,6 +837,7 @@ a:focus {
     .doctors .btn-group {
         display: block;
     }
+
     .doctors .btn-group .btn {
         margin: 8px 3px;
     }
@@ -841,6 +847,7 @@ a:focus {
     .doctors .btn-group {
         display: block;
     }
+
     .doctors .btn-group .btn {
         margin: 8px 3px;
     }
@@ -850,6 +857,7 @@ a:focus {
     .doctors .btn-group {
         display: block;
     }
+
     .doctors .btn-group .btn {
         margin: 8px 3px;
     }
@@ -982,6 +990,7 @@ a:focus {
     .testimonial-wrap {
         margin-left: 0px;
     }
+
     .testimonial::before {
         display: none;
     }
@@ -991,6 +1000,7 @@ a:focus {
     .testimonial-wrap {
         margin-left: 0px;
     }
+
     .testimonial::before {
         display: none;
     }
@@ -1000,6 +1010,7 @@ a:focus {
     .testimonial-wrap {
         margin-left: 0px;
     }
+
     .testimonial::before {
         display: none;
     }
@@ -1009,6 +1020,7 @@ a:focus {
     .testimonial-wrap {
         margin-left: 0px;
     }
+
     .testimonial::before {
         display: none;
     }

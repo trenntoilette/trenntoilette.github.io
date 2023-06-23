@@ -19,7 +19,7 @@
                     </div>
                     <div class="col-lg-8 offset-lg-2 pb-5 text-center"
                         style="margin-top: -100px; display: flex; justify-content: center; align-items: center;">
-                        <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-1.png" format="webp"
+                        <nuxt-img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-1.png" format="webp"
                             quality="90" alt="Die beste Trenntoilette 2023" style="border-radius: 10px; max-width: 100%;"
                             class="img-fluid" />
                     </div>
@@ -51,7 +51,7 @@
                                 Wie Trenntoiletten das
                                 Wohnmobil erobern
                             </h2>
-                            <img src="/images/landingpage/bild2.png" class="pt-5 img-fluid contentImage" format="webp"
+                            <nuxt-img src="/images/landingpage/bild2.png" class="pt-5 img-fluid contentImage" format="webp"
                                 quality="90" />
 
                             <p class="lead pb-5" style="color: #000 !important; font-size: 14px">
@@ -104,7 +104,7 @@
                             <h2 class="pt-5">Ein Hersteller revolutioniert die Camping-Trenntoilette</h2>
 
 
-                            <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-3.png"
+                            <nuxt-img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-3.png"
                                 class="pt-5 img-fluid contentImage" format="webp" quality="90" />
                             <p class="lead" style="color: #000 !important; font-size: 14px">
                                 Passt in jeden Campervan z.B. perfekt in das Toilettenfach von VW
@@ -137,7 +137,7 @@
 
                             <h3 class="pt-5">1. Sitzhöhe durch Stapelfunktion.</h3>
 
-                            <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-stapelfunktion.gif"
+                            <nuxt-img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-stapelfunktion.gif"
                                 class="pt-3 img-fluid" />
 
 
@@ -148,7 +148,7 @@
                                 kompakt verstaut werden und bietet gleichzeitig so viel Komfort.
                             </div>
 
-                            <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-4.png"
+                            <nuxt-img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-4.png"
                                 class="pt-5 img-fluid contentImage" />
 
                             <p class="lead pb-5" style="color: #000 !important; font-size: 14px">
@@ -159,8 +159,8 @@
                                 durch TROBOLO SafeShell System
                             </h3>
 
-                            <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-animation.gif"
-                                class="pt-5 img-fluid" />
+                            <nuxt-img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-animation.gif"
+                                class="pt-5 img-fluid contentImage" />
 
                             <div class="lead pb-5 text-left" style="color: #000 !important">
                                 Das praktische SafeShell System schützt vor dem
@@ -173,7 +173,7 @@
 
                             <h2 class="pt-5">Weitere Vorteile gegenüber anderen Herstellern</h2>
 
-                            <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-SETPIC.jpg"
+                            <nuxt-img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-SETPIC.jpg"
                                 class="pt-3 img-fluid contentImage" />
 
                             <div class="pt-5 pb-5 lead text-justify" style="color: #000 !important">
@@ -193,7 +193,7 @@
 
                             <h2 class="pt-5">Kundenbewertungen Übersicht</h2>
 
-                            <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-5.png"
+                            <nuxt-img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-5.png"
                                 class="pt-5 img-fluid contentImage" />
 
 
@@ -206,17 +206,17 @@
                                 Trenntoilette auf dem Markt.</div>
 
                             <div class="row">
-                                <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-6.png"
-                                    class="pt-5 img-fluid" />
+                                <nuxt-img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-6.png"
+                                    class="pt-5 img-fluid contentImage" />
                             </div>
                             <div class="row">
-                                <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-7.png"
-                                    class="pt-5 img-fluid" />
+                                <nuxt-img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-7.png"
+                                    class="pt-5 img-fluid contentImage" />
                             </div>
 
                             <div class="row pb-5">
-                                <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-8.png"
-                                    class="pt-5 img-fluid" />
+                                <nuxt-img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-8.png"
+                                    class="pt-5 img-fluid contentImage" />
                             </div>
 
                             <h2 class="pt-5 pb-3">Fazit</h2>
@@ -236,7 +236,7 @@
                                 moderne Lösung für den Urlaub mit dem
                                 Wohnmobil."</h3>
 
-                            <img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-9.jpg"
+                            <nuxt-img src="/images/blog/die-beste-trenntoilette/die-beste-trenntoilette-9.jpg"
                                 class="pt-5 img-fluid contentImage" />
 
                             <div class="btn-container pt-5 pb-5">
@@ -261,14 +261,12 @@
   
 <style scoped>
 .contentImage {
-    width: 70vh;
+    width: 100%;
 
 }
 </style>
   
 <script>
-
-
 export default {
     name: "die-beste-trenntoilette",
     head: {
