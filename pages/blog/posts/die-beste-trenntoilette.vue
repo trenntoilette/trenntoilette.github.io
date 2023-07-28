@@ -219,6 +219,13 @@
                                     class="pt-5 img-fluid contentImage" />
                             </div>
 
+                            <div class="row pb-5 pt-5">
+                                <video class="img-fluid" controls>
+                                    <source src="/videos/leon.webm" type="video/webm">
+                                    Your browser does not support the video tag
+                                </video>
+                            </div>
+
                             <h2 class="pt-5 pb-3">Fazit</h2>
 
                             <div class="pt-5 lead text-left"
