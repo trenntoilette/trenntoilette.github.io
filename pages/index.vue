@@ -346,7 +346,7 @@
                 </div>
                 <div class="content mt-3">
                   <h4 class="mb-0">
-                    <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">TeraBlœm</a>
+                    <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">TROBOLO TeraBlœm</a>
                   </h4>
                   <p class="lead">TROBOLO</p>
                 </div>
@@ -367,7 +367,7 @@
                 </div>
                 <div class="content mt-3">
                   <h4 class="mb-0">
-                    <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">KersaBœm</a>
+                    <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">TROBOLO KersaBœm</a>
                   </h4>
                   <p class="lead">TROBOLO</p>
                 </div>
@@ -387,7 +387,7 @@
                 </div>
                 <div class="content mt-3">
                   <h4 class="mb-0">
-                    <a href="/trobolo-kitaboem/" title="TROBOLO KitaBoem">KitaBœm</a>
+                    <a href="/trobolo-kitaboem/" title="TROBOLO KitaBoem">TROBOLO KitaBœm</a>
                   </h4>
                   <p class="lead">TROBOLO</p>
                 </div>
@@ -407,7 +407,7 @@
                 </div>
                 <div class="content mt-3">
                   <h4 class="mb-0">
-                    <a href="/trobolo-wandago/" title="TROBOLO WandaGO">WandaGO</a>
+                    <a href="/trobolo-wandago/" title="TROBOLO WandaGO">TROBOLO WandaGO</a>
                   </h4>
                   <p class="lead">TROBOLO</p>
                 </div>
