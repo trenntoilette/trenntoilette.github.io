@@ -6,10 +6,8 @@
         <div class="row">
           <div class="col-md-12">
             <div class="block text-center">
-              <span class="text-white font-weight-bold text-lg"
-                >Die ideale Trenntolette für Familien, Kitas und
-                Kindergärten</span
-              >
+              <span class="text-white font-weight-bold text-lg">Die ideale Trenntolette für Familien, Kitas und
+                Kindergärten</span>
               <h1 class="text-capitalize mb-5 text-lg">TROBOLO® KitaBœm</h1>
 
               <!-- <ul class="list-inline breadcumb-nav">
@@ -28,11 +26,8 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="department-img">
-              <img
-                src="/images/trenntoiletten/trenntoilette-trobolo-kitaboem.webp"
-                alt="TROBOLO KitaBœm - Trenntoilette für Erwachsene und Kinder"
-                class="img-fluid"
-              />
+              <img src="/images/trenntoiletten/trenntoilette-trobolo-kitaboem.webp"
+                alt="TROBOLO KitaBœm - Trenntoilette für Erwachsene und Kinder" class="img-fluid" />
             </div>
           </div>
         </div>
@@ -88,11 +83,7 @@
                 Die TROBOLO® KitaBœm Gartentoilette für den Außenbereich kommt
                 als vorgefertigter Bausatz. Der Aufbau und die Inbetriebnahme
                 war sehr einfach. Auch hier ist wie bei der
-                <a
-                  href="/trobolo-terabloem"
-                  title="Trenntoilette TROBOLO TeraBlœm im Test"
-                  >TROBOLO® TeraBlœm</a
-                >
+                <a href="/trobolo-terabloem" title="Trenntoilette TROBOLO TeraBlœm im Test">TROBOLO® TeraBlœm</a>
                 kein großes, handwerkliches Geschick notwendig gewesen.
               </p>
 
@@ -173,14 +164,8 @@
               </div>
             </div>
             <div class="text-center">
-              <a
-                href="https://trobolo.com/de/produkte/kitaboem/"
-                target="_blank"
-                rel="nofollow noopener noreferrer"
-                title="KitaBœm online bestellen"
-                class="btn btn-main-2 btn-round-full"
-                >Online Bestellen ></a
-              >
+              <a href="https://trobolo.com/de/produkte/kitaboem/" target="_blank" rel="nofollow noopener noreferrer"
+                title="KitaBœm online bestellen" class="btn btn-main-2 btn-round-full">Online Bestellen ></a>
             </div>
           </div>
         </div>
@@ -193,7 +178,7 @@
 export default {
   name: "TroboloKitaboem",
   head: {
-    title: "Trobolo KitaBœm - Trenntoilette für Kinder und Erwachsene",
+    title: "TROBOLO KitaBœm - Trenntoilette für Kinder und Erwachsene",
     link: [{ rel: "canonical", href: "/trobolo-kitaboem/" }],
     meta: [
       {

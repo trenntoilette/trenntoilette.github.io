@@ -6,10 +6,8 @@
         <div class="row">
           <div class="col-md-12">
             <div class="block text-center">
-              <span class="text-white font-weight-bold text-lg"
-                >Platz 1 in der Kategorie "Trenntoilette f&uuml;r den
-                Garten"</span
-              >
+              <span class="text-white font-weight-bold text-lg">Platz 1 in der Kategorie "Trenntoilette f&uuml;r den
+                Garten"</span>
               <h1 class="text-capitalize mb-5 text-lg">TROBOLO® KersaBœm</h1>
 
               <!-- <ul class="list-inline breadcumb-nav">
@@ -28,11 +26,8 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="department-img">
-              <img
-                src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
-                alt="Garten Trenntoilette TROBOLO KersaBoem"
-                class="img-fluid"
-              />
+              <img src="/images/trenntoiletten/trenntoilette-trobolo-kersaboem.webp"
+                alt="Garten Trenntoilette TROBOLO KersaBoem" class="img-fluid" />
             </div>
           </div>
         </div>
@@ -118,14 +113,8 @@
               </div>
             </div>
             <div class="text-center">
-              <a
-                href="https://trobolo.com/de/produkte/kersaboem/"
-                target="_blank"
-                rel="nofollow noopener noreferrer"
-                title="KersaBoem online bestellen"
-                class="btn btn-main-2 btn-round-full"
-                >Online Bestellen ></a
-              >
+              <a href="https://trobolo.com/de/produkte/kersaboem/" target="_blank" rel="nofollow noopener noreferrer"
+                title="KersaBoem online bestellen" class="btn btn-main-2 btn-round-full">Online Bestellen ></a>
             </div>
           </div>
         </div>
@@ -138,7 +127,7 @@
 export default {
   name: "TroboloKersaboem",
   head: {
-    title: "Trobolo KersaBoem - Testsieger",
+    title: "TROBOLO KersaBoem - Testsieger",
     link: [{ rel: "canonical", href: "/trobolo-kersaboem/" }],
     meta: [
       {

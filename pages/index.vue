@@ -148,7 +148,7 @@
                 </h5>
                 <h3 class="mt-4 mb-2 title-color">TROBOLO® TeraBlœm</h3>
                 <p class="mb-4 lead">
-                  Testsieger TeraBlœm von Trobolo. Ausgezeichnete Qualität bei
+                  Testsieger TeraBlœm von TROBOLO. Ausgezeichnete Qualität bei
                   bestem Komfort und Preis.
                 </p>
                 <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">
@@ -170,7 +170,7 @@
                 </h5>
                 <h3 class="mt-4 mb-2 title-color">TROBOLO® KersaBœm</h3>
                 <p class="mb-4 lead">
-                  Testsieger KersaBœm von Trobolo. Autarke Trenntoilette für den
+                  Testsieger KersaBœm von TROBOLO. Autarke Trenntoilette für den
                   Garten. Mit Trenn- und Abluftsystem.
                 </p>
                 <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">
@@ -348,7 +348,7 @@
                   <h4 class="mb-0">
                     <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">TeraBlœm</a>
                   </h4>
-                  <p class="lead">Trobolo</p>
+                  <p class="lead">TROBOLO</p>
                 </div>
               </div>
             </div>
@@ -369,7 +369,7 @@
                   <h4 class="mb-0">
                     <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">KersaBœm</a>
                   </h4>
-                  <p class="lead">Trobolo</p>
+                  <p class="lead">TROBOLO</p>
                 </div>
               </div>
             </div>
@@ -389,7 +389,7 @@
                   <h4 class="mb-0">
                     <a href="/trobolo-kitaboem/" title="TROBOLO KitaBoem">KitaBœm</a>
                   </h4>
-                  <p class="lead">Trobolo</p>
+                  <p class="lead">TROBOLO</p>
                 </div>
               </div>
             </div>
@@ -409,7 +409,7 @@
                   <h4 class="mb-0">
                     <a href="/trobolo-wandago/" title="TROBOLO WandaGO">WandaGO</a>
                   </h4>
-                  <p class="lead">Trobolo</p>
+                  <p class="lead">TROBOLO</p>
                 </div>
               </div>
             </div>

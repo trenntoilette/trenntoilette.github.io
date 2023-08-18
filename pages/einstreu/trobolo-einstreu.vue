@@ -6,9 +6,8 @@
         <div class="row">
           <div class="col-md-12">
             <div class="block text-center">
-              <span class="text-white font-weight-bold text-lg"
-                >Platz 1 in der Kategorie "Einstreu für die Trenntoilette"</span
-              >
+              <span class="text-white font-weight-bold text-lg">Platz 1 in der Kategorie "Einstreu für die
+                Trenntoilette"</span>
               <h1 class="text-capitalize mb-5 text-lg">TROBOLO® Einstreu</h1>
 
               <!-- <ul class="list-inline breadcumb-nav">
@@ -27,13 +26,8 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="department-img">
-              <nuxt-img
-                src="/images/einstreu/trobolo-einstreu.jpg"
-                alt="Trenntoilette Einstreu von TROBOLO"
-                class="img-fluid"
-                quality="80"
-                format="webp"
-              />
+              <nuxt-img src="/images/einstreu/trobolo-einstreu.jpg" alt="Trenntoilette Einstreu von TROBOLO"
+                class="img-fluid" quality="80" format="webp" />
             </div>
           </div>
         </div>
@@ -111,14 +105,8 @@
               </div>
             </div>
             <div class="text-center">
-              <a
-                href="https://trobolo.com/de/produkte/einstreu/"
-                target="_blank"
-                rel="nofollow noopener"
-                title="TROBOLO Einstreu online bestellen"
-                class="btn btn-main-2 btn-round-full"
-                >Online Bestellen ></a
-              >
+              <a href="https://trobolo.com/de/produkte/einstreu/" target="_blank" rel="nofollow noopener"
+                title="TROBOLO Einstreu online bestellen" class="btn btn-main-2 btn-round-full">Online Bestellen ></a>
             </div>
           </div>
         </div>
@@ -131,7 +119,7 @@
 export default {
   name: "TroboloEinstreu",
   head: {
-    title: "Trobolo Einstreu - Testsieger",
+    title: "TROBOLO Einstreu - Testsieger",
     meta: [
       {
         hid: "author",

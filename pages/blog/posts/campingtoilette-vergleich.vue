@@ -6,20 +6,14 @@
           <div class="col-lg-6 col-md-12 col-xl-7">
             <div class="block">
               <div class="divider mb-3"></div>
-              <span class="text-uppercase lead letter-spacing text-light"
-                >Blog Beitrag</span
-              >
+              <span class="text-uppercase lead letter-spacing text-light">Blog Beitrag</span>
               <h1 class="mb-3 mt-3 text-light">
                 Campingtoiletten unter 250 € - Der Vergleich
               </h1>
 
               <p class="lead mb-4 pr-5 text-light"></p>
               <div class="btn-container">
-                <a
-                  href="#article"
-                  class="btn btn-main-2 btn-icon btn-round-full"
-                  >Artikel lesen ></a
-                >
+                <a href="#article" class="btn btn-main-2 btn-icon btn-round-full">Artikel lesen ></a>
               </div>
             </div>
           </div>
@@ -42,9 +36,7 @@
                 Das liegt nicht zuletzt daran, dass es mittlerweile eine
                 Vielzahl unterschiedlicher Modelle und Auswahlmöglichkeiten
                 gibt. Wer eine
-                <nuxt-link to="/campingtoilette/" title="Campingtoilette"
-                  >Campingtoilette</nuxt-link
-                >
+                <nuxt-link to="/campingtoilette/" title="Campingtoilette">Campingtoilette</nuxt-link>
                 für unterwegs sucht, hat die Qual der Wahl. Soll es eine
                 Chemietoilette oder eine Trenntoilette werden? Und welches
                 Modell genau?
@@ -62,9 +54,7 @@
 
               <p class="text-justify lead">
                 Dass es bei uns bei
-                <nuxt-link to="/" title="Trenntoiletten Test"
-                  >trenntoilette.net</nuxt-link
-                >
+                <nuxt-link to="/" title="Trenntoiletten Test">trenntoilette.net</nuxt-link>
                 überwiegend um Trenntoiletten geht, liegt in der Natur der
                 Sache. Doch wir erkennen natürlich an, dass gerade im Bereich
                 Camping auch Chemietoiletten in Frage kommen können. Wir denken,
@@ -152,18 +142,13 @@
 
             <p class="text-justify lead">
               Trenntoiletten fürs Camping, wie das MicroLoo von
-              <nuxt-link to="/hersteller/kildwick/" title="Kildwick"
-                >Kildwick</nuxt-link
-              >
+              <nuxt-link to="/hersteller/kildwick/" title="Kildwick">Kildwick</nuxt-link>
               oder das Trelino M kosten dagegen fast 600,00 €. Das günstigste
               Modell von Trelino, das Trelino S, kostet immerhin noch 419,00 €.
               Eine Trenntoilette, die preislich mit Chemietoiletten mithalten
               kann, ist das
-              <nuxt-link
-                to="/trobolo-wandago/"
-                title="Campingtoilette TROBOLO WandaGO"
-                >TROBOLO WandaGO</nuxt-link
-              >, welches 249,00 € kostet.
+              <nuxt-link to="/trobolo-wandago/" title="Campingtoilette TROBOLO WandaGO">TROBOLO WandaGO</nuxt-link>,
+              welches 249,00 € kostet.
             </p>
 
             <p class="text-justify lead">
@@ -225,39 +210,23 @@
                   <th scope="col">
                     TROBOLO WandaGO
                     <p>
-                      <nuxt-img
-                        src="/images/trenntoiletten/campingtoilette-trobolo-wandago-2.webp"
-                        width="100"
-                        height="100"
-                        alt="Trobolo WandaGO"
-                      />
+                      <nuxt-img src="/images/trenntoiletten/campingtoilette-trobolo-wandago-2.webp" width="100"
+                        height="100" alt="TROBOLO WandaGO" />
                     </p>
                   </th>
 
                   <th scope="col">
                     PortaPotti 335
                     <p>
-                      <nuxt-img
-                        src="/images/trenntoiletten/porta-potti-335.jpg"
-                        format="webp"
-                        quality="90"
-                        height="100"
-                        width="100"
-                        alt="Porta Potti 335"
-                      />
+                      <nuxt-img src="/images/trenntoiletten/porta-potti-335.jpg" format="webp" quality="90" height="100"
+                        width="100" alt="Porta Potti 335" />
                     </p>
                   </th>
                   <th scope="col">
                     Dometic C976
                     <p>
-                      <nuxt-img
-                        src="/images/trenntoiletten/dometic-976.jpg"
-                        format="webp"
-                        quality="90"
-                        height="100"
-                        width="100"
-                        alt="Dometic 976"
-                      />
+                      <nuxt-img src="/images/trenntoiletten/dometic-976.jpg" format="webp" quality="90" height="100"
+                        width="100" alt="Dometic 976" />
                     </p>
                   </th>
                 </tr>

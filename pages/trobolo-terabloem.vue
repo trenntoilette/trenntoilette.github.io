@@ -120,7 +120,7 @@
 export default {
   name: "TroboloTerabloem",
   head: {
-    title: "Trobolo TeraBloem - Testsieger",
+    title: "TROBOLO TeraBloem - Testsieger",
     meta: [
       {
         hid: "author",

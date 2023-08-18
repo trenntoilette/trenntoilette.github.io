@@ -231,7 +231,7 @@
                             <div class="pt-5 lead text-left"
                                 style="color: #000 !important; border-radius: 2px; border-color: #000; border-style: solid; padding: 20px;">
                                 Sind Sie mit einem Campervan oder Wohnmobil
-                                unterwegs? Dann ist das Trobolo Wandago die beste
+                                unterwegs? Dann ist das TROBOLO Wandago die beste
                                 Wahl. Normale Sitzhöhe wie zu Hause,
                                 ausschwappsicher und geruchsfrei,
                                 umweltfreundlich und diskret zu Entsorgen... All das

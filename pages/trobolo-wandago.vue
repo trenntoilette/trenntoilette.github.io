@@ -6,9 +6,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="block text-center">
-              <span class="text-white font-weight-bold text-lg"
-                >Platz 1 in der Kategorie Campingtoilette</span
-              >
+              <span class="text-white font-weight-bold text-lg">Platz 1 in der Kategorie Campingtoilette</span>
               <h1 class="text-capitalize mb-5 text-lg">TROBOLO® WandaGO</h1>
 
               <!-- <ul class="list-inline breadcumb-nav">
@@ -27,11 +25,8 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="department-img">
-              <img
-                src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp"
-                alt="Campingtoilette TROBOLO WandaGO"
-                class="img-fluid"
-              />
+              <img src="/images/trenntoiletten/campingtoilette-trobolo-wandago.webp" alt="Campingtoilette TROBOLO WandaGO"
+                class="img-fluid" />
             </div>
           </div>
         </div>
@@ -126,14 +121,8 @@
               </div>
             </div>
             <div class="text-center">
-              <a
-                href="https://trobolo.com/de/produkte/wandago/"
-                target="_blank"
-                rel="nofollow noopener"
-                title="WandaGO online bestellen"
-                class="btn btn-main-2 btn-round-full"
-                >Online Bestellen ></a
-              >
+              <a href="https://trobolo.com/de/produkte/wandago/" target="_blank" rel="nofollow noopener"
+                title="WandaGO online bestellen" class="btn btn-main-2 btn-round-full">Online Bestellen ></a>
             </div>
           </div>
         </div>
@@ -146,7 +135,7 @@
 export default {
   name: "TroboloWandago",
   head: {
-    title: "Campingtoilette Trobolo WandaGO - Testsieger",
+    title: "Campingtoilette TROBOLO WandaGO - Testsieger",
     meta: [
       {
         hid: "author",

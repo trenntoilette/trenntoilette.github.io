@@ -57,7 +57,7 @@
                                 vorbestellbar ist. Die Maße beträgt: Breite 33,00 cm, Tiefe 39,00 cm, Höhe 29,00 cm. Das
                                 Gewicht beträgt lediglich 4,3 KG. Somit ist die kompakte Trenntoilette neben der
                                 <nuxt-link to="/trobolo-wandago/" title="TROBOLO WandaGO Testbericht">WandaGO von
-                                    Trobolo
+                                    TROBOLO
                                 </nuxt-link> eine der
                                 leichtesten, die auf dem Markt verfügbar sind.
                             </p>
