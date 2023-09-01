@@ -25,7 +25,23 @@ export default {
             { src: "/plugins/jquery/jquery.js", type: "text/javascript" },
             { src: "/plugins/bootstrap/js/bootstrap.min.js", type: "text/javascript" },
             // { src: "js/contact.js", type: "text/javascript" },
-        ]
+            {
+                src: 'https://www.googletagmanager.com/gtag/js?id=G-XGEWJYNFG5',
+                async: true,
+            },
+            {
+                innerHTML: `
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-XGEWJYNFG5');
+                `,
+            },
+        ],
+        __dangerouslyDisableSanitizersByTagID: {
+            // this is to prevent Nuxt from sanitizing the innerHTML
+            'google-gtag': ['innerHTML'],
+        },
     },
 
     // Global CSS: https://go.nuxtjs.dev/config-css
